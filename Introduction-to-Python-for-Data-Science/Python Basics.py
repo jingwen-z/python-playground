@@ -31,3 +31,29 @@ print(18 % 7)
 
 # How much is your $100 worth after 7 years?
 print(100 * 1.1 ** 7)
+
+### Variables & Types
+
+## Variable Assignment
+# Create a variable savings
+savings = 100
+
+# Print out savings
+print(savings)
+
+## Calculations with variables
+# Create a variable factor
+factor = 1.10
+
+# Calculate result
+result = savings * factor ** 7
+
+# Print out result
+print(result)
+
+## Other variable types
+# Create a variable desc
+desc = "compound interest"
+
+# Create a variable profitable
+profitable = True
