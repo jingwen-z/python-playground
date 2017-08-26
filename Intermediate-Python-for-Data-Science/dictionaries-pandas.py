@@ -5,7 +5,6 @@ Dictionaries & Pandas
 """
 Dictionaries
 """
-
 # Motivation for dictionaries
 # Definition of countries and capital
 countries = ['spain', 'france', 'germany', 'norway']
@@ -74,7 +73,6 @@ print(europe)
 """
 Pandas
 """
-
 # Import pandas as pd
 import pandas as pd
 
