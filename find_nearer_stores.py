@@ -61,9 +61,25 @@ def main():
     print('overstfDF:')
     print(overstf_df.head())
 
+    understf_df['storeAddrNo'] = understf_df['storeAddrNo'].astype(object)
+    overstf_df['employeeAddrNo'] = overstf_df['employeeAddrNo'].astype(object)
+    overstf_df['storeAddrNo'] = overstf_df['storeAddrNo'].astype(object)
+
     understf_df['storeZipcode'] = understf_df['storeZipcode'].apply(lambda x: complete_zipcode(str(x)))
     overstf_df['employeeZipcode'] = overstf_df['employeeZipcode'].apply(lambda x: complete_zipcode(str(x)))
     overstf_df['storeZipcode'] = overstf_df['storeZipcode'].apply(lambda x: complete_zipcode(str(x)))
+
+    print('understf - storeAddrNo isnull amount:')
+    print(sum(pd.isnull(understf_df['storeAddrNo'])))
+    print(pd.isnull(understf_df['storeAddrNo']))
+
+    print('overstf_df - employeeAddrNo isnull amount:')
+    print(sum(pd.isnull(overstf_df['employeeAddrNo'])))
+    print(pd.isnull(overstf_df['employeeAddrNo']))
+
+    print('overstf_df - storeAddrNo isnull amount:')
+    print(sum(pd.isnull(overstf_df['storeAddrNo'])))
+    print(pd.isnull(overstf_df['storeAddrNo']))
 
 
 if __name__ == '__main__':
