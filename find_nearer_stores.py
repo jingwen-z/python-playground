@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import math
 import os
 import pandas as pd
 import re
@@ -7,6 +8,8 @@ import re
 __author__ = 'Jingwen ZHENG'
 
 WORK_DIR = '/Users/jingwen/Documents/R/datasets/understaffing-overstaffing'
+STARTS_WITH_DIGIT = re.compile('^\\d.*')
+STARTS_WITH_A = re.compile('^A .*')
 
 
 def complete_zipcode(zipcode):
@@ -18,22 +21,19 @@ def complete_zipcode(zipcode):
     return zipcode
 
 
-def get_valid_addr(addrNo, addrName, zipcode):
-    pattern_dig = re.compile('^\\d.*')
-    pattern_prep = re.compile('^A .*')
+def get_valid_addr(nb, road, zipcode):
+    """
+    Get valid address
 
-    startsWithDig = pattern_dig.match(addrName) is not None
-    startsWithPrep = pattern_prep.match(addrName) is not None
-
-    # pd.isnull(addrNo)
-
-    if pd.isnull(addrNo) or addrNo == '0' or addrNo == '':
-        return '%s %s' % (addrName, zipcode)
-    if startsWithDig:
-        return '%s-%s %s' % (addrNo, addrName, zipcode)
-    if startsWithPrep:
-        return '%s-%s %s' % (addrNo, addrName[2:50], zipcode)
-    return '%s %s %s' % (addrNo, addrName, zipcode)
+    :param nb: number of type float64, can be NaN
+    """
+    if math.isnan(nb) or nb == 0:
+        return '%s %s' % (road, zipcode)
+    if STARTS_WITH_DIGIT.match(road):
+        return '%s-%s %s' % (int(nb), road, zipcode)
+    if STARTS_WITH_A.match(road):
+        return '%s-%s %s' % (int(nb), road[2:], zipcode)
+    return '%s %s %s' % (int(nb), road, zipcode)
 
 
 def main():
@@ -75,22 +75,15 @@ def main():
                                'e_postal': 'store_zipcode',
                                'Titre de transport ?': 'by_transit'})
 
-    # understf_df['store_addr_no'] = understf_df['store_addr_no'].astype(int)
-    print(understf_df.dtypes)
-    # overstf_df['employee_addr_no'] = overstf_df['employee_addr_no'].astype(object)
-    # overstf_df['store_addr_no'] = overstf_df['store_addr_no'].astype(object)
-
     understf_df['store_zipcode'] = understf_df['store_zipcode'].apply(lambda x: complete_zipcode(str(x)))
     overstf_df['employee_zipcode'] = overstf_df['employee_zipcode'].apply(lambda x: complete_zipcode(str(x)))
     overstf_df['store_zipcode'] = overstf_df['store_zipcode'].apply(lambda x: complete_zipcode(str(x)))
 
     print('understf - store_addr_no isnull amount:')
     print(sum(pd.isnull(understf_df['store_addr_no'])))
-    # print(pd.isnull(understf_df['store_addr_no']))
 
     print('overstf_df - employee_addr_no isnull amount:')
     print(sum(pd.isnull(overstf_df['employee_addr_no'])))
-    # print(pd.isnull(overstf_df['employee_addr_no']))
 
     print('overstf_df - store_addr_no isnull amount:')
     print(sum(pd.isnull(overstf_df['store_addr_no'])))
@@ -116,9 +109,6 @@ def main():
 
     print('understfDF:')
     print(understf_df.head())
-
-    # print('understfDF - store_addr:')
-    # print(understf_df['store_addr'][0])
 
 
 if __name__ == '__main__':
