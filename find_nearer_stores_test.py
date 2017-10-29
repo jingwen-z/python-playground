@@ -11,12 +11,12 @@ class TestFindNearerStores(unittest.TestCase):
         self.assertEqual('75012', target.complete_zipcode('75012'))
 
     def test_get_valid_addr(self):
-        self.assertEqual('RUE A 75012', target.get_valid_addr(None, 'RUE A', '75012', False, False))
-        self.assertEqual('RUE A 75012', target.get_valid_addr('0', 'RUE A', '75012', False, False))
-        self.assertEqual('RUE A 75012', target.get_valid_addr('', 'RUE A', '75012', False, False))
-        self.assertEqual('7-9 RUE A 75012', target.get_valid_addr('7', '9 RUE A', '75012', True, False))
-        self.assertEqual('7-9 RUE A 75012', target.get_valid_addr('7', 'A 9 RUE A', '75012', False, True))
-        self.assertEqual('7 RUE A 75012', target.get_valid_addr('7', 'RUE A', '75012', False, False))
+        self.assertEqual('RUE A 75012', target.get_valid_addr(None, 'RUE A', '75012'))
+        self.assertEqual('RUE A 75012', target.get_valid_addr('0', 'RUE A', '75012'))
+        self.assertEqual('RUE A 75012', target.get_valid_addr('', 'RUE A', '75012'))
+        self.assertEqual('7-9 RUE A 75012', target.get_valid_addr('7', '9 RUE A', '75012'))
+        self.assertEqual('7-9 RUE A 75012', target.get_valid_addr('7', 'A 9 RUE A', '75012'))
+        self.assertEqual('7 RUE A 75012', target.get_valid_addr('7', 'RUE A', '75012'))
 
 if __name__ == '__main__':
     unittest.main()
