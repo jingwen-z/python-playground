@@ -110,6 +110,20 @@ def main():
     print('understfDF:')
     print(understf_df.head())
 
+    for i, cols in overstf_df.iterrows():
+        empl_addr_cmpl = get_valid_addr(cols.employee_addr_no,
+                                        cols.employee_addr,
+                                        cols.employee_zipcode)
+        overstf_df.set_value(i, 'employee_addr_cmpl', empl_addr_cmpl)
+
+        store_addr_cmpl = get_valid_addr(cols.store_addr_no,
+                                         cols.store_addr,
+                                         cols.store_zipcode)
+        overstf_df.set_value(i, 'store_addr_cmpl', store_addr_cmpl)
+
+    print('overstfDF:')
+    print(overstf_df.head())
+
 
 if __name__ == '__main__':
     main()
