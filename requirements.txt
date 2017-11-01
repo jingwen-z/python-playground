@@ -7,5 +7,7 @@ pandas
 requests
 sas7bdat
 scipy
+seaborn
 sqlalchemy
+tweepy
 urlopen
