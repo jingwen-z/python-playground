@@ -1,0 +1,11 @@
+Request
+bs4
+h5py
+matplotlib
+numpy
+pandas
+requests
+sas7bdat
+scipy
+sqlalchemy
+urlopen

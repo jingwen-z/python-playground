@@ -1,0 +1,6 @@
+language: python
+python:
+  - 3.6
+# command to run tests
+script:
+  - python -m unittest discover . "*_test.py"
