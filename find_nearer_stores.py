@@ -4,10 +4,12 @@ import math
 import os
 import pandas as pd
 import re
+import requests
+from urllib.parse import urlencode
 
 __author__ = 'Jingwen ZHENG'
 
-WORK_DIR = '/Users/jingwen/Documents/R/datasets/understaffing-overstaffing'
+WORK_DIR = '/Users/jingwen/Documents/python/datasets/understaffing_overstaffing'
 STARTS_WITH_DIGIT = re.compile('^\\d.*')
 STARTS_WITH_A = re.compile('^A .*')
 
@@ -34,6 +36,21 @@ def get_valid_addr(nb, road, zipcode):
     if STARTS_WITH_A.match(road):
         return '%s-%s %s' % (int(nb), road[2:], zipcode)
     return '%s %s %s' % (int(nb), road, zipcode)
+
+
+def geocode(address):
+    response = requests.get(
+        'https://maps.googleapis.com/maps/api/geocode/json?' + urlencode({'address': address, 'sensor': 'false'}))
+    resp_address = response.json()
+
+    if resp_address['status'] == 'OK':
+        lat = resp_address['results'][0]['geometry']['location']['lat']
+        lng = resp_address['results'][0]['geometry']['location']['lng']
+        formatted_addr = resp_address['results'][0]['formatted_address']
+        return [lat, lng, formatted_addr]
+    else:
+        print('Failed to get json response:', resp_address)
+        return ['Latitude is not found', 'Longitude is not found', address]
 
 
 def main():
@@ -99,16 +116,11 @@ def main():
     overstf_df.insert(loc=13, column='store_lat', value=None)
     overstf_df.insert(loc=14, column='store_lng', value=None)
 
-    print('------------------------')
-
     for i, cols in understf_df.iterrows():
         addr_cmpl = get_valid_addr(cols.store_addr_no,
                                    cols.store_addr,
                                    cols.store_zipcode)
         understf_df.set_value(i, 'store_addr_cmpl', addr_cmpl)
-
-    print('understfDF:')
-    print(understf_df.head())
 
     for i, cols in overstf_df.iterrows():
         empl_addr_cmpl = get_valid_addr(cols.employee_addr_no,
@@ -121,8 +133,45 @@ def main():
                                          cols.store_zipcode)
         overstf_df.set_value(i, 'store_addr_cmpl', store_addr_cmpl)
 
-    print('overstfDF:')
-    print(overstf_df.head())
+    for i, cols in understf_df.iterrows():
+        if understf_df.loc[i, 'store_lat'] is None:
+            loc_store = geocode(understf_df.loc[i, 'store_addr_cmpl'])
+            understf_df.set_value(i, 'store_lat', loc_store[0])
+            understf_df.set_value(i, 'store_lng', loc_store[1])
+            understf_df.set_value(i, 'store_addr_cmpl', loc_store[2])
+            print(i)
+        else:
+            print(understf_df['store_id'])
+
+    print('first 5 rows of understfDF:')
+    print(understf_df.head(5))
+
+    understf_df.to_csv('understf_coordinate.csv', encoding='ISO-8859-1', sep=';')
+
+    for i, cols in overstf_df.iterrows():
+        if overstf_df.loc[i, 'store_lat'] is None:
+            loc_store = geocode(overstf_df.loc[i, 'store_addr_cmpl'])
+            overstf_df.set_value(i, 'store_lat', loc_store[0])
+            overstf_df.set_value(i, 'store_lng', loc_store[1])
+            overstf_df.set_value(i, 'store_addr_cmpl', loc_store[2])
+            print(i)
+        else:
+            print(overstf_df['store_id'])
+
+    for i, cols in overstf_df.iterrows():
+        if overstf_df.loc[i, 'employee_lat'] is None:
+            loc_empl = geocode(overstf_df.loc[i, 'employee_addr_cmpl'])
+            overstf_df.set_value(i, 'employee_lat', loc_empl[0])
+            overstf_df.set_value(i, 'employee_lng', loc_empl[1])
+            overstf_df.set_value(i, 'employee_addr_cmpl', loc_empl[2])
+            print(i)
+        else:
+            print(overstf_df['employee_id'])
+
+    print('first 5 rows of overstfDF:')
+    print(overstf_df.head(5))
+
+    overstf_df.to_csv('overstf_coordinate.csv', encoding='UTF-8', sep=';')
 
 
 if __name__ == '__main__':
