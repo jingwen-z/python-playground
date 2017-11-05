@@ -17,5 +17,15 @@ class TestFindNearerStores(unittest.TestCase):
         self.assertEqual('7-9 RUE A 75012', target.get_valid_addr(7, 'A 9 RUE A', '75012'))
         self.assertEqual('7 RUE A 75012', target.get_valid_addr(7, 'RUE A', '75012'))
 
+    @unittest.skip("Avoid sending requests in CI.")
+    def test_geocode(self):
+        self.assertEqual(
+            [37.4216548, -122.0856374, 'Google Bldg 42, 1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA'],
+            target.geocode('1600 Amphitheatre Parkway, Mountain View, CA'))
+        self.assertEqual(['Latitude is not found', 'Longitude is not found', '1000000 rue adkfl'],
+                         target.geocode('1000000 rue adkfl'))
+        self.assertEqual(37.4216548, target.geocode('1600 Amphitheatre Parkway, Mountain View, CA')[0])
+
+
 if __name__ == '__main__':
     unittest.main()
