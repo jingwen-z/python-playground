@@ -56,6 +56,7 @@ def geocode(address):
 def main():
     print('work directory=%s' % WORK_DIR)
     os.chdir(WORK_DIR)
+    pd.options.display.max_colwidth = 100
 
     """
     data preparation
@@ -172,6 +173,158 @@ def main():
     print(overstf_df.head(5))
 
     overstf_df.to_csv('overstf_coordinate.csv', encoding='UTF-8', sep=';')
+
+    """
+    check missing coordinates
+    """
+
+    understf_file = 'understf_coordinate.csv'
+    overstf_file = 'overstf_coordinate.csv'
+
+    understf_df = pd.read_csv(understf_file, encoding='ISO-8859-1', sep=';')
+    overstf_df = pd.read_csv(overstf_file, encoding='ISO-8859-1', sep=';')
+
+    print('------------------ understf_df[\'store_lat\']----------------------')
+    print('understf_df - data \'store_lat is not found\':')
+    print(understf_df.loc[understf_df['store_lat'] == 'Latitude is not found'])
+    print('------------------overstf_df[\'store_lat\']----------------------')
+    print('overstf_df - data \'store_lat is not found\':')
+    print(overstf_df.loc[overstf_df['store_lat'] == 'Latitude is not found'])
+    print('------------------overstf_df[\'employee_lat\']----------------------')
+    print('overstf_df - data \'employee_lat is not found\':')
+    print(overstf_df.loc[overstf_df['employee_lat'] == 'Latitude is not found'])
+
+    understf_df.set_value(43, 'store_lat', '43.3280423')
+    understf_df.set_value(43, 'store_lng', '5.1495158')
+    understf_df.set_value(43, 'store_addr_cmpl', '2 Chemin du Rivage, 13620 Carry-le-Rouet, France')
+    print(understf_df.iloc[43, :])
+
+    overstf_df.set_value(108, 'store_lat', '48.7773784')
+    overstf_df.set_value(108, 'store_lng', '2.0047956')
+    overstf_df.set_value(108, 'store_addr_cmpl', '36 Avenue Paul Vaillant-Couturier, 78190 Trappes, France')
+    print('----------------- 108 --------------------')
+    print(overstf_df.iloc[108, :])
+
+    overstf_df.set_value(193, 'store_lat', '48.8347881')
+    overstf_df.set_value(193, 'store_lng', '2.3198215')
+    overstf_df.set_value(193, 'store_addr_cmpl', '53 Rue Raymond Losserand, 75014 Paris, France')
+    print('----------------- 193 --------------------')
+    print(overstf_df.iloc[193, :])
+
+    overstf_df.set_value(209, 'store_lat', '48.8327632')
+    overstf_df.set_value(209, 'store_lng', '2.2498996')
+    overstf_df.set_value(209, 'store_addr_cmpl', '36 Rue du Dôme, 92100 Boulogne-Billancourt, France')
+    print('----------------- 209 --------------------')
+    print(overstf_df.iloc[209, :])
+
+    overstf_df.set_value(210, 'store_lat', '48.8787391')
+    overstf_df.set_value(210, 'store_lng', '2.370933')
+    overstf_df.set_value(210, 'store_addr_cmpl', '9 Rue de Meaux, 75019 Paris, France')
+    print('----------------- 210 --------------------')
+    print(overstf_df.iloc[210, :])
+
+    overstf_df.set_value(211, 'store_lat', '48.8505606')
+    overstf_df.set_value(211, 'store_lng', '2.3899131')
+    overstf_df.set_value(211, 'store_addr_cmpl', '63 Rue de Montreuil, 75011 Paris-11E-Arrondissement, France')
+    print('----------------- 211 --------------------')
+    print(overstf_df.iloc[211, :])
+
+    overstf_df.set_value(271, 'store_lat', '48.9068377')
+    overstf_df.set_value(271, 'store_lng', '2.1508612')
+    overstf_df.set_value(271, 'store_addr_cmpl', 'Place Paul Démange, 78360 Montesson, France')
+    print('----------------- 271 --------------------')
+    print(overstf_df.iloc[271, :])
+
+    overstf_df.set_value(282, 'store_lat', '48.8462586')
+    overstf_df.set_value(282, 'store_lng', '2.3243925')
+    overstf_df.set_value(282, 'store_addr_cmpl', '79 Rue de Vaugirard, 75006 Paris, France')
+    print('----------------- 282 --------------------')
+    print(overstf_df.iloc[282, :])
+
+    overstf_df.set_value(3, 'employee_lat', '49.6566844')
+    overstf_df.set_value(3, 'employee_lng', '3.3228483')
+    overstf_df.set_value(3, 'employee_addr_cmpl', '57 Avenue André Boulloche, 02700 Tergnier, France')
+    print('----------------- 3 --------------------')
+    print(overstf_df.iloc[3, :])
+
+    overstf_df.set_value(29, 'employee_lat', '48.9501867')
+    overstf_df.set_value(29, 'employee_lng', '2.3395551')
+    overstf_df.set_value(29, 'employee_addr_cmpl', '17 Rue Georges Thibout, 93800 Épinay-sur-Seine, France')
+    print('----------------- 29 --------------------')
+    print(overstf_df.iloc[29, :])
+
+    overstf_df.set_value(111, 'employee_lat', '43.1375916')
+    overstf_df.set_value(111, 'employee_lng', '6.0390838')
+    overstf_df.set_value(111, 'employee_addr_cmpl', '215 Chemin Jules Fontan, 83130 La Garde, France')
+    print('----------------- 111 --------------------')
+    print(overstf_df.iloc[111, :])
+
+    overstf_df.set_value(171, 'employee_lat', '48.9493912')
+    overstf_df.set_value(171, 'employee_lng', '2.4407945')
+    overstf_df.set_value(171, 'employee_addr_cmpl', 'Avenue Garros, 93150 Le Blanc-Mesnil, France')
+    print('----------------- 171 --------------------')
+    print(overstf_df.iloc[171, :])
+
+    overstf_df.set_value(269, 'employee_lat', '48.9081922')
+    overstf_df.set_value(269, 'employee_lng', '2.1524869')
+    overstf_df.set_value(269, 'employee_addr_cmpl', '17 Rue Pierre Louis Guyard, 78360 Montesson, France')
+    print('----------------- 269 --------------------')
+    print(overstf_df.iloc[269, :])
+
+
+    overstf_df.set_value(3, 'store_addr_cmpl', '1 Boulevard Gustave Grégoire, 02700 Tergnier, France')
+    print('----------------- 3 --------------------')
+    print(overstf_df.iloc[3, :])
+
+    overstf_df.set_value(108, 'employee_lat', '48.7654636')
+    overstf_df.set_value(108, 'employee_lng', '1.9493117')
+    overstf_df.set_value(108, 'employee_addr_cmpl', '1 Allée du Théâtre, 78990 Élancourt, France')
+    print('----------------- 108 --------------------')
+    print(overstf_df.iloc[108, :])
+
+    overstf_df.set_value(133, 'employee_lat', '43.463088')
+    overstf_df.set_value(133, 'employee_lng', '5.231285')
+    overstf_df.set_value(133, 'employee_addr_cmpl', 'Rue Louis Blériot, 13127 Vitrolles, France')
+    print('----------------- 133 --------------------')
+    print(overstf_df.iloc[133, :])
+
+    overstf_df.set_value(165, 'employee_lat', '48.8537731')
+    overstf_df.set_value(165, 'employee_lng', '2.3992899')
+    overstf_df.set_value(165, 'employee_addr_cmpl', '27 Rue des Vignoles, 75020 Paris, France')
+    print('----------------- 165 --------------------')
+    print(overstf_df.iloc[165, :])
+
+    overstf_df.set_value(214, 'employee_lat', '49.0521864')
+    overstf_df.set_value(214, 'employee_lng', '2.0447988')
+    overstf_df.set_value(214, 'employee_addr_cmpl', '20 Boulevard de la Paix, 95800 Cergy, France')
+    print('----------------- 214 --------------------')
+    print(overstf_df.iloc[214, :])
+
+    overstf_df.set_value(269, 'store_addr_cmpl', 'Place Paul Démange, 78360 Montesson, France')
+    print('----------------- 269 --------------------')
+    print(overstf_df.iloc[269, :])
+
+    overstf_df.set_value(231, 'employee_lat', '48.9659105')
+    overstf_df.set_value(231, 'employee_lng', '2.5430213')
+    overstf_df.set_value(231, 'employee_addr_cmpl', '5 Allée Antoine de Saint-Exupéry, 93420 Villepinte, France')
+    print('----------------- 231 --------------------')
+    print(overstf_df.iloc[231, :])
+
+    overstf_df = overstf_df[(overstf_df['employee_id'] != '10104') & (overstf_df['employee_id'] != '44522')]
+    print(overstf_df.shape)
+
+    understf_df.to_csv('understf_coordinate.csv', encoding='ISO-8859-1', sep=';', index=False)
+    overstf_df.to_csv('overstf_coordinate.csv', encoding='UTF-8', sep=';', index=False)
+
+    """
+    find nearer stores for staffs in overstaffed stores
+    """
+
+    overstf_df.insert(loc=16, column='itinerary_duration_minute', value=None)
+    overstf_df.insert(loc=17, column='itinerary_distance_km', value=None)
+    overstf_df.insert(loc=18, column='itinerary_disthav_km', value=None)
+
+    print(overstf_df)
 
 
 if __name__ == '__main__':
