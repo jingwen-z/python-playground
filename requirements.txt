@@ -1,5 +1,6 @@
 Request
 bs4
+configparser
 h5py
 matplotlib
 mlxtend==0.9.1

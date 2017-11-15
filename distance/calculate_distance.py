@@ -6,6 +6,7 @@ import os
 import re
 from urllib.parse import urlencode
 
+from haversine import haversine
 import pandas as pd
 import requests
 
@@ -78,14 +79,27 @@ def get_itinerary(origin_lat, origin_lng, dest_lat, dest_lng, by_transit):
 
     try:
         if distance_info['rows'][0]['elements'][0]['status'] == 'OK':
-            duration = distance_info['rows'][0]['elements'][0]['duration']['text'][:-5]
-            distance = distance_info['rows'][0]['elements'][0]['distance']['text'][:-3]
+            duration = distance_info['rows'][0]['elements'][0]['duration']['value'] / 60
+            distance = distance_info['rows'][0]['elements'][0]['distance']['value'] / 1000
             return [duration, distance]
         else:
-            print('Failed to get correct response:', response)
+            return ['', '']
     except IndexError:
         print('Failed to get status, response:', distance_info)
         raise
+
+
+def actual_itinerary(df):
+    df.insert(loc=16, column='itinerary_duration_minute', value=None)
+    df.insert(loc=17, column='itinerary_distance_km', value=None)
+    df.insert(loc=18, column='itinerary_distance_haversine_km', value=None)
+
+    for i, cols in df.iterrows():
+        itinerary = get_itinerary(df['employee_lat'][i], df['employee_lng'][i], df['store_lat'][i],
+                                  df['store_lng'][i], df['by_transit'][i])
+        df.set_value(i, 'itinerary_duration_minute', itinerary[0])
+        df.set_value(i, 'itinerary_distance_km', itinerary[1])
+        print(i)
 
 
 def create_tgt_df(filename):
@@ -215,17 +229,15 @@ def fill_src_coord(df, extra_file):
         df.set_value(extra_df['id'], 'employee_addr_cmpl', extra_df['address'])
 
 
-def actual_itinerary(df):
-    df.insert(loc=16, column='itinerary_duration_minute', value=None)
-    df.insert(loc=17, column='itinerary_distance_km', value=None)
-    df.insert(loc=18, column='itinerary_distance_haversine_km', value=None)
+def actual_haversine(df):
+    df['itinerary_distance_haversine_km'] = df.apply(
+        lambda row: haversine((row['employee_lat'], row['employee_lng']), (row['store_lat'], row['store_lng'])), axis=1)
 
-    for i, cols in df.iterrows():
-        itinerary = get_itinerary(df['employee_lat'][i], df['employee_lng'][i], df['store_lat'][i],
-                                  df['store_lng'][i], df['by_transit'][i])
-        df.set_value(i, 'itinerary_duration_minute', itinerary[0])
-        df.set_value(i, 'itinerary_distance_km', itinerary[1])
-        print(i)
+
+def is_alternative(df1, df2, row1, row2, rate):
+    potential_dist = rate * haversine((df1['employee_lat'][row1], df1['employee_lng'][row1]),
+                                      (df2['store_lat'][row2], df2['store_lng'][row2]))
+    return potential_dist <= df1['itinerary_distance_km'][row1]
 
 
 def main():
@@ -245,6 +257,10 @@ def main():
     src_df.to_csv('overstf_coordinate.csv', encoding='ISO-8859-1', sep=';')
 
     actual_itinerary(src_df)
+    src_df.to_csv('overstf_act_route.csv', encoding='ISO-8859-1', sep=';')
+
+    actual_haversine(src_df)
+    src_df.to_csv('overstf_act_haversine.csv', encoding='ISO-8859-1', sep=';')
 
 
 if __name__ == '__main__':
