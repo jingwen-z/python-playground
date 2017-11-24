@@ -2,6 +2,7 @@ Request
 bs4
 h5py
 matplotlib
+mlxtend==0.9.1
 numpy
 pandas
 requests
