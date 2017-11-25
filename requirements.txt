@@ -11,3 +11,4 @@ seaborn
 sqlalchemy
 tweepy
 urlopen
+public==0.0.38

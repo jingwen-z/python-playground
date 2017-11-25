@@ -106,3 +106,6 @@ ENV/
 
 # mac os
 .DS_Store
+
+# data
+*.csv
