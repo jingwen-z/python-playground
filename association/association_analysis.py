@@ -44,7 +44,7 @@ def track(start, msg):
 def main():
     start = time.time()
 
-    df = pd.read_csv('tickets.csv', usecols=['transactionId', 'rayon', 'volume'], encoding='UTF-8', sep=';')
+    df = pd.read_csv('examples.csv', usecols=['transactionId', 'rayon', 'volume'], encoding='UTF-8', sep=';')
     df.rename(inplace=True, columns={'transactionId': 'tx_id', 'rayon': 'shelf', 'volume': 'amount'})
     track(start, 'CSV loaded')
 
@@ -59,10 +59,24 @@ def main():
 
     pv_table = pv_table.applymap(lambda x: 1 if x > 0 else 0)
     track(start, 'pivot table is ready')
+    # print(list(pv_table.columns.values))
+    fields = list(pv_table.columns.values)
+    asso_mx = [' ']
+    asso_mx.extend(fields)
+    asso_mx=[asso_mx]
+    for field in fields:
+        asso_mx.append([field])
 
-    frequent_dept = apriori(pv_table, min_support=0.05, use_colnames=True)
-    rules_dept = association_rules(frequent_dept, metric="lift")
-    print(rules_dept.head())
+    for row in asso_mx:
+        print(' '.join(row))
+
+    print(asso_mx)
+    track(start, 'empty association matrix is ready')
+
+    frequent_dept = apriori(pv_table, min_support=0.05, use_colnames=True, max_len=2)
+    rules_dept = association_rules(frequent_dept, metric="confidence", min_threshold=0.01)
+    # print(rules_dept.iloc[:, 1])
+    # print(set(rules_dept.iloc[:, 1]))
     track(start, 'done')
 
 
