@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+
 import time
 
 import numpy as np
@@ -36,6 +37,21 @@ def clean(df):
     df.drop(to_drop, inplace=True)
 
 
+def association_matrix(pivot_table):
+    shelves = list(pivot_table.columns.values)
+    df = pd.DataFrame(None, index=shelves, columns=shelves)
+
+    frequent_item = apriori(pivot_table, min_support=0, use_colnames=True, max_len=2)
+    rules = association_rules(frequent_item, metric="confidence", min_threshold=0)
+    rules.sort_values(by=['antecedants', 'consequents'], kind='mergesort', inplace=True)
+
+    for row in rules.itertuples():
+        r = ', '.join(row.antecedants)
+        c = ', '.join(row.consequents)
+        df.loc[r, c] = row.confidence
+    return df
+
+
 def track(start, msg):
     total = time.time() - start
     print("Total %fs: %s" % (total, msg))
@@ -44,7 +60,7 @@ def track(start, msg):
 def main():
     start = time.time()
 
-    df = pd.read_csv('examples.csv', usecols=['transactionId', 'rayon', 'volume'], encoding='UTF-8', sep=';')
+    df = pd.read_csv('tickets.csv', encoding='UTF-8', sep=';')
     df.rename(inplace=True, columns={'transactionId': 'tx_id', 'rayon': 'shelf', 'volume': 'amount'})
     track(start, 'CSV loaded')
 
@@ -59,24 +75,9 @@ def main():
 
     pv_table = pv_table.applymap(lambda x: 1 if x > 0 else 0)
     track(start, 'pivot table is ready')
-    # print(list(pv_table.columns.values))
-    fields = list(pv_table.columns.values)
-    asso_mx = [' ']
-    asso_mx.extend(fields)
-    asso_mx=[asso_mx]
-    for field in fields:
-        asso_mx.append([field])
 
-    for row in asso_mx:
-        print(' '.join(row))
-
-    print(asso_mx)
-    track(start, 'empty association matrix is ready')
-
-    frequent_dept = apriori(pv_table, min_support=0.05, use_colnames=True, max_len=2)
-    rules_dept = association_rules(frequent_dept, metric="confidence", min_threshold=0.01)
-    # print(rules_dept.iloc[:, 1])
-    # print(set(rules_dept.iloc[:, 1]))
+    asso_mx = association_matrix(pv_table)
+    asso_mx.to_csv('association_matrix.csv', encoding='UTF-8', sep=';')
     track(start, 'done')
 
 
