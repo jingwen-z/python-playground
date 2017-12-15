@@ -2,11 +2,11 @@ Request
 bs4
 configparser
 h5py
-matplotlib
+matplotlib==2.1.0
 mglearn
 mlxtend==0.9.1
-numpy
-pandas
+numpy==1.13.3
+pandas==0.20.3
 patsy
 requests
 sas7bdat
