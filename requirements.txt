@@ -3,7 +3,7 @@ bs4
 configparser
 h5py
 matplotlib==2.1.0
-mglearn
+mglearn==0.1.6
 mlxtend==0.9.1
 numpy==1.13.3
 pandas==0.20.3
