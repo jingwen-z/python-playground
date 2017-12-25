@@ -8,15 +8,15 @@ Supervised Learning
 import matplotlib.pyplot as plt
 import mglearn.datasets
 import numpy as np
-import sklearn
 from sklearn.datasets import load_boston
 from sklearn.datasets import load_breast_cancer
+from sklearn.datasets import make_blobs
 from sklearn.linear_model import Lasso
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import Ridge
-from sklearn.svm import LinearSVC
 from sklearn.model_selection import train_test_split
+from sklearn.svm import LinearSVC
 
 """
 Some sample datasets
@@ -135,7 +135,6 @@ plt.show()
 """
 Linear models for classification
 """
-
 x, y = mglearn.datasets.make_forge()
 fig, axes = plt.subplots(1, 2, figsize=(10, 3))
 
@@ -178,7 +177,6 @@ plt.ylim(-5, 5)
 plt.xlabel('Coefficient index')
 plt.ylabel('Coefficient magnitude')
 plt.legend()
-plt.show()
 
 # coefficients learnt by logistic regression with L1 penalty
 for C, marker in zip([0.01, 1, 100], ['o', '^', 'v']):
@@ -193,4 +191,39 @@ plt.xlabel('Coefficient index')
 plt.ylabel('Coefficient magnitude')
 plt.ylim(-5, 5)
 plt.legend(loc=3)
+plt.show()
+
+"""
+Linear models for multiclass classification
+"""
+x, y = make_blobs(random_state=42)
+mglearn.discrete_scatter(x[:, 0], x[:, 1], y)
+plt.xlabel('Feature 0')
+plt.ylabel('Feature 1')
+plt.legend(['Class 0', 'Class 1', 'Class 2'])
+
+linear_svm = LinearSVC().fit(x, y)
+print('Coefficient shape: ', linear_svm.coef_.shape)
+print('Intercept shape: ', linear_svm.intercept_.shape)
+
+# decision boundaries learned by the three one-vs.-rest classifiers
+mglearn.discrete_scatter(x[:, 0], x[:, 1], y)
+line = np.linspace(-15, 15)
+for coef, intercept, color in zip(linear_svm.coef_, linear_svm.intercept_, ['b', 'r', 'g']):
+    plt.plot(line, -(line * coef[0] + intercept) / coef[1], c=color)
+plt.ylim(-10, 15)
+plt.xlim(-10, 8)
+plt.xlabel('Feature 0')
+plt.ylabel('Feature 1')
+plt.legend(['Class 0', 'Class 1', 'Class 2', 'Line class 0', 'Line class 1', 'Line class 2'], loc=(1.01, 0.3))
+
+# multiclass decison boundaries derived from the three one-vs.-rest classifiers
+mglearn.plots.plot_2d_classification(linear_svm, x, fill=True, alpha=.7)
+mglearn.discrete_scatter(x[:, 0], x[:, 1], y)
+line = np.linspace(-15, 15)
+for coef, intercept, color in zip(linear_svm.coef_, linear_svm.intercept_, ['b', 'r', 'g']):
+    plt.plot(line, -(line * coef[0] + intercept) / coef[1], c=color)
+plt.xlabel('Feature 0')
+plt.ylabel('Feature 1')
+plt.legend(['Class 0', 'Class 1', 'Class 2', 'Line class 0', 'Line class 1', 'Line class 2'], loc=(1.01, 0.3))
 plt.show()
