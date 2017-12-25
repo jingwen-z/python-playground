@@ -8,70 +8,79 @@ Supervised Learning
 import matplotlib.pyplot as plt
 import mglearn.datasets
 import numpy as np
+import sklearn
 from sklearn.datasets import load_boston
+from sklearn.datasets import load_breast_cancer
 from sklearn.linear_model import Lasso
 from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import Ridge
+from sklearn.svm import LinearSVC
 from sklearn.model_selection import train_test_split
 
 """
 Some sample datasets
 """
-X, y = mglearn.datasets.make_wave(n_samples=40)
-plt.plot(X, y, 'o')
+x, y = mglearn.datasets.make_wave(n_samples=40)
+plt.plot(x, y, 'o')
 plt.ylim(-3, 3)
 plt.xlabel('Feature')
 plt.ylabel('Target')
 
 boston = load_boston()
 print('Data shape: {}'.format(boston.data.shape))
+x, y = mglearn.datasets.load_extended_boston()
+print('x.shape: {}'.format(x.shape))
 
-X, y = mglearn.datasets.load_extended_boston()
-print('X.shape: {}'.format(X.shape))
+x, y = mglearn.datasets.make_forge()
+mglearn.discrete_scatter(x[:, 0], x[:, 1], y)
+plt.legend(["Class 0", "Class 1"], loc=4)
+plt.xlabel("First feature")
+plt.ylabel("Second feature")
+print("x.shape: {}".format(x.shape))
 
 """
 Linear models for regression
 """
 mglearn.plots.plot_linear_regression_wave()
-plt.show()
 
 """
 Linear regression (OLS)
 """
-X, y = mglearn.datasets.make_wave(n_samples=60)
-X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
+x, y = mglearn.datasets.make_wave(n_samples=60)
+x_train, x_test, y_train, y_test = train_test_split(x, y, random_state=42)
 
-lr = LinearRegression().fit(X_train, y_train)
+lr = LinearRegression().fit(x_train, y_train)
 print('lr.coef_: {}'.format(lr.coef_))
 print('lr.intercept_: {}'.format(lr.intercept_))
 
-print('Training set score: {:.2f}'.format(lr.score(X_train, y_train)))
-print('Test set score: {:.2f}'.format(lr.score(X_test, y_test)))
+print('Training set score: {:.2f}'.format(lr.score(x_train, y_train)))
+print('Test set score: {:.2f}'.format(lr.score(x_test, y_test)))
 
-X, y = mglearn.datasets.load_extended_boston()
-X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=0)
+x, y = mglearn.datasets.load_extended_boston()
+x_train, x_test, y_train, y_test = train_test_split(x, y, random_state=0)
 
-lr = LinearRegression().fit(X_train, y_train)
-print('Training set score: {:.2f}'.format(lr.score(X_train, y_train)))
-print('Test set score: {:.2f}'.format(lr.score(X_test, y_test)))
+lr = LinearRegression().fit(x_train, y_train)
+print('Training set score: {:.2f}'.format(lr.score(x_train, y_train)))
+print('Test set score: {:.2f}'.format(lr.score(x_test, y_test)))
 
 """
 Ridge regression
 """
 # alpha = 1
-ridge = Ridge().fit(X_train, y_train)
-print('Training set score: {:.2f}'.format(ridge.score(X_train, y_train)))
-print('Test set score: {:.2f}'.format(ridge.score(X_test, y_test)))
+ridge = Ridge().fit(x_train, y_train)
+print('Training set score: {:.2f}'.format(ridge.score(x_train, y_train)))
+print('Test set score: {:.2f}'.format(ridge.score(x_test, y_test)))
 
 # alpha = 10
-ridge10 = Ridge(alpha=10).fit(X_train, y_train)
-print('Training set score: {:.2f}'.format(ridge10.score(X_train, y_train)))
-print('Test set score: {:.2f}'.format(ridge10.score(X_test, y_test)))
+ridge10 = Ridge(alpha=10).fit(x_train, y_train)
+print('Training set score: {:.2f}'.format(ridge10.score(x_train, y_train)))
+print('Test set score: {:.2f}'.format(ridge10.score(x_test, y_test)))
 
 # alpha = 0.1
-ridge01 = Ridge(alpha=0.1).fit(X_train, y_train)
-print('Training set score: {:.2f}'.format(ridge01.score(X_train, y_train)))
-print('Test set score: {:.2f}'.format(ridge01.score(X_test, y_test)))
+ridge01 = Ridge(alpha=0.1).fit(x_train, y_train)
+print('Training set score: {:.2f}'.format(ridge01.score(x_train, y_train)))
+print('Test set score: {:.2f}'.format(ridge01.score(x_test, y_test)))
 
 # compare coefficient magnitudes
 plt.plot(ridge.coef_, 's', label='Ridge alpha=1')
@@ -94,21 +103,21 @@ plt.show()
 Lasso
 """
 # alpha = 1
-lasso = Lasso().fit(X_train, y_train)
-print('Training set score: {:.2f}'.format(lasso.score(X_train, y_train)))
-print('Test set score: {:.2f}'.format(lasso.score(X_test, y_test)))
+lasso = Lasso().fit(x_train, y_train)
+print('Training set score: {:.2f}'.format(lasso.score(x_train, y_train)))
+print('Test set score: {:.2f}'.format(lasso.score(x_test, y_test)))
 print('Number of features used: {}'.format(np.sum(lasso.coef_ != 0)))
 
 # alpha = 0.01
-lasso001 = Lasso(alpha=0.01, max_iter=100000).fit(X_train, y_train)
-print('Training set score: {:.2f}'.format(lasso001.score(X_train, y_train)))
-print('Test set score: {:.2f}'.format(lasso001.score(X_test, y_test)))
+lasso001 = Lasso(alpha=0.01, max_iter=100000).fit(x_train, y_train)
+print('Training set score: {:.2f}'.format(lasso001.score(x_train, y_train)))
+print('Test set score: {:.2f}'.format(lasso001.score(x_test, y_test)))
 print('Number of features used: {}'.format(np.sum(lasso001.coef_ != 0)))
 
 # alpha = 0.0001
-lasso00001 = Lasso(alpha=0.0001, max_iter=100000).fit(X_train, y_train)
-print('Training set score: {:.2f}'.format(lasso00001.score(X_train, y_train)))
-print('Test set score: {:.2f}'.format(lasso00001.score(X_test, y_test)))
+lasso00001 = Lasso(alpha=0.0001, max_iter=100000).fit(x_train, y_train)
+print('Training set score: {:.2f}'.format(lasso00001.score(x_train, y_train)))
+print('Test set score: {:.2f}'.format(lasso00001.score(x_test, y_test)))
 print('Number of features used: {}'.format(np.sum(lasso00001.coef_ != 0)))
 
 # compare coefficient magnitudes
@@ -121,4 +130,67 @@ plt.xlabel('Coefficient index')
 plt.ylabel('Coefficient magnitude')
 plt.ylim(-25, 25)
 plt.legend(ncol=2, loc=(0, 1.05))
+plt.show()
+
+"""
+Linear models for classification
+"""
+
+x, y = mglearn.datasets.make_forge()
+fig, axes = plt.subplots(1, 2, figsize=(10, 3))
+
+for model, ax in zip([LinearSVC(), LogisticRegression()], axes):
+    clf = model.fit(x, y)
+    mglearn.plots.plot_2d_separator(clf, x, fill=False, eps=0.5, ax=ax, alpha=.7)
+    mglearn.discrete_scatter(x[:, 0], x[:, 1], y, ax=ax)
+    ax.set_title("{}".format(clf.__class__.__name__))
+    ax.set_xlabel("Feature 0")
+    ax.set_ylabel("Feature 1")
+axes[0].legend()
+
+# decision boundaries of a linear SVM on the forge dataset for different values of C
+mglearn.plots.plot_linear_svc_regularization()
+
+# analyse LinearLogistic
+cancer = load_breast_cancer()
+x_train, x_test, y_train, y_test = train_test_split(cancer.data, cancer.target, stratify=cancer.target, random_state=42)
+logreg = LogisticRegression().fit(x_train, y_train)
+print('Training set score: {:.3f}'.format(logreg.score(x_train, y_train)))
+print('Test set score: {:.3f}'.format(logreg.score(x_test, y_test)))
+
+logreg100 = LogisticRegression(C=100).fit(x_train, y_train)
+print('Training set score: {:.3f}'.format(logreg100.score(x_train, y_train)))
+print('Test set score: {:.3f}'.format(logreg100.score(x_test, y_test)))
+
+logreg001 = LogisticRegression(C=0.01).fit(x_train, y_train)
+print('Training set score: {:.3f}'.format(logreg001.score(x_train, y_train)))
+print('Test set score: {:.3f}'.format(logreg001.score(x_test, y_test)))
+
+print('logreg001.score:\n', logreg001.score)
+
+# coefficients learnt by logistic regression
+plt.plot(logreg.coef_.T, 'o', label='C=1')
+plt.plot(logreg100.coef_.T, '^', label='C=100')
+plt.plot(logreg001.coef_.T, 'v', label='C=0.01')
+plt.xticks(range(cancer.data.shape[1]), cancer.feature_names, rotation=90)
+plt.hlines(0, 0, cancer.data.shape[1])
+plt.ylim(-5, 5)
+plt.xlabel('Coefficient index')
+plt.ylabel('Coefficient magnitude')
+plt.legend()
+plt.show()
+
+# coefficients learnt by logistic regression with L1 penalty
+for C, marker in zip([0.01, 1, 100], ['o', '^', 'v']):
+    lr_l1 = LogisticRegression(C=C, penalty='l1').fit(x_train, y_train)
+    print('Training accuracy of l1 logreg with C={:.3f}: {:.2f}'.format(C, lr_l1.score(x_train, y_train)))
+    print('Test accuracy of l1 logreg with C={:.3f}: {:.2f}'.format(C, lr_l1.score(x_test, y_test)))
+    plt.plot(lr_l1.coef_.T, marker, label='C={:.3f}'.format(C))
+
+plt.xticks(range(cancer.data.shape[1]), cancer.feature_names, rotation=90)
+plt.hlines(0, 0, cancer.data.shape[1])
+plt.xlabel('Coefficient index')
+plt.ylabel('Coefficient magnitude')
+plt.ylim(-5, 5)
+plt.legend(loc=3)
 plt.show()
