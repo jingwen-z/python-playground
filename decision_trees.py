@@ -22,10 +22,10 @@ Controlling complexity of decision trees
 cancer = load_breast_cancer()
 x_train, x_test, y_train, y_test = train_test_split(cancer.data, cancer.target, stratify=cancer.target, random_state=42)
 
-tree = DecisionTreeClassifier(random_state=0)
-tree.fit(x_train, y_train)
-print('Accuracy on training set: {:.3f}'.format(tree.score(x_train, y_train)))
-print('Accuracy on test set: {:.3f}'.format(tree.score(x_test, y_test)))
+tree_nolimit = DecisionTreeClassifier(random_state=0)
+tree_nolimit.fit(x_train, y_train)
+print('Accuracy on training set: {:.3f}'.format(tree_nolimit.score(x_train, y_train)))
+print('Accuracy on test set: {:.3f}'.format(tree_nolimit.score(x_test, y_test)))
 
 tree = DecisionTreeClassifier(max_depth=4, random_state=0)
 tree.fit(x_train, y_train)
