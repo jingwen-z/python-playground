@@ -4,7 +4,7 @@
 """
 Introduction to Machine Learning with Python
 Chapter 2
-Supervised Learning
+Supervised Learning - Linear Models
 """
 
 import matplotlib.pyplot as plt
