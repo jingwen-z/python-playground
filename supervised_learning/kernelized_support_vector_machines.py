@@ -18,7 +18,6 @@ from sklearn import svm
 """
 Linear models and nonlinear features
 """
-
 x, y = datasets.make_blobs(centers=4, random_state=8)
 y = y % 2
 
@@ -118,3 +117,29 @@ plt.xlabel('Feature index')
 plt.ylabel('Feature magnitude')
 plt.yscale('log')
 plt.show()
+
+"""
+Preprocessing data for SVMs
+"""
+# compute the minimum value per feature on the training set
+min_on_training = x_train.min(axis=0)
+
+# compute the range of each feature (max-min) on the training set
+range_on_training = (x_train - min_on_training).max(axis=0)
+
+# subtract the min and divide by range
+x_train_scaled = (x_train - min_on_training) / range_on_training
+print('Minimum for each feature\n{}'.format(x_train_scaled.min(axis=0)))
+print('Maximum for each feature\n{}'.format(x_train_scaled.max(axis=0)))
+
+x_test_scaled = (x_test - min_on_training) / range_on_training
+
+my_svc.fit(x_train_scaled, y_train)
+print('Accuracy on training set: {:.3f}'.format(my_svc.score(x_train_scaled, y_train)))
+print('Accuracy on test set: {:.3f}'.format(my_svc.score(x_test_scaled, y_test)))
+
+# change value of C
+my_svc1000 = svm.SVC(C=1000)
+my_svc1000.fit(x_train_scaled, y_train)
+print('Accuracy on training set: {:.3f}'.format(my_svc1000.score(x_train_scaled, y_train)))
+print('Accuracy on test set: {:.3f}'.format(my_svc1000.score(x_test_scaled, y_test)))
