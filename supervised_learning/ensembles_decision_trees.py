@@ -31,4 +31,14 @@ for i, (ax, tree) in enumerate(zip(axes.ravel(), forest.estimators_)):
 mglearn.plots.plot_2d_separator(forest, x_train, fill=True, ax=axes[-1, -1], alpha=.4)
 axes[-1, -1].set_title('Random Forest')
 mglearn.discrete_scatter(x_train[:, 0], x_train[:, 1], y_train)
-plt.show()
+
+# apply a random forest consisting of 100 trees
+cancer = datasets.load_breast_cancer()
+x_train100, x_test100, y_train100, y_test100 = model_selection.train_test_split(cancer.data,
+                                                                                cancer.target,
+                                                                                random_state=0)
+forest100 = ensemble.RandomForestClassifier(n_estimators=100, random_state=0)
+forest100.fit(x_train100, y_train100)
+
+print('Accuracy on training set: {:.3f}'.format(forest.score(x_train100, y_train100)))
+print('Accuracy on test set: {:.3f}'.format(forest.score(x_test100, y_test100)))
