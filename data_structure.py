@@ -190,9 +190,15 @@ class TestSlicing(unittest.TestCase):
         self.assertEqual([7, 2, 3, 7, 5], seq[:5])
         self.assertEqual([7, 5, 6, 0, 1], seq[3:])
 
-    def test_step(self):
-        seq = [7, 2, 3, 7, 5, 6, 0, 1]
+    def test_neg_indice(self):
+        seq = [7, 2, 3, 6, 3, 5, 6, 0, 1]
+        self.assertEqual([5, 6, 0, 1], seq[-4:])
+        self.assertEqual([6, 3, 5, 6], seq[-6:-2])
 
+    def test_step(self):
+        seq = [7, 2, 3, 6, 3, 5, 6, 0, 1]
+        self.assertEqual([7, 3, 3, 6, 1], seq[::2])
+        self.assertEqual([1, 0, 6, 5, 3, 6, 3, 2, 7], seq[::-1])
 
 if __name__ == '__main__':
     unittest.main()
