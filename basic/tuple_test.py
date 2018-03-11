@@ -71,3 +71,7 @@ class TestUnpackingTuple(unittest.TestCase):
     def test_tuple_count(self):
         a = (1, 2, 2, 2, 3, 4, 2)
         self.assertEqual(4, a.count(2))
+
+
+if __name__ == '__main__':
+    unittest.main()

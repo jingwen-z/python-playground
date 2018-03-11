@@ -115,3 +115,7 @@ class TestSlicing(unittest.TestCase):
         seq = [7, 2, 3, 6, 3, 5, 6, 0, 1]
         self.assertEqual([7, 3, 3, 6, 1], seq[::2])
         self.assertEqual([1, 0, 6, 5, 3, 6, 3, 2, 7], seq[::-1])
+
+
+if __name__ == '__main__':
+    unittest.main()
