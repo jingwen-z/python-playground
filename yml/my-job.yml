@@ -1,0 +1,7 @@
+email:
+- action=send
+- src=my@example.com
+- dest=your@example.com
+- title=Bla bla bla
+step2:
+- Todo
