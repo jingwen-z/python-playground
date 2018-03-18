@@ -18,3 +18,4 @@ sqlalchemy
 statsmodels
 tweepy
 urlopen
+pyyaml
