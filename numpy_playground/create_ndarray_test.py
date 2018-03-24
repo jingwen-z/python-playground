@@ -36,6 +36,12 @@ class TestCreationNdarray(unittest.TestCase):
         self.assertEqual((2, 3, 2), empty_1.shape)
         self.assertEqual('float64', empty_1.dtype)
 
+    def test_full(self):
+        full_1 = np.full(shape=(2, 3), fill_value=7)
+        self.assertEqual(2, full_1.ndim)
+        self.assertEqual((2, 3), full_1.shape)
+        self.assertTrue(isinstance(full_1, np.ndarray))
+
     def test_arange(self):
         arng = np.arange(5)
         self.assertEqual((5,), arng.shape)
