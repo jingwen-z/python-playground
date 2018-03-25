@@ -29,6 +29,12 @@ class TestDataTypes(unittest.TestCase):
         float_array = str_array.astype(np.float64)
         self.assertTrue((np.array([1.2, 5.7]) == float_array).all())
 
+    def test_type_convert_int2other(self):
+        int_array = np.arange(3)
+        other_float_array = np.array([.3, .7, .1, .9, .2], dtype=np.float64)
+        float_array = int_array.astype(other_float_array.dtype)
+        self.assertTrue((np.array([0., 1., 2.]) == float_array).all())
+
 
 if __name__ == '__main__':
     unittest.main()
