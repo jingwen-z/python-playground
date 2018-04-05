@@ -6,7 +6,7 @@ import numpy as np
 
 
 class TestTransposeArrSwapAxes(unittest.TestCase):
-    def test_transpose(self):
+    def test_t(self):
         arr = np.arange(6).reshape(3, 2)
         self.assertTrue((np.arange(6).reshape((2, 3), order='F') == arr.T).all())
 
