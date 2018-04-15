@@ -47,6 +47,16 @@ class TestUniversalFunctions(unittest.TestCase):
         arr = np.array([-2.2, 0, 2.2])
         self.assertTrue((np.array([-3, 0, 2]) == np.floor(arr)).all)
 
+    def test_rint(self):
+        arr = np.array([-2.2, 0, 2.2])
+        self.assertTrue((np.array([-2, 0, 2]) == np.rint(arr)).all)
+
+    def test_divide(self):
+        x = np.array([4, 3, 2, 6])
+        y = np.array([8, 3, 5, -2])
+        self.assertTrue((np.array([0.5, 1, 0.4, -3]) == np.divide(x, y)).all)
+        self.assertTrue((np.array([0, 1, 0, -3]) == np.floor_divide(x, y)).all)
+
 
 if __name__ == '__main__':
     unittest.main()
