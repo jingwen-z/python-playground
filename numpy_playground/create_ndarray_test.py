@@ -19,6 +19,23 @@ class TestCreationNdarray(unittest.TestCase):
         self.assertEqual('float64', arr1.dtype)
         self.assertEqual('int64', arr2.dtype)
 
+    def test_array_append(self):
+        arr = np.array([3, 5, 1, 3])
+        arr = np.append(arr, [7])
+        self.assertTrue((np.array([3, 5, 1, 3, 7]) == arr).all())
+
+    def test_array_insert(self):
+        arr = np.array([[1, 1], [2, 2], [3, 3]])
+        arr = np.insert(arr, 1, 5, axis=1)
+        self.assertTrue((np.array([[1, 5, 1], [2, 5, 2], [3, 5, 3]]) == arr).all())
+
+    def test_array_delete(self):
+        arr = np.array([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]])
+        arr_1 = np.delete(arr, 1, 0)
+        arr_2 = np.delete(arr, [1, 3, 5], None)
+        self.assertTrue((np.array([[1, 2, 3, 4], [9, 10, 11, 12]]) == arr_1).all())
+        self.assertTrue((np.array([1, 3, 5, 7, 8, 9, 10, 11, 12]) == arr_2).all())
+
     def test_zeros(self):
         zeros_1 = np.zeros(3)
         zeros_2 = np.zeros((4, 2))
