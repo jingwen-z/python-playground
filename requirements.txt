@@ -1,6 +1,10 @@
 Request
 bs4
 configparser
+dash==0.21.0
+dash-renderer==0.12.1
+dash-html-components==0.10.0
+dash-core-components==0.22.1
 graphviz==0.8.2
 h5py
 matplotlib==2.1.0
@@ -9,6 +13,7 @@ mlxtend==0.9.1
 numpy==1.13.3
 pandas==0.20.3
 patsy
+plotly
 requests==2.18.4
 sas7bdat
 scipy
