@@ -20,6 +20,8 @@ def generate_table(df, max_rows=10):
 
 
 app = dash.Dash()
+app.css.append_css(
+    {'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css'})
 
 df = pd.read_csv('https://gist.githubusercontent.com/chriddyp/'
                  'c78bf172206ce24f77d6363a2d754b59/raw/'
