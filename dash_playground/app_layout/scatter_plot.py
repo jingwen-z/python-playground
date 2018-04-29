@@ -8,6 +8,8 @@ import pandas as pd
 import plotly.graph_objs as go
 
 app = dash.Dash()
+app.css.append_css(
+    {'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css'})
 
 df = pd.read_csv('https://gist.githubusercontent.com/chriddyp/'
                  '5d1ea79569ed194d432e56108a04d188/raw/'
@@ -23,13 +25,15 @@ app.layout = html.Div([
                                 text=df[df['continent'] == i]['country'],
                                 mode='markers',
                                 opacity=0.7,
-                                marker={'size': 15, 'line': {'width': 0.5, 'color': 'white'}},
+                                marker={'size': 15, 'line': {'width': 0.5,
+                                                             'color': 'white'}},
                                 name=i) for i in df.continent.unique()],
-            'layout': go.Layout(xaxis={'type': 'log', 'title': 'GDP Per Capita'},
-                                yaxis={'title': 'Life Expectancy'},
-                                margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
-                                legend={'x': 0, 'y': 1},
-                                hovermode='closest')
+            'layout': go.Layout(
+                xaxis={'type': 'log', 'title': 'GDP Per Capita'},
+                yaxis={'title': 'Life Expectancy'},
+                margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
+                legend={'x': 0, 'y': 1},
+                hovermode='closest')
         }
     )
 ])
