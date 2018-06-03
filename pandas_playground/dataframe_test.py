@@ -71,6 +71,12 @@ class TestDF(unittest.TestCase):
         df = pd.DataFrame(pop, index=[2001, 2002, 2003])
         self.assertTrue((df.loc[2003, :].isnull()).all())
 
+    def test_slicing_index(self):
+        df = pd.DataFrame(np.arange(9).reshape(3, 3),
+                          index=['R1', 'R2', 'R3'],
+                          columns=['C1', 'C2', 'C3'])
+        self.assertTrue((['R1', 'R2'] == df[:2].index).all())
+
     def test_series_dicts(self):
         df1 = pd.DataFrame({'Nevada': {2001: 2.4, 2002: 2.9},
                             'Ohio': {2000: 1.2, 2001: 2.1, 2002: 3.5}})
