@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import unittest
+
 import pandas as pd
 from numpy import nan as NA
 
