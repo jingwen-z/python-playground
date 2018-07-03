@@ -3,8 +3,8 @@
 
 import unittest
 
-import pandas as pd
 import numpy as np
+import pandas as pd
 from numpy import nan as NA
 
 
@@ -109,6 +109,30 @@ class TestDiscretizationAndBinning(unittest.TestCase):
 
         self.assertTrue((np.array(
             [0, 0, 0, 1, 0, 0, 2, 1, 3, 2, 2, 1]) == cats.codes).all())
+
+
+class TestDummyVariables(unittest.TestCase):
+    def test_get_dummies(self):
+        df = pd.DataFrame({'key': ['b', 'b', 'a', 'c', 'a'],
+                           'data': range(5)})
+        expected = pd.DataFrame({'a': [0, 0, 1, 0, 1],
+                                 'b': [1, 1, 0, 0, 0],
+                                 'c': [0, 0, 0, 1, 0]},
+                                dtype='uint8')
+        pd.testing.assert_frame_equal(expected, pd.get_dummies(df['key']))
+
+    def test_dummies_prefix(self):
+        df = pd.DataFrame({'key': ['b', 'b', 'a', 'c', 'a'],
+                           'data': range(5)})
+        dummies = pd.get_dummies(df['key'], prefix='key')
+        df_with_dummy = df[['data']].join(dummies)
+
+        expected = pd.DataFrame({'data': [0, 1, 2, 3, 4],
+                                 'key_a': [0, 0, 1, 0, 1],
+                                 'key_b': [1, 1, 0, 0, 0],
+                                 'key_c': [0, 0, 0, 1, 0]}, dtype='uint8')
+        expected['data'] = expected['data'].astype('int')
+        pd.testing.assert_frame_equal(expected, df_with_dummy)
 
 
 if __name__ == '__main__':
