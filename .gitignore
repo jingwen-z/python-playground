@@ -110,5 +110,3 @@ ENV/
 # data
 *.csv
 
-# jupyter notebook
-*.ipynb
