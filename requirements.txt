@@ -14,7 +14,7 @@ numpy==1.13.3
 pandas==0.20.3
 patsy
 plotly
-requests==2.18.4
+requests>=2.20.0
 sas7bdat
 scipy
 seaborn
