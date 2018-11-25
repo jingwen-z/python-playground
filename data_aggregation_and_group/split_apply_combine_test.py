@@ -3,7 +3,6 @@
 
 import unittest
 
-import numpy as np
 import pandas as pd
 
 DF = pd.DataFrame({'total_bill': [10, 40, 20, 21, 19],
