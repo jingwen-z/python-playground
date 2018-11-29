@@ -5,6 +5,7 @@ import unittest
 from datetime import datetime
 from datetime import timedelta
 
+import pandas as pd
 from dateutil.parser import parse
 
 STAMP = datetime(2011, 1, 3)
@@ -49,6 +50,18 @@ class TestStringToDatetime(unittest.TestCase):
     def test_parse_dayfirst(self):
         self.assertEqual(parse('6/12/2011', dayfirst=True),
                          datetime(2011, 12, 6, 0, 0))
+
+    def test_to_datetime(self):
+        datestrs = ['2011-07-06 12:00:00', '2011-08-06 00:00:00']
+        self.assertEqual(str, type(datestrs[0]))
+        self.assertEqual(pd._libs.tslib.Timestamp,
+                         type(pd.to_datetime(datestrs)[0]))
+
+    def test_notatime(self):
+        datestrs = ['2011-07-06 12:00:00', '2011-08-06 00:00:00', None]
+        idx = pd.to_datetime(datestrs)
+        self.assertEqual(pd._libs.tslib.NaTType, type(idx[2]))
+        self.assertTrue(([False, False, True] == pd.isnull(idx)).all())
 
 
 if __name__ == '__main__':
