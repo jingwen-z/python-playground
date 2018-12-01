@@ -3,10 +3,9 @@
 
 import unittest
 from datetime import datetime
-from datetime import timedelta
+
 import numpy as np
 import pandas as pd
-from dateutil.parser import parse
 
 DATES = [datetime(2011, 1, 2), datetime(2011, 1, 5),
          datetime(2011, 1, 7), datetime(2011, 1, 8),
@@ -16,6 +15,11 @@ TS = pd.Series(np.arange(1, 7), index=DATES)
 
 LONGER_TS = pd.Series(np.arange(1000),
                       index=pd.date_range('2000-01-01', periods=1000))
+
+DUP_TS = pd.Series(np.arange(5),
+                   index=pd.DatetimeIndex(
+                       ['1/1/2000', '1/2/2000', '1/2/2000', '1/2/2000',
+                        '1/3/2000']))
 
 
 class TestIndexingSelectionSubsetting(unittest.TestCase):
@@ -43,6 +47,30 @@ class TestIndexingSelectionSubsetting(unittest.TestCase):
                          pd.Series([5, 6],
                                    index=[datetime(2011, 1, 10),
                                           datetime(2011, 1, 12)])).all())
+
+        self.assertTrue((TS['1/6/2011':'1/10/2011'] ==
+                         pd.Series([3, 4, 5], index=[datetime(2011, 1, 7),
+                                                     datetime(2011, 1, 8),
+                                                     datetime(2011, 1,
+                                                              10)])).all())
+
+    def test_truncate(self):
+        self.assertTrue((TS.truncate(before='1/7/2011') ==
+                         pd.Series([3, 4, 5, 6], index=[datetime(2011, 1, 7),
+                                                        datetime(2011, 1, 8),
+                                                        datetime(2011, 1, 10),
+                                                        datetime(2011, 1,
+                                                                 12)])).all())
+        self.assertTrue((TS.truncate(after='1/7/2011') ==
+                         pd.Series([1, 2, 3], index=[datetime(2011, 1, 2),
+                                                     datetime(2011, 1, 5),
+                                                     datetime(2011, 1,
+                                                              7)])).all())
+
+
+class TestTSwithDuplicatsIdx(unittest.TestCase):
+    def test_is_unique(self):
+        self.assertFalse(DUP_TS.index.is_unique)
 
 
 if __name__ == '__main__':
