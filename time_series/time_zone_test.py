@@ -46,5 +46,19 @@ class TestTZLocalizationandConversion(unittest.TestCase):
             (ts_loc_idx == TS.tz_localize('Asia/Shanghai').index).all())
 
 
+class TestOperationsWithTZ(unittest.TestCase):
+    def test_tz_aware(self):
+        stamp_utc = pd.Timestamp('2011-03-12 04:00').tz_localize('utc')
+        self.assertEqual(stamp_utc.value,
+                         stamp_utc.tz_convert('America/New_York').value)
+
+    def test_offset(self):
+        stamp = pd.Timestamp('2018-03-25 01:30', tz='Europe/Paris')
+        self.assertTrue(
+            (stamp == pd.DatetimeIndex(['2018-03-25 01:30:00+01:00'])).all())
+        self.assertTrue((stamp + Hour() == pd.DatetimeIndex(
+            ['2018-03-25 03:30:00+02:00'])).all())
+
+
 if __name__ == '__main__':
     unittest.main()
