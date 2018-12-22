@@ -1,13 +1,10 @@
 # -*- coding: utf-8 -*-
 
-import math
 import unittest
-from datetime import datetime
 
 import numpy as np
 import pandas as pd
-from dateutil.relativedelta import relativedelta
-from pandas.tseries.offsets import Hour, Minute, Day, MonthEnd
+from pandas.tseries.offsets import Hour
 
 TS = pd.Series(np.arange(5),
                index=pd.date_range('3/9/2012 9:30', periods=5, freq='D'))
@@ -58,6 +55,21 @@ class TestOperationsWithTZ(unittest.TestCase):
             (stamp == pd.DatetimeIndex(['2018-03-25 01:30:00+01:00'])).all())
         self.assertTrue((stamp + Hour() == pd.DatetimeIndex(
             ['2018-03-25 03:30:00+02:00'])).all())
+
+
+class TestOperationsBetweenDiffTZ(unittest.TestCase):
+    def test_sum_2diff_timezone(self):
+        rng = pd.date_range('3/7/2012 9:30', periods=10, freq='B')
+        ts = pd.Series(np.arange(len(rng)), index=rng)
+        ts1 = ts[:7].tz_localize('Europe/London')
+        ts2 = ts1[2:].tz_convert('Europe/Moscow')
+        result = ts1 + ts2
+
+        self.assertTrue((result.index == pd.DatetimeIndex(
+            ['2012-03-07 09:30:00+00:00', '2012-03-08 09:30:00+00:00',
+             '2012-03-09 09:30:00+00:00', '2012-03-12 09:30:00+00:00',
+             '2012-03-13 09:30:00+00:00', '2012-03-14 09:30:00+00:00',
+             '2012-03-15 09:30:00+00:00'], tz='UTC', freq='B')).all())
 
 
 if __name__ == '__main__':
