@@ -109,4 +109,5 @@ ENV/
 
 # data
 *.csv
+*.png
 
