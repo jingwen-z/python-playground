@@ -114,4 +114,4 @@ ENV/
 plotting_and_visualization/2017-2018/*.png
 
 # not ignore following files
-machine_learning_with_scikit_learn/decision_trees/*.png
+machine_learning/decision_trees/*.png
