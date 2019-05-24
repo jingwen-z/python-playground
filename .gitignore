@@ -109,6 +109,7 @@ ENV/
 
 # data
 *.csv
+*.dat
 *.dot
 *.png
 plotting_and_visualization/2017-2018/*.png
