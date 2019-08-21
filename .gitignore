@@ -115,6 +115,7 @@ ENV/
 *.geojson
 plotting_and_visualization/2017-2018/*.png
 *.html
+*.xls
 
 # not ignore following files
 machine_learning/decision_trees/*.png
