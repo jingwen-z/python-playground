@@ -121,4 +121,4 @@ plotting_and_visualization/2017-2018/*.png
 *.gif
 
 # not ignore following files
-machine_learning/decision_trees/*.png
+! analysis/2019_nCoV/DXYArea_supplement.csv
