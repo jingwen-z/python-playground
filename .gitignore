@@ -112,6 +112,7 @@ ENV/
 *.dat
 *.dot
 *.png
+*.json
 *.geojson
 plotting_and_visualization/2017-2018/*.png
 *.html
