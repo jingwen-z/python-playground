@@ -117,6 +117,7 @@ ENV/
 plotting_and_visualization/2017-2018/*.png
 *.html
 *.xls
+*.xlsx
 *.gif
 
 # not ignore following files
