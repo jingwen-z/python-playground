@@ -1,4 +1,63 @@
 continentName,countryName,stateName,confirmedCount,curedCount,deadCount,updateTime
+Asia,South Korea,South Korea,5621,41,35,2020-03-04 19:23:03.752
+Asia,Iran,Iran,2922,552,92,2020-03-04 12:33:03.752
+Asia,Japan,Japan,331,43,6,2020-03-04 19:23:03.752
+Asia,Malaysia,Malaysia,50,22,0,2020-03-04 13:03:08.752
+Asia,Iraq,Iraq,35,0,2,2020-03-04 20:43:02.752
+Asia,Bahrain,Bahrain,52,0,0,2020-03-04 19:33:03.752
+Asia,India,India,28,3,0,2020-03-04 12:33:03.752
+Asia,Israel,Israel,15,1,0,2020-03-04 12:43:03.752
+Asia,Oman,Oman,15,2,0,2020-03-04 19:33:03.752
+Asia,Qatar,Qatar,8,0,0,2020-03-04 00:03:15.752
+Asia,Lebanon,Lebanon,13,1,0,2020-03-04 16:53:02.752
+Europe,Italy,Italy,3089,276,107,2020-03-04 19:23:03.752
+Europe,France,France,285,12,4,2020-03-04 20:43:02.752
+Europe,Germany,Germany,262,16,0,2020-03-04 19:33:03.752
+Europe,Spain,Spain,222,2,2,2020-03-04 20:43:02.752
+Europe,Switzerland,Switzerland,90,3,0,2020-03-04 19:33:03.752
+Europe,UK,UK,85,8,0,2020-03-04 19:33:03.752
+Europe,Norway,Norway,56,0,0,2020-03-04 19:33:03.752
+Europe,Croatia,Croatia,10,0,0,2020-03-04 16:53:02.752
+Europe,Denmark,Denmark,10,0,0,2020-03-04 00:03:15.752
+Europe,Netherlands,Netherlands,38,0,0,2020-03-04 12:33:03.752
+Europe,Sweden,Sweden,35,0,0,2020-03-04 12:33:03.752
+Europe,Iceland,Iceland,26,0,0,2020-03-04 19:33:03.752
+Europe,Belgium,Belgium,23,1,0,2020-03-04 12:33:03.752
+Europe,Ireland,Ireland,6,0,0,2020-03-04 21:13:07.752
+Europe,Portugal,Portugal,5,0,0,2020-03-04 12:43:03.752
+Europe,San Marino,San Marino,16,0,1,2020-03-04 19:33:03.752
+Europe,Austria,Austria,29,0,0,2020-03-04 19:33:03.752
+Europe,Greece,Greece,9,0,0,2020-03-04 19:33:03.752
+Europe,Belarus,Belarus,6,0,0,2020-03-04 12:43:03.752
+Europe,Czech Republic,Czech Republic,8,0,0,2020-03-04 19:33:03.752
+Europe,Latvia,Latvia,1,0,0,2020-03-04 01:33:07.752
+Europe,Romania,Romania,4,1,0,2020-03-04 00:53:02.752
+Europe,Saint Barthelemy,Saint Barthelemy,3,0,0,2020-03-04 02:43:03.752
+Europe,Hungary,Hungary,2,0,0,2020-03-04 19:33:03.752
+Europe,Faroe Islands,Faroe Islands,1,0,0,2020-03-04 12:53:03.752
+Europe,Gibraltar,Gibraltar,1,0,0,2020-03-04 13:03:13.752
+Europe,Liechtenstein,Liechtenstein,1,0,0,2020-03-04 01:33:07.752
+Europe,Poland,Poland,1,0,0,2020-03-04 15:13:18.752
+Australia,Australia,New South Wales,22,4,1,2020-03-04 20:43:03.752
+Australia,Australia,Victoria,10,4,0,2020-03-04 12:43:03.752
+Australia,Australia,South Australia,5,2,0,2020-03-04 21:03:07.752
+Australia,Australia,Northern Territory,1,0,0,2020-03-04 19:43:02.752
+Australia,New Zealand,New Zealand,3,0,0,2020-03-04 20:13:11.752
+North America,US,King County,31,1,9,2020-03-04 19:53:02.752
+North America,US,Snohomish County,8,0,1,2020-03-04 19:53:02.752
+North America,US,Los Angeles,7,0,0,2020-03-04 18:13:18.752
+North America,Canada,British Columbia,12,3,0,2020-03-04 04:23:05.752
+North America,US,Westchester County,10,0,0,2020-03-04 21:23:10.752
+North America,US,Contra Costa County,1,0,0,2020-03-04 04:23:05.752
+North America,US,Placer County,2,0,1,2020-03-04 19:53:02.752
+North America,US,Orange County,3,0,0,2020-03-04 02:13:11.752
+Africa,Senegal,Senegal,4,0,0,2020-03-04 20:43:02.752
+Africa,Tunisia,Tunisia,1,0,0,2020-03-04 01:33:07.752
+Africa,Algeria,Algeria,12,0,0,2020-03-04 19:33:03.752
+South America,Argentina,Argentina,1,0,0,2020-03-04 01:33:07.752
+South America,Ecuador,Ecuador,10,0,0,2020-03-04 19:33:03.752
+South America,Brazil,Brazil,4,0,0,2020-03-04 20:33:02.752
+South America,Chile,Chile,1,0,0,2020-03-04 01:33:07.752
 Asia,South Korea,South Korea,5186,30,28,2020-03-03 09:43:02.752
 Asia,Jordan,Jordan,1,0,0,2020-03-03 15:33:02.752
 Asia,Iran,Iran,2336,291,77,2020-03-03 14:23:03.752
@@ -33,7 +92,7 @@ Europe,Ukraine,Ukraine,1,0,0,2020-03-03 15:33:02.752
 Europe,Portugal,Portugal,2,0,0,2020-03-03 15:33:02.752
 Europe,Luxembourg,Luxembourg,1,0,0,2020-03-03 00:23:16.752
 Europe,San Marino,San Marino,10,0,1,2020-03-03 15:23:03.752
-Austria,Austria,21,0,0,2020-03-03 15:13:26.752
+Europe,Austria,Austria,21,0,0,2020-03-03 15:13:26.752
 Australia,Australia,New South Wales,13,4,0,2020-03-03 15:13:26.752
 Australia,Australia,Queensland,11,1,0,2020-03-03 15:23:03.752
 North America,US,King County,21,1,6,2020-03-03 20:23:05.752
