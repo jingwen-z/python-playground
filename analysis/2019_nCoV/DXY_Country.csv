@@ -1,4 +1,443 @@
 continentName,countryName,stateName,confirmedCount,curedCount,deadCount,updateTime
+Europe,Italy,Italy,10149,724,631,2020-03-10 17:53:02.752
+Asia,Iran,Iran,8042,2731,291,2020-03-10 19:13:20.752
+Asia,South Korea,South Korea,7513,247,54,2020-03-10 19:13:20.752
+Europe,France,France,1784,12,33,2020-03-10 18:53:02.752
+Europe,Spain,Spain,1695,32,35,2020-03-10 23:53:02.752
+Europe,Germany,Germany,1457,18,2,2020-03-10 18:53:02.752
+Asia,Japan,Japan,581,101,10,2020-03-10 16:13:16.752
+Europe,Switzerland,Switzerland,491,3,3,2020-03-10 23:53:02.752
+Europe,Norway,Norway,400,1,0,2020-03-10 23:53:02.752
+Europe,Netherlands,Netherlands,382,0,4,2020-03-10 13:53:06.752
+Europe,UK,UK,382,18,6,2020-03-10 23:53:02.752
+Europe,Sweden,Sweden,355,1,0,2020-03-10 23:53:02.752
+Europe,Belgium,Belgium,267,1,0,2020-03-10 11:53:03.752
+North America,US,Washington,267,1,23,2020-03-10 22:13:11.752
+Europe,Denmark,Denmark,262,1,0,2020-03-10 17:33:34.752
+Europe,Austria,Austria,182,4,0,2020-03-10 16:13:16.752
+North America,US,New York,173,0,0,2020-03-10 17:13:27.752
+Asia,Singapore,Singapore,160,78,0,2020-03-10 05:13:07.752
+North America,US,California,144,2,2,2020-03-10 19:13:28.752
+Asia,Malaysia,Malaysia,129,24,0,2020-03-10 16:33:13.752
+Asia,Bahrain,Bahrain,110,22,0,2020-03-10 18:53:02.752
+North America,US,Massachusetts,92,1,0,2020-03-10 22:13:11.752
+Europe,Greece,Greece,89,0,0,2020-03-10 10:53:03.752
+Asia,United Arab Emirates,United Arab Emirates,74,12,0,2020-03-10 11:13:12.752
+Asia,Iraq,Iraq,71,3,7,2020-03-10 05:13:07.752
+Europe,Iceland,Iceland,69,1,0,2020-03-10 12:53:02.752
+Asia,Kuwait,Kuwait,69,1,0,2020-03-10 10:13:28.752
+Africa,Egypt,Egypt,59,1,1,2020-03-10 05:13:07.752
+Asia,Israel,Israel,58,4,0,2020-03-10 12:53:02.752
+Asia,India,India,56,4,0,2020-03-10 10:13:28.752
+Australia,Australia,New South Wales,55,4,2,2020-03-10 14:13:14.752
+Asia,Thailand,Thailand,53,33,1,2020-03-10 08:53:03.752
+Europe,San Marino,San Marino,51,0,2,2020-03-10 05:13:07.752
+North America,US,Diamond Princess,46,0,0,2020-03-10 02:33:04.752
+Europe,Czech Republic,Czech Republic,41,0,0,2020-03-10 13:33:14.752
+Asia,Lebanon,Lebanon,41,1,1,2020-03-10 10:53:03.752
+Europe,Portugal,Portugal,41,0,0,2020-03-10 12:53:02.752
+Europe,Finland,Finland,40,1,0,2020-03-10 10:13:30.752
+North America,Canada,Ontario,36,4,0,2020-03-10 17:13:32.752
+Europe,Ireland,Ireland,34,0,0,2020-03-10 19:13:21.752
+Asia,Philippines,Philippines,33,2,1,2020-03-10 10:13:30.752
+South America,Brazil,Brazil,31,0,0,2020-03-10 16:53:13.752
+Europe,Slovenia,Slovenia,31,0,0,2020-03-10 16:13:26.752
+Asia,Vietnam,Vietnam,31,16,0,2020-03-10 19:13:21.752
+Asia,Indonesia,Indonesia,27,2,0,2020-03-10 12:53:02.752
+Europe,Romania,Romania,25,3,0,2020-03-10 16:33:13.752
+Asia,Palestine,Palestine,25,0,0,2020-03-10 19:13:21.752
+Asia,Qatar,Qatar,24,0,0,2020-03-10 16:13:26.752
+Europe,Poland,Poland,22,0,0,2020-03-10 20:13:07.752
+North America,US,Grand Princess,21,0,0,2020-03-10 02:33:04.752
+Asia,Saudi Arabia,Saudi Arabia,20,1,0,2020-03-10 05:13:07.752
+Australia,Australia,Queensland,18,8,0,2020-03-10 13:53:06.752
+Australia,Australia,Victoria,18,7,0,2020-03-10 14:33:13.752
+Asia,Oman,Oman,18,9,0,2020-03-10 08:33:02.752
+South America,Argentina,Argentina,17,0,1,2020-03-10 05:13:07.752
+North America,US,Georgia,17,0,0,2020-03-10 03:53:03.752
+Asia,Pakistan,Pakistan,16,1,0,2020-03-10 05:13:07.752
+North America,US,Colorado,15,0,0,2020-03-10 18:33:03.752
+North America,US,Florida,15,0,2,2020-03-10 13:13:14.752
+North America,US,New Jersey,15,0,1,2020-03-10 18:13:16.752
+North America,US,Oregon,15,0,0,2020-03-10 19:53:13.752
+Europe,Croatia,Croatia,14,0,0,2020-03-10 16:53:13.752
+South America,Chile,Chile,13,0,0,2020-03-10 05:13:07.752
+North America,US,Texas,13,0,0,2020-03-10 04:13:13.752
+Europe,Estonia,Estonia,12,0,0,2020-03-10 11:13:13.752
+North America,US,Illinois,12,2,0,2020-03-10 18:33:03.752
+North America,US,Pennsylvania,12,0,0,2020-03-10 18:13:16.752
+Asia,Azerbaijan,Azerbaijan,11,0,0,2020-03-10 16:13:27.752
+South America,Peru,Peru,11,0,0,2020-03-10 16:33:13.752
+Europe,Albania,Albania,10,0,0,2020-03-10 12:53:02.752
+Europe,Russia,Russia,10,3,0,2020-03-10 19:13:21.752
+Europe,Belarus,Belarus,9,3,0,2020-03-10 16:13:27.752
+Europe,Latvia,Latvia,8,1,0,2020-03-10 10:13:41.752
+North America,US,Iowa,8,0,0,2020-03-10 02:33:04.752
+North America,US,Maryland,8,0,0,2020-03-10 18:13:16.752
+North America,Mexico,Mexico,7,4,0,2020-03-10 05:13:07.752
+Europe,North Macedonia,North Macedonia,7,0,0,2020-03-10 10:53:03.752
+Europe,Slovakia,Slovakia,7,0,0,2020-03-10 05:13:07.752
+Africa,South Africa,South Africa,7,0,0,2020-03-10 05:13:07.752
+North America,US,North Carolina,7,0,0,2020-03-10 02:33:04.752
+North America,US,South Carolina,7,0,0,2020-03-10 02:33:04.752
+North America,US,Tennessee,7,0,0,2020-03-10 19:53:13.752
+North America,US,Virginia,7,0,0,2020-03-10 03:53:03.752
+Australia,Australia,Western Australia,6,0,1,2020-03-10 14:33:13.752
+Asia,Maldives,Maldives,6,0,0,2020-03-10 05:13:07.752
+North America,US,Arizona,6,1,0,2020-03-10 02:53:04.752
+North America,US,Indiana,6,0,0,2020-03-10 17:13:25.752
+North America,US,Kentucky,6,0,0,2020-03-10 02:33:04.752
+Asia,Afghanistan,Afghanistan,5,0,0,2020-03-10 12:33:02.752
+Europe,Bosnia and Herzegovina,Bosnia and Herzegovina,5,0,0,2020-03-10 05:13:07.752
+Europe,Luxembourg,Luxembourg,5,0,0,2020-03-10 05:13:07.752
+Europe,Malta,Malta,5,0,0,2020-03-10 16:33:13.752
+Europe,Serbia,Serbia,5,0,0,2020-03-10 18:53:03.752
+Africa,Tunisia,Tunisia,5,0,0,2020-03-10 05:13:07.752
+North America,US,District of Columbia,5,0,0,2020-03-10 03:53:03.752
+North America,Canada,Quebec,4,0,0,2020-03-10 00:53:03.752
+North America,US,Nevada,4,0,0,2020-03-10 02:33:04.752
+North America,US,New Hampshire,4,0,0,2020-03-10 02:33:04.752
+Asia,Bangladesh,Bangladesh,3,0,0,2020-03-10 06:19:32.752
+South America,Colombia,Colombia,3,0,0,2020-03-10 05:33:02.752
+Europe,Cyprus,Cyprus,3,0,0,2020-03-10 13:13:13.752
+Africa,Morocco,Morocco,3,0,1,2020-03-10 14:13:14.752
+Europe,Moldova,Moldova,3,0,0,2020-03-10 19:13:21.752
+North America,US,Minnesota,3,0,0,2020-03-10 19:53:13.752
+North America,US,Nebraska,3,0,0,2020-03-10 03:13:17.752
+North America,US,Ohio,3,0,0,2020-03-10 03:13:17.752
+North America,US,Rhode Island,3,0,0,2020-03-10 03:13:17.752
+North America,US,Wisconsin,3,1,0,2020-03-10 17:13:25.752
+North America,St. Martin,St. Martin,2,0,0,2020-03-10 05:33:02.752
+North America,US,Connecticut,2,0,0,2020-03-10 03:13:17.752
+North America,US,Hawaii,2,0,0,2020-03-10 03:13:17.752
+North America,US,Oklahoma,2,0,0,2020-03-10 17:13:25.752
+North America,US,Utah,2,0,0,2020-03-10 16:53:13.752
+Australia,Australia,Northern Territory,1,0,0,2020-03-10 14:13:14.752
+Asia,Brunei,Brunei,1,0,0,2020-03-10 06:13:43.752
+Africa,Burkina Faso,Burkina Faso,1,0,0,2020-03-10 05:33:02.752
+Europe,Channel Islands,Channel Islands,1,0,0,2020-03-10 05:33:02.752
+Europe,Gibraltar,Gibraltar,1,1,0,2020-03-10 08:33:03.752
+Europe,Holy See,Holy See,1,0,0,2020-03-10 19:13:21.752
+Asia,Mongolia,Mongolia,1,0,0,2020-03-10 06:13:43.752
+Asia,Nepal,Nepal,1,1,0,2020-03-10 08:33:03.752
+South America,Panama,Panama,1,0,0,2020-03-10 06:13:43.752
+Asia,Sri Lanka,Sri Lanka,1,1,0,2020-03-10 08:33:03.752
+North America,US,Kansas,1,0,0,2020-03-10 03:13:17.752
+North America,US,Louisiana,1,0,0,2020-03-10 03:13:17.752
+North America,US,Missouri,1,0,0,2020-03-10 03:13:17.752
+North America,US,Vermont,1,0,0,2020-03-10 03:13:17.752
+North America,US,Alaska,0,0,0,2020-03-10 02:33:04.752
+North America,US,Arkansas,0,0,0,2020-03-10 02:33:04.752
+North America,US,Delaware,0,0,0,2020-03-10 02:33:04.752
+North America,US,Idaho,0,0,0,2020-03-10 02:33:04.752
+North America,US,Maine,0,0,0,2020-03-10 02:33:04.752
+North America,US,Michigan,0,0,0,2020-03-10 02:33:04.752
+North America,US,Mississippi,0,0,0,2020-03-10 02:33:04.752
+North America,US,Montana,0,0,0,2020-03-10 02:33:04.752
+North America,US,New Mexico,0,0,0,2020-03-10 02:33:04.752
+North America,US,North Dakota,0,0,0,2020-03-10 02:33:04.752
+North America,US,South Dakota,0,0,0,2020-03-10 02:33:04.752
+North America,US,West Virginia,0,0,0,2020-03-10 02:33:04.752
+North America,US,Wyoming,0,0,0,2020-03-10 02:33:04.752
+Europe,Italy,Italy,9172,724,463,2020-03-09 18:13:11.752
+Asia,South Korea,South Korea,7478,118,53,2020-03-09 09:03:03.752
+Asia,Iran,Iran,7161,2394,237,2020-03-09 10:53:03.752
+Europe,France,France,1412,12,30,2020-03-09 21:43:03.752
+Europe,Germany,Germany,1176,18,2,2020-03-09 18:13:11.752
+Europe,Spain,Spain,1073,32,28,2020-03-09 18:13:11.752
+Asia,Japan,Japan,511,76,17,2020-03-09 09:13:17.752
+Europe,Switzerland,Switzerland,374,3,2,2020-03-09 11:33:10.752
+Europe,Netherlands,Netherlands,321,0,3,2020-03-09 18:13:11.752
+Europe,UK,UK,321,18,4,2020-03-09 18:33:03.752
+Europe,Sweden,Sweden,248,1,0,2020-03-09 18:33:03.752
+Europe,Belgium,Belgium,239,1,0,2020-03-09 10:43:05.752
+Europe,Norway,Norway,205,1,0,2020-03-09 18:33:03.752
+Europe,Austria,Austria,131,2,0,2020-03-09 18:33:03.752
+Asia,Malaysia,Malaysia,117,24,0,2020-03-09 09:43:03.752
+North America,US,Westchester County,98,0,0,2020-03-09 17:13:16.752
+Asia,Bahrain,Bahrain,95,14,0,2020-03-09 10:03:17.752
+Europe,Denmark,Denmark,90,1,0,2020-03-09 18:13:11.752
+Asia,Iraq,Iraq,60,9,6,2020-03-09 23:33:02.752
+Europe,Iceland,Iceland,58,0,0,2020-03-09 10:03:17.752
+Africa,Egypt,Egypt,55,12,1,2020-03-09 10:03:17.752
+Australia,Australia,New South Wales,48,4,3,2020-03-09 18:53:13.752
+Asia,India,India,43,3,0,2020-03-09 09:13:17.752
+North America,Canada,Ontario,34,4,0,2020-03-09 17:53:24.752
+North America,Canada,British Columbia,32,4,1,2020-03-09 22:43:25.752
+Europe,Finland,Finland,30,1,0,2020-03-09 09:23:03.752
+South America,Brazil,Brazil,25,0,0,2020-03-09 10:13:06.752
+Europe,Ireland,Ireland,21,0,0,2020-03-09 09:53:06.752
+Africa,Algeria,Algeria,20,0,0,2020-03-09 10:13:06.752
+Asia,Philippines,Philippines,20,1,1,2020-03-09 09:23:03.752
+Asia,Indonesia,Indonesia,19,0,0,2020-03-09 11:33:10.752
+North America,US,New York County,19,0,0,2020-03-09 17:13:16.752
+Asia,Qatar,Qatar,18,0,0,2020-03-09 10:13:09.752
+North America,US,Nassau County,17,0,0,2020-03-09 17:13:14.752
+Europe,Poland,Poland,16,0,0,2020-03-09 11:33:10.752
+Australia,Australia,Victoria,15,7,0,2020-03-09 18:33:03.752
+South America,Ecuador,Ecuador,15,0,0,2020-03-09 09:03:03.752
+Asia,Georgia,Georgia,15,0,0,2020-03-09 10:13:06.752
+Asia,Saudi Arabia,Saudi Arabia,15,0,0,2020-03-09 09:03:03.752
+North America,Costa Rica,Costa Rica,9,0,0,2020-03-09 09:03:03.752
+Europe,Hungary,Hungary,9,0,0,2020-03-09 09:43:03.752
+North America,Canada,Alberta,7,0,0,2020-03-09 17:53:24.752
+South America,Peru,Peru,7,0,0,2020-03-09 10:13:23.752
+North America,US,Placer County,7,0,1,2020-03-09 08:23:03.752
+Europe,Belarus,Belarus,6,1,0,2020-03-09 11:33:10.752
+Europe,Latvia,Latvia,6,0,0,2020-03-09 09:13:18.752
+North America,US,Harris County,6,0,0,2020-03-09 09:13:19.752
+North America,US,Fulton County,5,0,0,2020-03-09 18:53:13.752
+North America,US,Montgomery County,5,0,0,2020-03-09 18:33:03.752
+Australia,Australia,Western Australia,4,0,1,2020-03-09 18:33:03.752
+Europe,Bulgaria,Bulgaria,4,0,0,2020-03-09 14:43:03.752
+North America,US,Kershaw County,4,0,0,2020-03-09 00:03:07.752
+North America,US,Orange County,4,0,0,2020-03-09 00:23:10.752
+North America,US,Rockland County,4,0,0,2020-03-09 17:33:13.752
+North America,Canada,Quebec,3,0,0,2020-03-09 08:43:03.752
+North America,US,Broward County,3,0,0,2020-03-09 08:53:03.752
+North America,US,Cobb County,3,0,0,2020-03-09 03:53:03.752
+North America,US,Douglas County,3,0,0,2020-03-09 00:53:03.752
+North America,US,Johnson County,3,0,0,2020-03-09 08:43:03.752
+North America,US,Sonoma County,3,0,0,2020-03-09 12:03:07.752
+Europe,Albania,Albania,2,0,0,2020-03-09 09:03:03.752
+Europe,Cyprus,Cyprus,2,0,0,2020-03-09 18:33:03.752
+Africa,Nigeria,Nigeria,2,0,0,2020-03-09 09:43:03.752
+North America,St. Martin,St. Martin,2,0,0,2020-03-09 10:43:06.752
+North America,US,Harrison County,2,0,0,2020-03-09 08:43:03.752
+North America,US,Hendricks County,2,0,0,2020-03-09 08:23:03.752
+North America,US,Honolulu County,2,0,0,2020-03-09 03:43:03.752
+North America,US,Manatee County,2,0,0,2020-03-09 08:53:03.752
+Asia,Brunei,Brunei,1,0,0,2020-03-09 18:33:03.752
+Europe,Moldova,Moldova,1,0,0,2020-03-09 14:43:03.752
+Europe,Saint Barthelemy,Saint Barthelemy,1,0,0,2020-03-09 10:43:06.752
+North America,US,Bennington County,1,0,0,2020-03-09 08:53:03.752
+North America,US,Carver County,1,0,0,2020-03-09 08:43:02.752
+North America,US,Charlotte County,1,0,0,2020-03-09 08:53:03.752
+North America,US,Cherokee County,1,0,0,2020-03-09 03:53:03.752
+North America,US,Collin County,1,0,0,2020-03-09 18:53:13.752
+North America,US,Grant County,1,0,1,2020-03-09 08:43:03.752
+North America,US,Jefferson County,1,0,0,2020-03-09 00:23:10.752
+North America,US,Jefferson Parish,1,0,0,2020-03-09 18:53:13.752
+North America,US,Rockingham County,1,0,0,2020-03-09 22:43:25.752
+North America,US,Shasta County,1,0,0,2020-03-09 03:43:03.752
+North America,US,Spartanburg County,1,0,0,2020-03-09 00:03:07.752
+Europe,Italy,Italy,7375,622,366,2020-03-08 18:03:04.752
+Asia,South Korea,South Korea,7314,118,50,2020-03-08 12:53:03.752
+Asia,Iran,Iran,6566,2134,194,2020-03-08 11:03:30.752
+Europe,France,France,1126,12,19,2020-03-08 18:03:04.752
+Europe,Germany,Germany,1040,18,0,2020-03-08 21:03:03.752
+Europe,Spain,Spain,673,30,17,2020-03-08 20:33:02.752
+Asia,Japan,Japan,502,76,6,2020-03-08 14:53:11.752
+Europe,Switzerland,Switzerland,337,3,2,2020-03-08 17:23:07.752
+Europe,UK,UK,273,18,3,2020-03-08 22:03:10.752
+Europe,Netherlands,Netherlands,265,0,3,2020-03-08 13:43:02.752
+Europe,Sweden,Sweden,203,0,0,2020-03-08 14:03:12.752
+Europe,Belgium,Belgium,200,1,0,2020-03-08 17:23:07.752
+Europe,Norway,Norway,176,0,0,2020-03-08 21:03:03.752
+Asia,Singapore,Singapore,150,78,0,2020-03-08 13:33:13.752
+Europe,Austria,Austria,104,0,0,2020-03-08 09:13:14.752
+Asia,Malaysia,Malaysia,99,24,0,2020-03-08 14:43:03.752
+North America,US,King County,83,1,17,2020-03-08 20:23:09.752
+North America,US,Westchester County,83,0,0,2020-03-08 18:03:07.752
+Europe,Greece,Greece,73,0,0,2020-03-08 17:23:07.752
+Asia,Kuwait,Kuwait,64,1,0,2020-03-08 15:33:04.752
+Asia,Iraq,Iraq,60,0,6,2020-03-08 21:03:03.752
+Africa,Egypt,Egypt,49,1,1,2020-03-08 19:03:11.752
+Asia,India,India,39,3,0,2020-03-08 09:23:05.752
+Asia,Israel,Israel,39,2,0,2020-03-08 21:03:03.752
+Australia,Australia,New South Wales,38,4,3,2020-03-08 05:13:07.752
+North America,US,Santa Clara County,38,1,0,2020-03-08 21:23:03.752
+Europe,San Marino,San Marino,36,0,1,2020-03-08 14:23:10.752
+Europe,Denmark,Denmark,35,1,0,2020-03-08 14:53:11.752
+Asia,Lebanon,Lebanon,32,1,0,2020-03-08 18:13:19.752
+Europe,Czech Republic,Czech Republic,31,0,0,2020-03-08 19:53:03.752
+North America,US,Snohomish County,31,0,1,2020-03-08 21:43:03.752
+Europe,Portugal,Portugal,30,0,0,2020-03-08 19:53:03.752
+Asia,Vietnam,Vietnam,30,16,0,2020-03-08 19:53:03.752
+North America,Canada,Toronto,28,3,0,2020-03-08 21:33:02.752
+North America,Canada,British Columbia,27,4,0,2020-03-08 05:13:07.752
+Europe,Finland,Finland,23,1,0,2020-03-08 10:03:13.752
+Europe,Republic of Ireland,Republic of Ireland,21,0,0,2020-03-08 21:03:03.752
+South America,Brazil,Brazil,20,0,0,2020-03-08 17:23:07.752
+Africa,Algeria,Algeria,19,0,0,2020-03-08 05:23:03.752
+Europe,Ireland,Ireland,19,0,0,2020-03-08 21:03:03.752
+Europe,Russia,Russia,17,3,0,2020-03-08 21:03:03.752
+Europe,Slovenia,Slovenia,16,0,0,2020-03-08 17:03:16.752
+Australia,Australia,Queensland,15,8,0,2020-03-08 05:43:04.752
+Asia,Qatar,Qatar,15,0,0,2020-03-08 17:03:16.752
+Europe,Romania,Romania,15,3,0,2020-03-08 17:23:07.752
+South America,Ecuador,Ecuador,14,0,0,2020-03-08 05:23:03.752
+North America,US,Los Angeles,14,0,0,2020-03-08 01:13:48.752
+Asia,Georgia,Georgia,13,0,0,2020-03-08 05:23:03.752
+South America,Argentina,Argentina,12,0,1,2020-03-08 22:03:11.752
+North America,US,Contra Costa County,12,0,0,2020-03-08 21:43:03.752
+North America,US,New York County,12,0,0,2020-03-08 04:13:22.752
+Europe,Poland,Poland,11,0,0,2020-03-08 21:13:10.752
+Asia,Saudi Arabia,Saudi Arabia,11,0,0,2020-03-08 10:13:19.752
+Asia,Philippines,Philippines,10,1,1,2020-03-08 17:13:06.752
+North America,US,San Francisco County,9,0,0,2020-03-08 01:23:12.752
+South America,Chile,Chile,8,0,0,2020-03-08 15:43:03.752
+North America,US,Suffolk County,8,1,0,2020-03-08 21:13:14.752
+North America,US,Washington County,8,0,0,2020-03-08 19:43:03.752
+Europe,Hungary,Hungary,7,0,0,2020-03-08 15:03:02.752
+North America,Mexico,Mexico,7,1,0,2020-03-08 05:13:06.752
+North America,US,Cook County,7,2,0,2020-03-08 20:23:09.752
+North America,US,Middlesex County,7,0,0,2020-03-08 21:13:12.752
+Asia,Indonesia,Indonesia,6,0,0,2020-03-08 10:03:13.752
+Asia,Pakistan,Pakistan,6,1,0,2020-03-08 04:53:02.752
+South America,Peru,Peru,6,0,0,2020-03-08 05:23:03.752
+North America,US,Fort Bend County,6,0,0,2020-03-08 17:33:03.752
+North America,US,Norfolk County,6,0,0,2020-03-08 21:13:14.752
+North America,Costa Rica,Costa Rica,5,0,0,2020-03-08 05:13:07.752
+North America,Dominican Republic,Dominican Republic,5,0,0,2020-03-08 17:23:08.752
+North America,US,Nassau County,5,0,0,2020-03-08 16:03:05.752
+Asia,Afghanistan,Afghanistan,4,0,0,2020-03-08 04:53:03.752
+Europe,Bulgaria,Bulgaria,4,0,0,2020-03-08 11:13:17.752
+North America,Canada,Montreal,4,0,0,2020-03-08 16:03:05.752
+Asia,Maldives,Maldives,4,0,0,2020-03-08 21:13:10.752
+Africa,Senegal,Senegal,4,1,0,2020-03-08 20:23:08.752
+North America,US,Bergen County,4,0,0,2020-03-08 21:23:03.752
+North America,US,Grafton County,4,0,0,2020-03-08 17:53:03.752
+North America,US,Montgomery County,4,0,0,2020-03-08 21:53:04.752
+North America,US,Montgomery County,4,0,0,2020-03-08 21:43:03.752
+North America,US,Pierce County,4,0,0,2020-03-08 21:43:03.752
+Asia,Bangladesh,Bangladesh,3,0,0,2020-03-08 10:53:02.752
+North America,Canada,Edmonton,3,0,0,2020-03-08 16:23:07.752
+Europe,Luxembourg,Luxembourg,3,0,0,2020-03-08 05:13:06.752
+Europe,Malta,Malta,3,0,0,2020-03-08 09:13:16.752
+Europe,Slovakia,Slovakia,3,0,0,2020-03-08 09:13:15.752
+Africa,South Africa,South Africa,3,0,0,2020-03-08 10:23:04.752
+Australia,Australia,Tasmania,2,0,0,2020-03-08 05:43:04.752
+Asia,Cambodia,Cambodia,2,1,0,2020-03-08 04:53:03.752
+Africa,Cameroon,Cameroon,2,0,0,2020-03-08 05:23:03.752
+Europe,Faroe Islands,Faroe Islands,2,0,0,2020-03-08 05:13:07.752
+Europe,Latvia,Latvia,2,0,0,2020-03-08 10:33:03.752
+Africa,Tunisia,Tunisia,2,0,0,2020-03-08 21:13:10.752
+North America,US,Clark County,2,0,0,2020-03-08 21:43:03.752
+North America,US,Fairfax County,2,0,0,2020-03-08 21:33:02.752
+North America,US,Jackson County,2,0,0,2020-03-08 00:13:16.752
+North America,US,Lee County,2,0,1,2020-03-08 15:33:04.752
+North America,US,Rockingham County,2,0,0,2020-03-08 17:53:03.752
+North America,US,Washington,2,0,0,2020-03-08 13:53:03.752
+North America,US,Washoe County,2,0,0,2020-03-08 21:43:03.752
+Europe,Moldova,Moldova,1,0,0,2020-03-08 05:13:07.752
+South America,Paraguay,Paraguay,1,0,0,2020-03-08 09:13:16.752
+North America,US,Berkshire County,1,0,0,2020-03-08 00:43:03.752
+North America,US,Davidson County,1,0,0,2020-03-08 18:03:06.752
+North America,US,Douglas County,1,0,0,2020-03-08 19:53:03.752
+North America,US,Fairfield County,1,0,0,2020-03-08 21:23:03.752
+North America,US,Fresno County,1,0,0,2020-03-08 04:23:15.752
+North America,US,Harford County,1,0,0,2020-03-08 21:53:03.752
+North America,US,Hendricks County,1,0,0,2020-03-08 19:33:03.752
+North America,US,Hudson County,1,0,0,2020-03-08 19:43:03.752
+North America,US,Johnson County,1,0,0,2020-03-08 00:33:02.752
+North America,US,Kittitas County,1,0,0,2020-03-08 00:43:03.752
+North America,US,Manatee County,1,0,0,2020-03-08 06:23:05.752
+North America,US,Marion County,1,0,0,2020-03-08 19:43:03.752
+North America,US,Okaloosa County,1,0,0,2020-03-08 03:03:08.752
+North America,US,Polk County,1,0,0,2020-03-08 04:13:22.752
+North America,US,Riverside County,1,0,0,2020-03-08 10:33:03.752
+North America,US,Santa Rosa County,1,0,1,2020-03-08 15:33:04.752
+North America,US,Shelby County,1,0,0,2020-03-08 16:13:36.752
+North America,US,Spokane County,1,0,0,2020-03-08 21:53:04.752
+North America,US,St. Louis County,1,0,0,2020-03-08 11:23:08.752
+North America,US,Suffolk County,1,0,0,2020-03-08 16:03:05.752
+North America,US,Ulster County,1,0,0,2020-03-08 16:23:07.752
+North America,US,Unassigned Location,1,0,0,2020-03-08 06:23:05.752
+North America,US,Unknown Location,1,0,0,2020-03-08 21:23:03.752
+North America,US,Volusia County,1,0,0,2020-03-08 03:03:08.752
+Asia,South Korea,South Korea,7041,135,44,2020-03-07 10:13:22.752
+Europe,Italy,Italy,5883,589,233,2020-03-07 17:33:03.752
+Asia,Iran,Iran,5823,1669,145,2020-03-07 17:43:05.752
+Europe,France,France,1009,12,11,2020-03-07 20:33:02.752
+Europe,Germany,Germany,799,18,0,2020-03-07 17:43:05.752
+Europe,Spain,Spain,500,30,10,2020-03-07 17:43:05.752
+Asia,Japan,Japan,461,76,6,2020-03-07 17:43:05.752
+Europe,Switzerland,Switzerland,268,3,1,2020-03-07 17:43:05.752
+Europe,UK,UK,206,18,2,2020-03-07 17:43:05.752
+Europe,Netherlands,Netherlands,188,0,1,2020-03-07 17:43:05.752
+Europe,Belgium,Belgium,169,1,0,2020-03-07 17:53:03.752
+Europe,Sweden,Sweden,161,0,0,2020-03-07 17:53:03.752
+Europe,Norway,Norway,147,0,0,2020-03-07 17:53:03.752
+Asia,Singapore,Singapore,138,78,0,2020-03-07 17:53:03.752
+Asia,Malaysia,Malaysia,93,23,0,2020-03-07 17:53:03.752
+Asia,Bahrain,Bahrain,85,4,0,2020-03-07 18:13:26.752
+Europe,Austria,Austria,79,0,0,2020-03-07 17:53:03.752
+North America,US,King County,71,1,15,2020-03-07 20:23:03.752
+Asia,Kuwait,Kuwait,61,0,0,2020-03-07 18:13:26.752
+North America,US,Westchester County,57,0,0,2020-03-07 18:23:05.752
+Asia,Iraq,Iraq,54,0,4,2020-03-07 18:13:27.752
+Europe,Iceland,Iceland,50,0,0,2020-03-07 18:13:27.752
+Asia,Thailand,Thailand,50,31,1,2020-03-07 10:13:23.752
+Europe,Greece,Greece,46,0,0,2020-03-07 18:13:27.752
+Asia,United Arab Emirates,United Arab Emirates,45,7,0,2020-03-07 10:13:22.752
+Asia,India,India,34,3,0,2020-03-07 18:13:27.752
+North America,US,Santa Clara County,32,1,0,2020-03-07 23:43:03.752
+Australia,Australia,New South Wales,28,4,1,2020-03-07 02:03:30.752
+North America,Canada,Toronto,27,3,0,2020-03-07 03:53:03.752
+North America,US,Snohomish County,27,0,1,2020-03-07 20:23:03.752
+Europe,San Marino,San Marino,23,0,1,2020-03-07 02:13:08.752
+Asia,Palestine,Palestine,22,0,0,2020-03-07 02:23:06.752
+North America,Canada,British Columbia,21,4,0,2020-03-07 03:53:03.752
+North America,US,Grand Princess Cruise Ship,21,0,0,2020-03-07 01:33:02.752
+Europe,Portugal,Portugal,20,0,0,2020-03-07 18:33:02.752
+Europe,Czech Republic,Czech Republic,19,0,0,2020-03-07 02:03:29.752
+Asia,Vietnam,Vietnam,18,16,0,2020-03-07 10:13:23.752
+North America,US,Los Angeles,14,0,0,2020-03-07 23:53:03.752
+Europe,Croatia,Croatia,12,0,0,2020-03-07 10:13:23.752
+Australia,Australia,Victoria,11,7,0,2020-03-07 02:03:30.752
+North America,US,New York County,11,0,0,2020-03-07 18:23:05.752
+Asia,Azerbaijan,Azerbaijan,9,0,0,2020-03-07 02:13:09.752
+Europe,Romania,Romania,9,3,0,2020-03-07 10:13:23.752
+North America,US,San Francisco County,9,0,0,2020-03-07 23:53:03.752
+South America,Argentina,Argentina,8,0,0,2020-03-07 02:13:09.752
+Asia,Philippines,Philippines,6,1,1,2020-03-07 10:13:23.752
+North America,US,Cook County,6,2,0,2020-03-07 01:53:03.752
+Europe,French Guiana,French Guiana,5,0,0,2020-03-07 03:23:05.752
+Australia,New Zealand,New Zealand,5,0,0,2020-03-07 02:03:29.752
+North America,US,Harris County,5,0,0,2020-03-07 05:13:03.752
+Europe,Hungary,Hungary,4,0,0,2020-03-07 03:53:03.752
+North America,US,Bergen County,4,0,0,2020-03-07 02:53:02.752
+North America,US,Nassau County,4,0,0,2020-03-07 00:03:28.752
+Europe,Bosnia and Herzegovina,Bosnia and Herzegovina,3,0,0,2020-03-07 02:13:09.752
+North America,Canada,Montreal,3,0,0,2020-03-07 02:23:08.752
+Europe,Malta,Malta,3,0,0,2020-03-07 20:43:03.752
+North America,US,Douglas County,3,0,0,2020-03-07 01:53:03.752
+North America,US,Fort Bend County,3,0,0,2020-03-07 02:03:30.752
+North America,US,Fulton County,3,0,0,2020-03-07 16:53:03.752
+North America,US,Maricopa County,3,1,0,2020-03-07 19:53:02.752
+North America,US,Providence County,3,0,0,2020-03-07 02:23:08.752
+North America,US,Washington County,3,0,0,2020-03-07 20:13:14.752
+Europe,Martinique,Martinique,2,0,0,2020-03-07 03:23:05.752
+North America,US,Alameda County,2,0,0,2020-03-07 13:13:14.752
+North America,US,Broward County,2,0,0,2020-03-07 04:43:02.752
+North America,US,Fairfield County,2,0,0,2020-03-07 20:13:14.752
+North America,US,Floyd County,2,0,0,2020-03-07 16:53:03.752
+North America,US,Lee County,2,0,0,2020-03-07 16:43:02.752
+North America,US,Pinal County,2,0,0,2020-03-07 17:13:23.752
+North America,US,Rockland County,2,0,0,2020-03-07 16:43:02.752
+North America,US,Saratoga County,2,0,0,2020-03-07 18:23:05.752
+North America,Canada,Edmonton,1,0,0,2020-03-07 02:23:08.752
+South America,Colombia,Colombia,1,0,0,2020-03-07 00:43:02.752
+North America,Costa Rica,Costa Rica,1,0,0,2020-03-07 00:43:02.752
+Africa,Togo,Togo,1,0,0,2020-03-07 02:13:09.752
+North America,US,Charleston County,1,0,0,2020-03-07 01:53:03.752
+North America,US,Clark County,1,0,0,2020-03-07 20:03:07.752
+North America,US,Cobb County,1,0,0,2020-03-07 16:53:03.752
+North America,US,Davis County,1,0,0,2020-03-07 04:43:02.752
+North America,US,El Paso County,1,0,0,2020-03-07 01:13:21.752
+North America,US,Honolulu County,1,0,0,2020-03-07 02:03:30.752
+North America,US,Jackson County,1,0,0,2020-03-07 20:03:06.752
+North America,US,Jefferson County,1,0,0,2020-03-07 16:43:02.752
+North America,US,Kershaw County,1,0,0,2020-03-07 02:03:30.752
+North America,US,Klamath County,1,0,0,2020-03-07 20:13:14.752
+North America,US,Madera County,1,0,0,2020-03-07 20:13:14.752
+North America,US,Middlesex County,1,0,0,2020-03-07 03:53:03.752
+North America,US,Pierce County,1,0,0,2020-03-07 03:13:44.752
+North America,US,Plymouth County,1,0,0,2020-03-07 03:53:03.752
+North America,US,Santa Cruz County,1,0,0,2020-03-07 23:43:03.752
+North America,US,Tulsa County,1,0,0,2020-03-07 04:43:02.752
+North America,US,Montgomery County,0,0,0,2020-03-07 19:53:02.752
 Asia,South Korea,South Korea,6593,135,42,2020-03-06 13:33:03.752
 Asia,Iran,Iran,4747,913,124,2020-03-06 12:23:04.752
 Europe,Italy,Italy,4636,523,197,2020-03-06 17:33:03.752
