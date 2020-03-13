@@ -1,4 +1,238 @@
 continentName,countryName,stateName,confirmedCount,curedCount,deadCount,updateTime
+Europe,Italy,Italy,12839,1258,1016,2020-03-12 18:33:02.752
+Asia,Iran,Iran,10075,2959,429,2020-03-12 11:13:27.752
+Asia,South Korea,South Korea,7869,333,66,2020-03-12 05:13:02.752
+Europe,Spain,Spain,3004,189,84,2020-03-12 01:17:58.752
+Europe,France,France,2876,12,61,2020-03-12 21:17:58.752
+Europe,Germany,Germany,2078,25,3,2020-03-12 09:53:06.752
+Europe,Norway,Norway,702,1,0,2020-03-12 13:13:31.752
+Europe,Switzerland,Switzerland,815,4,4,2020-03-12 20:53:02.752
+Asia,Japan,Japan,675,118,19,2020-03-12 05:13:02.752
+Europe,Denmark,Denmark,615,1,0,2020-03-12 09:53:06.752
+Europe,Sweden,Sweden,599,1,1,2020-03-12 21:39:09.752
+Europe,UK,UK,590,18,8,2020-03-12 21:33:03.752
+North America,US,Washington,442,1,31,2020-03-12 23:44:33.752
+Europe,Belgium,Belgium,399,1,3,2020-03-12 18:52:03.752
+North America,US,New York,328,0,0,2020-03-12 21:39:10.752
+Europe,Austria,Austria,302,4,1,2020-03-12 11:13:29.752
+North America,US,California,221,6,4,2020-03-12 23:44:33.752
+Asia,Israel,Israel,131,4,0,2020-03-12 21:39:09.752
+North America,US,Massachusetts,108,1,0,2020-03-12 21:39:09.752
+Europe,Iceland,Iceland,103,1,0,2020-03-12 21:39:09.752
+Europe,Czech Republic,Czech Republic,94,0,0,2020-03-12 01:33:03.752
+Europe,Slovenia,Slovenia,89,0,0,2020-03-12 13:33:02.752
+Asia,United Arab Emirates,United Arab Emirates,85,17,0,2020-03-12 21:39:09.752
+Asia,Kuwait,Kuwait,80,5,0,2020-03-12 09:13:24.752
+Asia,India,India,73,4,1,2020-03-12 08:33:13.752
+Asia,Iraq,Iraq,71,15,8,2020-03-12 08:33:13.752
+Asia,Thailand,Thailand,70,34,1,2020-03-12 08:53:02.752
+Europe,San Marino,San Marino,69,0,3,2020-03-12 08:53:02.752
+Africa,Egypt,Egypt,67,27,1,2020-03-12 08:53:02.752
+Asia,Lebanon,Lebanon,61,1,3,2020-03-12 09:13:24.752
+South America,Brazil,Brazil,52,0,0,2020-03-12 01:33:03.752
+Asia,Philippines,Philippines,52,2,2,2020-03-12 09:53:06.752
+Europe,Poland,Poland,49,0,1,2020-03-12 13:33:02.752
+Europe,Romania,Romania,49,6,0,2020-03-12 09:13:24.752
+North America,Canada,British Columbia,46,4,1,2020-03-12 01:53:03.752
+Asia,Saudi Arabia,Saudi Arabia,45,1,0,2020-03-12 01:17:58.752
+North America,US,Colorado,45,0,0,2020-03-12 21:39:10.752
+North America,Canada,Ontario,42,4,0,2020-03-12 01:53:03.752
+Asia,Vietnam,Vietnam,39,16,0,2020-03-12 09:33:03.752
+North America,US,Florida,35,0,2,2020-03-12 21:39:10.752
+North America,US,Illinois,32,2,0,2020-03-12 23:44:33.752
+North America,US,Georgia,31,0,1,2020-03-12 21:39:10.752
+North America,US,New Jersey,29,0,1,2020-03-12 21:39:10.752
+Europe,Russia,Russia,28,3,0,2020-03-12 08:53:02.752
+North America,US,Texas,27,0,0,2020-03-12 23:44:33.752
+Africa,Algeria,Algeria,24,8,1,2020-03-12 09:13:24.752
+North America,US,Oregon,24,0,0,2020-03-12 23:44:33.752
+Europe,Albania,Albania,23,0,1,2020-03-12 21:39:09.752
+North America,Costa Rica,Costa Rica,22,0,0,2020-03-12 01:33:03.752
+North America,US,Pennsylvania,22,0,0,2020-03-12 21:39:10.752
+Asia,Pakistan,Pakistan,20,2,0,2020-03-12 08:53:02.752
+Europe,Luxembourg,Luxembourg,19,0,0,2020-03-12 10:53:03.752
+Europe,Serbia,Serbia,19,0,0,2020-03-12 09:13:24.752
+North America,US,Louisiana,19,0,0,2020-03-12 23:44:33.752
+North America,US,Tennessee,18,0,0,2020-03-12 21:39:10.752
+Africa,South Africa,South Africa,17,0,0,2020-03-12 09:13:24.752
+North America,US,Virginia,17,0,0,2020-03-12 21:39:10.752
+Europe,Slovakia,Slovakia,16,0,0,2020-03-12 13:33:02.752
+North America,US,Iowa,16,0,0,2020-03-12 23:44:33.752
+South America,Peru,Peru,15,0,0,2020-03-12 08:53:02.752
+North America,US,North Carolina,15,0,0,2020-03-12 21:39:10.752
+North America,US,Nevada,14,0,0,2020-03-12 23:44:33.752
+North America,US,Indiana,13,0,0,2020-03-12 23:44:33.752
+Europe,Belarus,Belarus,12,3,0,2020-03-12 08:53:02.752
+North America,Mexico,Mexico,12,4,0,2020-03-12 05:13:03.752
+North America,US,Maryland,12,0,0,2020-03-12 01:53:03.752
+North America,US,South Carolina,12,0,0,2020-03-12 21:39:10.752
+Europe,Bosnia and Herzegovina,Bosnia and Herzegovina,11,0,0,2020-03-12 09:13:26.752
+North America,Panama,Panama,11,0,1,2020-03-12 08:53:02.752
+North America,US,Kentucky,10,0,0,2020-03-12 23:44:33.752
+North America,US,Nebraska,10,0,0,2020-03-12 01:53:03.752
+North America,Canada,Quebec,9,0,0,2020-03-12 01:53:03.752
+North America,US,Minnesota,9,0,0,2020-03-12 21:39:10.752
+North America,US,Wisconsin,8,1,0,2020-03-12 21:39:10.752
+Africa,Morocco,Morocco,6,0,1,2020-03-12 01:33:03.752
+North America,US,Arkansas,6,0,0,2020-03-12 21:39:10.752
+North America,US,New Hampshire,6,0,0,2020-03-12 21:39:10.752
+North America,US,Connecticut,5,0,0,2020-03-12 23:44:33.752
+North America,US,New Mexico,5,0,0,2020-03-12 23:44:33.752
+North America,US,Ohio,5,0,0,2020-03-12 09:33:03.752
+North America,US,Utah,5,0,0,2020-03-12 23:44:33.752
+Asia,Armenia,Armenia,4,0,0,2020-03-12 21:39:09.752
+North America,Cuba,Cuba,3,0,0,2020-03-12 05:53:03.752
+North America,Jamaica,Jamaica,2,0,0,2020-03-12 01:33:03.752
+Europe,Monaco,Monaco,2,0,0,2020-03-12 12:53:03.752
+North America,US,Vermont,2,0,0,2020-03-12 01:53:03.752
+Europe,Andorra,Andorra,1,1,0,2020-03-12 23:44:32.752
+Africa,Cote d'Ivoire,Cote d'Ivoire,1,0,0,2020-03-12 01:18:01.752
+South America,Guyana,Guyana,1,0,1,2020-03-12 05:53:03.752
+North America,US,Mississippi,1,0,0,2020-03-12 09:33:03.752
+North America,US,North Dakota,1,0,0,2020-03-12 09:33:03.752
+North America,US,Wyoming,1,0,0,2020-03-12 03:13:09.752
+
+
+Europe,Italy,Italy,12462,1045,827,2020-03-11 21:33:02.752
+Asia,Iran,Iran,9000,2959,354,2020-03-11 18:52:03.752
+Asia,South Korea,South Korea,7755,288,60,2020-03-11 21:13:18.752
+Europe,France,France,2281,12,48,2020-03-11 22:53:03.752
+Europe,Spain,Spain,2277,183,54,2020-03-11 20:53:02.752
+Europe,Germany,Germany,1908,25,3,2020-03-11 19:13:17.752
+Asia,Cruise Ship,Diamond Princess,696,325,7,2020-03-11 22:13:12.752
+Europe,Switzerland,Switzerland,652,4,4,2020-03-11 20:53:02.752
+Asia,Japan,Japan,639,118,15,2020-03-11 21:33:03.752
+Europe,Norway,Norway,598,1,0,2020-03-11 19:33:02.752
+Europe,Netherlands,Netherlands,503,0,5,2020-03-11 14:13:11.752
+Europe,Sweden,Sweden,500,1,1,2020-03-11 19:33:02.752
+Europe,UK,UK,456,18,8,2020-03-11 21:33:03.752
+Europe,Denmark,Denmark,442,1,0,2020-03-11 22:13:13.752
+North America,US,Washington,366,1,29,2020-03-11 22:33:03.752
+Europe,Belgium,Belgium,314,1,3,2020-03-11 18:52:03.752
+Asia,Qatar,Qatar,262,0,0,2020-03-11 18:52:03.752
+Europe,Austria,Austria,246,4,0,2020-03-11 22:33:03.752
+North America,US,New York,220,0,0,2020-03-11 22:53:03.752
+Asia,Bahrain,Bahrain,195,35,0,2020-03-11 22:33:03.752
+Asia,Singapore,Singapore,178,96,0,2020-03-11 13:53:24.752
+North America,US,California,177,2,3,2020-03-11 23:53:03.752
+Asia,Malaysia,Malaysia,149,26,0,2020-03-11 11:33:08.752
+Asia,Israel,Israel,109,4,0,2020-03-11 21:13:18.752
+Europe,Greece,Greece,99,0,1,2020-03-11 23:53:02.752
+North America,US,Massachusetts,95,1,0,2020-03-11 22:53:03.752
+Europe,Czech Republic,Czech Republic,91,0,0,2020-03-11 22:13:12.752
+Europe,Iceland,Iceland,85,1,0,2020-03-11 13:53:24.752
+Asia,United Arab Emirates,United Arab Emirates,74,17,0,2020-03-11 20:53:02.752
+Asia,Kuwait,Kuwait,72,2,0,2020-03-11 09:53:03.752
+Asia,Iraq,Iraq,71,15,7,2020-03-11 22:13:12.752
+Australia,Australia,New South Wales,65,4,2,2020-03-11 18:52:04.752
+Asia,India,India,62,4,1,2020-03-11 22:13:12.752
+Europe,San Marino,San Marino,62,0,2,2020-03-11 20:53:02.752
+Asia,Lebanon,Lebanon,61,1,3,2020-03-11 11:53:03.752
+Africa,Egypt,Egypt,60,27,1,2020-03-11 22:13:12.752
+Europe,Finland,Finland,59,1,0,2020-03-11 13:33:10.752
+Europe,Portugal,Portugal,59,0,0,2020-03-11 13:33:11.752
+Asia,Thailand,Thailand,59,34,1,2020-03-11 09:13:10.752
+Europe,Slovenia,Slovenia,57,0,0,2020-03-11 14:13:11.752
+Asia,Philippines,Philippines,49,2,1,2020-03-11 10:53:03.752
+Europe,Romania,Romania,45,6,0,2020-03-11 21:13:18.752
+Europe,Ireland,Ireland,43,0,1,2020-03-11 21:33:03.752
+North America,Canada,Ontario,41,4,0,2020-03-11 18:52:04.752
+North America,Canada,British Columbia,39,4,1,2020-03-11 02:18:28.752
+South America,Brazil,Brazil,38,0,0,2020-03-11 22:13:12.752
+Asia,Vietnam,Vietnam,38,16,0,2020-03-11 20:53:02.752
+Asia,Indonesia,Indonesia,34,2,1,2020-03-11 11:14:26.752
+North America,US,Colorado,34,0,0,2020-03-11 22:53:03.752
+Europe,Poland,Poland,31,0,0,2020-03-11 21:13:21.752
+North America,US,Florida,28,0,2,2020-03-11 03:33:05.752
+North America,US,Illinois,25,2,0,2020-03-11 22:53:03.752
+Asia,Georgia,Georgia,24,0,0,2020-03-11 22:13:12.752
+South America,Chile,Chile,23,0,0,2020-03-11 22:13:12.752
+North America,US,Georgia,23,0,0,2020-03-11 18:52:03.752
+North America,US,New Jersey,23,0,1,2020-03-11 18:52:04.752
+Australia,Australia,Victoria,21,7,0,2020-03-11 18:52:04.752
+Asia,Saudi Arabia,Saudi Arabia,21,1,0,2020-03-11 13:33:11.752
+North America,US,Texas,21,0,0,2020-03-11 22:53:03.752
+Australia,Australia,Queensland,20,8,0,2020-03-11 18:52:04.752
+Europe,Russia,Russia,20,3,0,2020-03-11 18:52:03.752
+South America,Argentina,Argentina,19,0,1,2020-03-11 02:18:16.752
+North America,Canada,Alberta,19,0,0,2020-03-11 23:13:07.752
+Europe,Croatia,Croatia,19,0,0,2020-03-11 22:13:12.752
+Asia,Pakistan,Pakistan,19,2,0,2020-03-11 21:13:23.752
+North America,US,Oregon,19,0,0,2020-03-11 22:53:03.752
+South America,Ecuador,Ecuador,17,0,0,2020-03-11 09:33:12.752
+Europe,Estonia,Estonia,16,0,0,2020-03-11 22:13:12.752
+North America,US,Pennsylvania,16,0,0,2020-03-11 22:53:03.752
+North America,Costa Rica,Costa Rica,13,0,0,2020-03-11 09:33:12.752
+Europe,Hungary,Hungary,13,0,0,2020-03-11 22:13:12.752
+Africa,South Africa,South Africa,13,0,0,2020-03-11 10:33:03.752
+North America,US,Iowa,13,0,0,2020-03-11 02:53:03.752
+Europe,Albania,Albania,12,0,1,2020-03-11 13:33:11.752
+Europe,Serbia,Serbia,12,0,0,2020-03-11 09:53:03.752
+Asia,Azerbaijan,Azerbaijan,11,3,0,2020-03-11 08:13:09.752
+Asia,Brunei,Brunei,11,0,0,2020-03-11 22:13:12.752
+North America,US,Indiana,11,0,0,2020-03-11 22:53:03.752
+Europe,Latvia,Latvia,10,1,0,2020-03-11 13:53:24.752
+Europe,Slovakia,Slovakia,10,0,0,2020-03-11 13:33:11.752
+North America,US,District of Columbia,10,0,0,2020-03-11 22:53:03.752
+North America,US,South Carolina,10,0,0,2020-03-11 22:53:03.752
+Australia,Australia,South Australia,9,2,0,2020-03-11 18:52:04.752
+Australia,Australia,Western Australia,9,0,1,2020-03-11 18:52:04.752
+South America,Colombia,Colombia,9,0,0,2020-03-11 14:33:04.752
+North America,US,Arizona,9,1,0,2020-03-11 18:52:04.752
+North America,US,Maryland,9,0,0,2020-03-11 03:33:05.752
+North America,US,Tennessee,9,0,0,2020-03-11 22:53:03.752
+North America,US,Virginia,9,0,0,2020-03-11 03:33:05.752
+North America,Canada,Quebec,8,0,0,2020-03-11 23:13:06.752
+Asia,Maldives,Maldives,8,0,0,2020-03-11 09:33:12.752
+North America,Mexico,Mexico,8,4,0,2020-03-11 21:13:24.752
+North America,Panama,Panama,8,0,1,2020-03-11 09:33:12.752
+North America,US,Kentucky,8,0,0,2020-03-11 03:13:08.752
+North America,US,South Dakota,8,0,1,2020-03-11 22:53:03.752
+Asia,Afghanistan,Afghanistan,7,0,0,2020-03-11 10:13:12.752
+Europe,Bosnia and Herzegovina,Bosnia and Herzegovina,7,0,0,2020-03-11 22:13:12.752
+Europe,Bulgaria,Bulgaria,7,0,1,2020-03-11 22:13:12.752
+Europe,Luxembourg,Luxembourg,7,0,0,2020-03-11 09:33:12.752
+Africa,Tunisia,Tunisia,7,0,0,2020-03-11 18:52:03.752
+North America,US,Nevada,7,0,0,2020-03-11 22:53:03.752
+Europe,Cyprus,Cyprus,6,0,0,2020-03-11 18:52:03.752
+Europe,Malta,Malta,6,0,0,2020-03-11 11:33:08.752
+North America,US,Louisiana,6,0,0,2020-03-11 10:13:20.752
+North America,US,Wisconsin,6,1,0,2020-03-11 22:53:03.752
+Africa,Morocco,Morocco,5,0,1,2020-03-11 11:53:03.752
+South America,Paraguay,Paraguay,5,0,0,2020-03-11 04:33:03.752
+North America,US,Minnesota,5,0,0,2020-03-11 19:13:18.752
+North America,US,Nebraska,5,0,0,2020-03-11 23:13:07.752
+North America,US,New Hampshire,5,0,0,2020-03-11 10:13:20.752
+North America,US,Rhode Island,5,0,0,2020-03-11 03:13:08.752
+North America,US,Ohio,4,0,0,2020-03-11 18:52:04.752
+Australia,Australia,Tasmania,3,0,0,2020-03-11 18:52:04.752
+Asia,Cambodia,Cambodia,3,1,0,2020-03-11 09:33:12.752
+Europe,Lithuania,Lithuania,3,0,0,2020-03-11 02:18:26.752
+Europe,Martinique,Martinique,3,0,0,2020-03-11 02:18:29.752
+Europe,Moldova,Moldova,3,0,0,2020-03-11 18:52:03.752
+North America,US,Connecticut,3,0,0,2020-03-11 23:13:06.752
+North America,US,New Mexico,3,0,0,2020-03-11 18:52:04.752
+North America,US,Utah,3,0,0,2020-03-11 23:13:06.752
+South America,Bolivia,Bolivia,2,0,0,2020-03-11 18:52:03.752
+Africa,Burkina Faso,Burkina Faso,2,0,0,2020-03-11 09:33:12.752
+Europe,Denmark,Faroe Islands,2,0,0,2020-03-11 20:53:02.752
+Europe,France,St Martin,2,0,0,2020-03-11 20:53:02.752
+North America,Honduras,Honduras,2,0,0,2020-03-11 18:52:03.752
+Asia,Sri Lanka,Sri Lanka,2,1,0,2020-03-11 09:33:12.752
+North America,US,Michigan,2,0,0,2020-03-11 03:33:05.752
+Europe,UK,Channel Islands,2,0,0,2020-03-11 20:53:02.752
+North America,Canada,New Brunswick,1,0,0,2020-03-11 23:13:06.752
+Africa,Democratic Republic of the Congo,Democratic Republic of the Congo,1,0,0,2020-03-11 21:13:24.752
+Africa,Cote d'Ivoire,Cote d'Ivoire,1,0,0,2020-03-11 23:33:03.752
+Europe,France,Saint Barthelemy,1,0,0,2020-03-11 20:53:02.752
+North America,Jamaica,Jamaica,1,0,0,2020-03-11 18:52:03.752
+Europe,Reunion,Reunion,1,0,0,2020-03-11 23:13:07.752
+Europe,Turkey,Turkey,1,0,0,2020-03-11 03:33:05.752
+North America,US,Arkansas,1,0,0,2020-03-11 18:52:04.752
+North America,US,Delaware,1,0,0,2020-03-11 23:13:06.752
+North America,US,Montana,1,0,0,2020-03-11 23:13:06.752
+Europe,UK,Gibraltar,1,1,0,2020-03-11 20:53:02.752
+Asia,Palestine,Palestine,0,0,0,2020-03-11 20:53:02.752
 Europe,Italy,Italy,10149,724,631,2020-03-10 17:53:02.752
 Asia,Iran,Iran,8042,2731,291,2020-03-10 19:13:20.752
 Asia,South Korea,South Korea,7513,247,54,2020-03-10 19:13:20.752
