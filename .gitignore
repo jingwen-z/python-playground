@@ -123,3 +123,6 @@ plotting_and_visualization/2017-2018/*.png
 # not ignore following files
 !analysis/2019_nCoV/DXYArea_supplement.csv
 !analysis/2019_nCoV/DXY_Country.csv
+
+# folders
+memory/
