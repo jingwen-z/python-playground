@@ -1,4 +1,2264 @@
 continentName,countryName,stateName,confirmedCount,curedCount,deadCount,updateTime
+Europe,Italy,Italy,101739,14620,11591,2020-03-30 22:52:33
+Europe,Spain,Spain,87956,16780,7716,2020-03-30 22:52:33
+Europe,Germany,Germany,66885,13500,645,2020-03-30 22:52:33
+Europe,France,France,44550,7927,3024,2020-03-30 22:52:33
+Asia,Iran,Iran,41495,13911,2757,2020-03-30 22:52:33
+North America,US,New York,37453,0,790,2020-03-30 22:52:45
+Europe,UK,UK,22141,135,1408,2020-03-30 22:52:33
+Europe,Switzerland,Switzerland,15922,1823,359,2020-03-30 22:52:33
+Europe,Belgium,Belgium,11899,1527,513,2020-03-30 22:52:33
+Europe,Netherlands,Netherlands,11750,250,864,2020-03-30 22:52:33
+Europe,Turkey,Turkey,10827,162,168,2020-03-30 22:52:33
+Asia,South Korea,South Korea,9661,5228,158,2020-03-30 22:52:33
+Europe,Austria,Austria,9618,636,108,2020-03-30 22:52:33
+North America,US,New York,9326,0,10,2020-03-30 22:52:45
+North America,US,New York,7344,0,39,2020-03-30 22:52:45
+Europe,Portugal,Portugal,6408,43,140,2020-03-30 22:52:33
+North America,US,New York,5791,0,40,2020-03-30 22:52:45
+Asia,Israel,Israel,4695,161,16,2020-03-30 22:52:33
+South America,Brazil,Brazil,4579,120,159,2020-03-30 22:52:33
+Europe,Norway,Norway,4445,12,32,2020-03-30 22:52:33
+Europe,Sweden,Sweden,4028,16,146,2020-03-30 22:52:33
+North America,US,New Jersey,3847,0,91,2020-03-30 22:52:45
+North America,US,Illinois,3727,0,44,2020-03-30 22:52:45
+North America,Canada,Quebec,3430,0,22,2020-03-30 22:58:41
+North America,US,Michigan,3195,0,83,2020-03-30 22:52:45
+Europe,Czech Republic,Czech Republic,3001,25,23,2020-03-30 22:52:33
+Europe,Ireland,Ireland,2910,5,54,2020-03-30 22:52:33
+Asia,Malaysia,Malaysia,2626,479,37,2020-03-30 22:52:33
+Europe,Denmark,Denmark,2577,1,77,2020-03-30 22:52:33
+North America,US,New York,2511,0,8,2020-03-30 22:52:45
+North America,US,New Jersey,2482,0,23,2020-03-30 22:52:45
+North America,US,California,2474,0,44,2020-03-30 22:52:45
+South America,Chile,Chile,2449,156,8,2020-03-30 22:52:33
+North America,US,Washington,2161,0,144,2020-03-30 22:52:45
+Europe,Romania,Romania,2109,209,65,2020-03-30 22:52:33
+Europe,Poland,Poland,2055,7,31,2020-03-30 22:52:33
+Australia,Australia,New South Wales,2032,4,8,2020-03-30 22:58:55
+Europe,Luxembourg,Luxembourg,1988,40,22,2020-03-30 22:52:33
+South America,Ecuador,Ecuador,1962,3,60,2020-03-30 22:52:33
+Asia,Japan,Japan,1866,424,54,2020-03-30 22:52:33
+Europe,Russia,Russia,1836,66,9,2020-03-30 22:52:33
+Asia,Pakistan,Pakistan,1717,76,21,2020-03-30 22:52:33
+North America,Canada,Ontario,1706,0,31,2020-03-30 22:58:41
+North America,US,Florida,1632,0,3,2020-03-30 22:52:45
+North America,US,New Jersey,1564,0,13,2020-03-30 22:52:45
+Asia,Philippines,Philippines,1546,42,78,2020-03-30 22:52:33
+Asia,Thailand,Thailand,1524,229,9,2020-03-30 22:52:33
+North America,US,Louisiana,1480,0,86,2020-03-30 22:52:45
+Asia,Saudi Arabia,Saudi Arabia,1453,115,8,2020-03-30 22:52:33
+North America,US,Connecticut,1445,0,21,2020-03-30 22:52:45
+North America,US,New York,1435,0,5,2020-03-30 22:52:45
+Asia,Indonesia,Indonesia,1414,75,122,2020-03-30 22:52:33
+North America,US,Michigan,1365,0,48,2020-03-30 22:52:45
+Europe,Finland,Finland,1352,10,13,2020-03-30 22:52:33
+Africa,South Africa,South Africa,1326,31,3,2020-03-30 22:52:33
+North America,US,New Jersey,1314,0,7,2020-03-30 22:52:45
+Asia,India,India,1251,102,32,2020-03-30 22:52:33
+North America,US,New Jersey,1213,0,7,2020-03-30 22:52:45
+Europe,Greece,Greece,1212,52,43,2020-03-30 22:52:33
+North America,US,Florida,1152,0,11,2020-03-30 22:52:45
+North America,US,Massachusetts,1141,0,8,2020-03-30 22:52:45
+North America,US,New Jersey,1123,0,12,2020-03-30 22:52:45
+North America,US,Massachusetts,1115,0,5,2020-03-30 22:52:45
+North America,US,New Jersey,1091,0,10,2020-03-30 22:52:45
+Europe,Iceland,Iceland,1086,157,2,2020-03-30 22:52:33
+North America,US,Pennsylvania,1072,0,8,2020-03-30 22:52:45
+North America,US,Washington,1068,0,23,2020-03-30 22:52:45
+North America,US,New Jersey,1030,0,8,2020-03-30 22:52:45
+North America,Mexico,Mexico,993,35,20,2020-03-30 22:52:33
+North America,Panama,Panama,989,4,24,2020-03-30 22:52:33
+North America,Canada,British Columbia,970,0,19,2020-03-30 22:58:41
+South America,Peru,Peru,950,53,24,2020-03-30 22:52:33
+North America,Dominican Republic,Dominican Republic,901,4,42,2020-03-30 22:52:33
+Asia,Singapore,Singapore,879,228,3,2020-03-30 22:52:33
+North America,US,New Jersey,874,0,6,2020-03-30 22:52:45
+North America,US,California,848,0,28,2020-03-30 22:52:45
+North America,US,Louisiana,838,0,37,2020-03-30 22:52:45
+Australia,Australia,Victoria,821,191,4,2020-03-30 22:58:55
+South America,Argentina,Argentina,820,228,23,2020-03-30 22:52:33
+North America,US,Indiana,804,0,12,2020-03-30 22:52:45
+South America,Colombia,Colombia,798,15,12,2020-03-30 22:52:33
+Europe,Croatia,Croatia,790,67,6,2020-03-30 22:52:33
+Europe,Serbia,Serbia,785,0,16,2020-03-30 22:52:33
+Europe,Slovenia,Slovenia,756,10,11,2020-03-30 22:52:33
+North America,US,Nevada,753,0,14,2020-03-30 22:52:45
+North America,US,Michigan,728,0,27,2020-03-30 22:52:45
+North America,US,New Jersey,720,0,8,2020-03-30 22:52:45
+Europe,Estonia,Estonia,715,20,3,2020-03-30 22:52:33
+Asia,Diamond Princess cruise ship,Diamond Princess cruise ship,712,603,10,2020-03-30 22:52:33
+Asia,Qatar,Qatar,693,51,1,2020-03-30 22:52:33
+North America,US,Arizona,690,0,5,2020-03-30 22:52:45
+Australia,Australia,Queensland,689,8,2,2020-03-30 22:58:55
+North America,Canada,Alberta,661,0,3,2020-03-30 22:58:41
+Africa,Egypt,Egypt,656,150,41,2020-03-30 22:52:33
+North America,US,Massachusetts,653,0,6,2020-03-30 22:52:45
+Asia,Iraq,Iraq,630,152,46,2020-03-30 22:52:33
+North America,US,Massachusetts,628,0,10,2020-03-30 22:52:45
+North America,US,Wisconsin,617,0,10,2020-03-30 22:52:45
+Asia,United Arab Emirates,United Arab Emirates,611,61,5,2020-03-30 22:52:33
+Australia,New Zealand,New Zealand,589,63,1,2020-03-30 22:52:33
+Africa,Algeria,Algeria,584,37,35,2020-03-30 22:52:33
+North America,US,Texas,563,0,5,2020-03-30 22:52:45
+Africa,Morocco,Morocco,556,15,33,2020-03-30 22:52:33
+North America,US,Texas,549,0,11,2020-03-30 22:52:45
+Europe,Ukraine,Ukraine,548,8,13,2020-03-30 22:52:33
+North America,US,Pennsylvania,540,0,5,2020-03-30 22:52:45
+Asia,Bahrain,Bahrain,515,279,4,2020-03-30 22:52:33
+North America,US,California,515,0,7,2020-03-30 22:52:45
+North America,US,Ohio,493,0,4,2020-03-30 22:52:45
+Europe,Lithuania,Lithuania,491,7,7,2020-03-30 22:52:33
+North America,US,Massachusetts,489,0,9,2020-03-30 22:52:45
+Asia,Armenia,Armenia,482,30,3,2020-03-30 22:52:33
+North America,US,California,464,0,4,2020-03-30 22:52:45
+North America,US,Georgia,463,0,14,2020-03-30 22:52:45
+Europe,Hungary,Hungary,447,34,15,2020-03-30 22:52:33
+Asia,Lebanon,Lebanon,446,35,11,2020-03-30 22:52:33
+North America,US,Tennessee,443,0,3,2020-03-30 22:52:45
+North America,US,New York,443,0,7,2020-03-30 22:52:45
+North America,US,Florida,423,0,7,2020-03-30 22:52:45
+North America,US,Colorado,408,0,5,2020-03-30 22:52:45
+North America,US,District of Columbia,401,0,9,2020-03-30 22:52:45
+North America,US,Tennessee,396,0,1,2020-03-30 22:52:45
+North America,US,New York,392,0,2,2020-03-30 22:52:45
+North America,US,Massachusetts,390,0,5,2020-03-30 22:52:45
+North America,US,North Carolina,382,0,1,2020-03-30 22:52:45
+North America,US,Massachusetts,380,0,0,2020-03-30 22:52:45
+Europe,Latvia,Latvia,376,1,0,2020-03-30 22:52:33
+North America,US,California,374,0,6,2020-03-30 22:52:45
+North America,US,Connecticut,373,0,6,2020-03-30 22:52:45
+Europe,Andorra,Andorra,370,10,8,2020-03-30 22:52:33
+Europe,Bosnia and Herzegovina,Bosnia and Herzegovina,368,17,10,2020-03-30 22:52:33
+North America,US,Missouri,366,0,2,2020-03-30 22:52:45
+North America,US,Utah,360,0,2,2020-03-30 22:52:45
+Europe,Bulgaria,Bulgaria,359,17,8,2020-03-30 22:52:33
+Australia,Australia,Western Australia,355,41,2,2020-03-30 22:58:55
+North America,US,New Jersey,349,0,6,2020-03-30 22:52:45
+North America,US,Illinois,343,0,1,2020-03-30 22:52:45
+North America,US,Maryland,341,0,1,2020-03-30 22:52:45
+Europe,Slovakia,Slovakia,336,7,0,2020-03-30 22:52:33
+North America,US,Connecticut,330,0,3,2020-03-30 22:52:45
+North America,Costa Rica,Costa Rica,330,4,2,2020-03-30 22:52:33
+North America,US,Illinois,320,0,8,2020-03-30 22:52:45
+North America,US,Washington,317,0,6,2020-03-30 22:52:45
+Africa,Tunisia,Tunisia,312,3,8,2020-03-30 22:52:33
+South America,Uruguay,Uruguay,310,0,1,2020-03-30 22:52:33
+North America,US,California,309,0,6,2020-03-30 22:52:45
+Australia,Australia,South Australia,305,6,0,2020-03-30 22:58:55
+North America,US,Pennsylvania,303,0,4,2020-03-30 22:52:45
+Asia,Kazakhstan,Kazakhstan,302,21,1,2020-03-30 22:52:33
+Europe,Moldova,Moldova,298,15,2,2020-03-30 22:52:33
+North America,US,Maryland,294,0,6,2020-03-30 22:52:45
+North America,US,Florida,293,0,4,2020-03-30 22:52:45
+North America,US,California,291,0,9,2020-03-30 22:52:45
+North America,US,Pennsylvania,290,0,2,2020-03-30 22:52:45
+Europe,North Macedonia,North Macedonia,285,12,7,2020-03-30 22:52:33
+North America,US,California,283,0,7,2020-03-30 22:52:45
+North America,US,Ohio,281,0,2,2020-03-30 22:52:45
+North America,US,Georgia,281,0,3,2020-03-30 22:52:45
+North America,US,Washington,274,0,0,2020-03-30 22:52:45
+Asia,Azerbaijan,Azerbaijan,273,26,4,2020-03-30 22:52:33
+Asia,Jordan,Jordan,268,26,5,2020-03-30 22:52:33
+North America,US,Georgia,267,0,17,2020-03-30 22:52:45
+Asia,Kuwait,Kuwait,266,72,0,2020-03-30 22:52:33
+North America,US,Michigan,266,0,6,2020-03-30 22:52:45
+North America,US,Massachusetts,263,0,2,2020-03-30 22:52:45
+North America,US,Massachusetts,255,0,4,2020-03-30 22:52:45
+North America,US,Alabama,254,0,0,2020-03-30 22:52:45
+North America,US,Florida,253,0,2,2020-03-30 22:52:45
+North America,US,Pennsylvania,249,0,4,2020-03-30 22:52:45
+North America,US,New Jersey,249,0,0,2020-03-30 22:52:45
+Africa,Burkina Faso,Burkina Faso,246,31,12,2020-03-30 22:52:33
+North America,US,New York,246,0,6,2020-03-30 22:52:45
+North America,US,Georgia,245,0,9,2020-03-30 22:52:45
+North America,US,Colorado,241,0,3,2020-03-30 22:52:45
+North America,US,Texas,238,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,231,0,3,2020-03-30 22:52:45
+Europe,San Marino,San Marino,230,13,25,2020-03-30 22:52:33
+Europe,Cyprus,Cyprus,230,22,7,2020-03-30 22:52:33
+North America,US,New York,228,0,1,2020-03-30 22:52:45
+North America,US,California,224,0,7,2020-03-30 22:52:45
+North America,US,Virginia,224,0,2,2020-03-30 22:52:45
+Europe,Albania,Albania,223,44,11,2020-03-30 22:52:33
+North America,US,Illinois,223,0,5,2020-03-30 22:52:45
+North America,US,Louisiana,222,0,5,2020-03-30 22:52:45
+North America,US,New York,217,0,1,2020-03-30 22:52:45
+North America,US,Colorado,214,0,11,2020-03-30 22:52:45
+North America,US,Colorado,213,0,5,2020-03-30 22:52:45
+North America,US,Texas,206,0,2,2020-03-30 22:52:45
+Asia,Vietnam,Vietnam,203,55,0,2020-03-30 22:52:33
+North America,US,New Jersey,200,0,1,2020-03-30 22:52:45
+North America,US,Tennessee,197,0,4,2020-03-30 22:52:45
+North America,US,Wisconsin,192,0,2,2020-03-30 22:52:45
+North America,US,New York,190,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,190,0,5,2020-03-30 22:52:45
+North America,US,Louisiana,188,0,9,2020-03-30 22:52:45
+North America,US,California,187,0,3,2020-03-30 22:52:45
+North America,US,Colorado,187,0,2,2020-03-30 22:52:45
+North America,US,Arizona,187,0,4,2020-03-30 22:52:45
+North America,US,Louisiana,186,0,4,2020-03-30 22:52:45
+North America,US,Maryland,186,0,1,2020-03-30 22:52:45
+North America,US,Colorado,186,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,184,0,5,2020-03-30 22:52:45
+North America,US,Pennsylvania,182,0,7,2020-03-30 22:52:45
+North America,US,Colorado,180,0,9,2020-03-30 22:52:45
+North America,US,Tennessee,179,0,4,2020-03-30 22:52:45
+Asia,Oman,Oman,179,29,0,2020-03-30 22:52:33
+North America,US,New Jersey,178,0,2,2020-03-30 22:52:45
+North America,US,Connecticut,176,0,0,2020-03-30 22:52:45
+North America,US,Puerto Rico,174,0,6,2020-03-30 22:52:45
+North America,US,Massachusetts,173,0,2,2020-03-30 22:52:45
+North America,US,Rhode Island,171,0,4,2020-03-30 22:52:45
+North America,Cuba,Cuba,170,4,4,2020-03-30 22:52:33
+Asia,Afghanistan,Afghanistan,170,2,4,2020-03-30 22:52:33
+North America,US,Oregon,168,0,3,2020-03-30 22:52:45
+Africa,Cote d'Ivoire,Cote d'Ivoire,168,6,1,2020-03-30 22:52:33
+North America,US,New York,167,0,0,2020-03-30 22:52:45
+North America,US,Utah,167,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,166,0,0,2020-03-30 22:52:45
+North America,US,Texas,165,0,2,2020-03-30 22:52:45
+North America,US,Florida,164,0,6,2020-03-30 22:52:45
+North America,US,Georgia,164,0,1,2020-03-30 22:52:45
+North America,US,Massachusetts,162,0,3,2020-03-30 22:52:45
+Africa,Senegal,Senegal,162,27,0,2020-03-30 22:52:33
+North America,US,Florida,158,0,3,2020-03-30 22:52:45
+North America,US,Georgia,158,0,1,2020-03-30 22:52:45
+North America,US,Texas,157,0,6,2020-03-30 22:52:45
+North America,US,Delaware,156,0,2,2020-03-30 22:52:45
+North America,US,Rhode Island,156,0,0,2020-03-30 22:52:45
+Europe,Malta,Malta,156,2,0,2020-03-30 22:52:33
+North America,Canada,Saskatchewan,156,0,2,2020-03-30 22:58:41
+North America,US,Maine,154,0,3,2020-03-30 22:52:45
+North America,US,Louisiana,153,0,5,2020-03-30 22:52:45
+North America,US,Maryland,152,0,2,2020-03-30 22:52:45
+Europe,Belarus,Belarus,152,32,0,2020-03-30 22:52:33
+Africa,Ghana,Ghana,152,2,5,2020-03-30 22:52:33
+North America,US,Michigan,150,0,7,2020-03-30 22:52:45
+North America,US,Pennsylvania,150,0,3,2020-03-30 22:52:45
+North America,US,Tennessee,150,0,0,2020-03-30 22:52:45
+Asia,Uzbekistan,Uzbekistan,149,7,2,2020-03-30 22:52:33
+North America,Canada,Newfoundland and Labrador,148,0,1,2020-03-30 22:58:41
+North America,US,Washington,147,0,3,2020-03-30 22:52:45
+North America,US,Pennsylvania,146,0,0,2020-03-30 22:52:45
+Europe,UK,Channel Islands,141,0,2,2020-03-30 22:52:33
+North America,Honduras,Honduras,139,3,7,2020-03-30 22:52:33
+Africa,Cameroon,Cameroon,139,5,6,2020-03-30 22:52:33
+North America,US,Washington,136,0,4,2020-03-30 22:52:45
+North America,US,South Carolina,135,0,2,2020-03-30 22:52:45
+South America,Venezuela,Venezuela,135,39,3,2020-03-30 22:52:33
+North America,US,Texas,134,0,1,2020-03-30 22:52:45
+North America,US,Oklahoma,134,0,4,2020-03-30 22:52:45
+North America,US,Nevada,132,0,0,2020-03-30 22:52:45
+Africa,Nigeria,Nigeria,131,8,2,2020-03-30 22:52:33
+North America,US,Idaho,130,0,2,2020-03-30 22:52:45
+Africa,Mauritius,Mauritius,128,0,3,2020-03-30 22:52:33
+Asia,Brunei,Brunei,127,38,1,2020-03-30 22:52:33
+North America,Canada,Nova Scotia,127,0,0,2020-03-30 22:58:41
+North America,US,Florida,126,0,5,2020-03-30 22:52:45
+North America,US,South Carolina,123,0,1,2020-03-30 22:52:45
+North America,US,Oregon,123,0,3,2020-03-30 22:52:45
+North America,US,California,123,0,6,2020-03-30 22:52:45
+North America,US,Hawaii,123,0,0,2020-03-30 22:52:45
+Asia,Sri Lanka,Sri Lanka,122,15,2,2020-03-30 22:52:33
+North America,US,Georgia,121,0,1,2020-03-30 22:52:45
+North America,US,Texas,119,0,1,2020-03-30 22:52:45
+North America,US,Florida,119,0,1,2020-03-30 22:52:45
+North America,US,Ohio,118,0,5,2020-03-30 22:52:45
+North America,US,Vermont,117,0,4,2020-03-30 22:52:45
+North America,US,Ohio,117,0,4,2020-03-30 22:52:45
+North America,US,Kentucky,116,0,3,2020-03-30 22:52:45
+North America,US,Kansas,116,0,2,2020-03-30 22:52:45
+Asia,West Bank and Gaza,West Bank and Gaza,116,18,1,2020-03-30 22:52:33
+North America,US,Washington,116,0,7,2020-03-30 22:52:45
+North America,US,Ohio,114,0,3,2020-03-30 22:52:45
+North America,US,Connecticut,113,0,1,2020-03-30 22:52:45
+North America,US,Illinois,113,0,6,2020-03-30 22:52:45
+North America,US,Idaho,113,0,2,2020-03-30 22:52:45
+North America,US,New Jersey,113,0,1,2020-03-30 22:52:45
+North America,US,California,111,0,3,2020-03-30 22:52:45
+North America,US,Nevada,111,0,1,2020-03-30 22:52:45
+North America,US,Colorado,110,0,0,2020-03-30 22:52:45
+North America,US,Maryland,110,0,0,2020-03-30 22:52:45
+North America,US,California,109,0,4,2020-03-30 22:52:45
+North America,US,New York,108,0,1,2020-03-30 22:52:45
+Asia,Cambodia,Cambodia,107,21,0,2020-03-30 22:52:33
+North America,US,North Carolina,107,0,0,2020-03-30 22:52:45
+North America,US,Indiana,106,0,0,2020-03-30 22:52:45
+North America,US,Washington,105,0,1,2020-03-30 22:52:45
+North America,US,Grand Princess,103,0,3,2020-03-30 22:52:45
+Asia,Georgia,Georgia,103,20,0,2020-03-30 22:52:33
+North America,US,Washington,102,0,5,2020-03-30 22:52:45
+North America,US,Colorado,102,0,0,2020-03-30 22:52:45
+North America,US,Missouri,102,0,1,2020-03-30 22:52:45
+North America,US,New York,101,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,101,0,1,2020-03-30 22:52:45
+North America,US,Washington,101,0,3,2020-03-30 22:52:45
+North America,US,Ohio,101,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,101,0,0,2020-03-30 22:52:45
+North America,US,Missouri,100,0,0,2020-03-30 22:52:45
+North America,US,Oregon,100,0,2,2020-03-30 22:52:45
+North America,US,New Hampshire,100,0,1,2020-03-30 22:52:45
+North America,US,South Carolina,99,0,2,2020-03-30 22:52:45
+North America,US,Pennsylvania,97,0,2,2020-03-30 22:52:45
+North America,US,Indiana,97,0,1,2020-03-30 22:52:45
+South America,Bolivia,Bolivia,97,0,4,2020-03-30 22:52:33
+North America,US,Michigan,96,0,1,2020-03-30 22:52:45
+North America,Canada,Manitoba,96,0,1,2020-03-30 22:58:41
+North America,US,Maryland,96,0,1,2020-03-30 22:52:45
+North America,US,Florida,94,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,94,0,2,2020-03-30 22:52:45
+Europe,Kosovo,Kosovo,94,1,1,2020-03-30 22:52:33
+Asia,Kyrgyzstan,Kyrgyzstan,94,3,0,2020-03-30 22:52:33
+North America,US,California,93,0,1,2020-03-30 22:52:45
+North America,US,Wisconsin,93,0,0,2020-03-30 22:52:45
+Europe,Montenegro,Montenegro,91,0,1,2020-03-30 22:52:33
+North America,US,Alabama,91,0,1,2020-03-30 22:52:45
+North America,US,Colorado,90,0,1,2020-03-30 22:52:45
+North America,US,Washington,90,0,6,2020-03-30 22:52:45
+North America,US,New Jersey,89,0,1,2020-03-30 22:52:45
+North America,US,Mississippi,89,0,2,2020-03-30 22:52:45
+North America,US,South Carolina,88,0,1,2020-03-30 22:52:45
+North America,US,Arizona,88,0,0,2020-03-30 22:52:45
+North America,US,Florida,87,0,0,2020-03-30 22:52:45
+North America,US,Virginia,86,0,2,2020-03-30 22:52:45
+North America,US,Colorado,84,0,3,2020-03-30 22:52:45
+South America,Trinidad and Tobago,Trinidad and Tobago,82,1,3,2020-03-30 22:52:33
+North America,US,Kentucky,82,0,2,2020-03-30 22:52:45
+North America,US,Louisiana,82,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,82,0,0,2020-03-30 22:52:45
+North America,US,Maryland,82,0,1,2020-03-30 22:52:45
+Africa,Democratic Republic of the Congo,Democratic Republic of the Congo,81,2,8,2020-03-30 22:52:33
+North America,US,Indiana,81,0,3,2020-03-30 22:52:45
+North America,US,Delaware,81,0,1,2020-03-30 22:52:45
+North America,US,Texas,81,0,0,2020-03-30 22:52:45
+North America,US,Georgia,81,0,0,2020-03-30 22:52:45
+North America,US,New York,80,0,1,2020-03-30 22:52:45
+North America,US,Florida,79,0,0,2020-03-30 22:52:45
+North America,US,Alabama,79,0,0,2020-03-30 22:52:45
+North America,US,Colorado,79,0,1,2020-03-30 22:52:45
+North America,US,New Jersey,79,0,0,2020-03-30 22:52:45
+North America,US,Virginia,79,0,1,2020-03-30 22:52:45
+North America,US,Michigan,78,0,0,2020-03-30 22:52:45
+Australia,Australia,Australian Capital Territory,78,2,1,2020-03-30 22:58:55
+North America,US,Ohio,78,0,2,2020-03-30 22:52:45
+North America,US,Utah,77,0,1,2020-03-30 22:52:45
+North America,US,Nebraska,75,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,75,0,8,2020-03-30 22:52:45
+North America,US,South Carolina,74,0,1,2020-03-30 22:52:45
+North America,US,Michigan,73,0,0,2020-03-30 22:52:45
+North America,US,Virginia,73,0,2,2020-03-30 22:52:45
+North America,US,Alabama,71,0,2,2020-03-30 22:52:45
+North America,US,California,71,0,0,2020-03-30 22:52:45
+North America,US,Arizona,71,0,2,2020-03-30 22:52:45
+North America,US,Iowa,71,0,2,2020-03-30 22:52:45
+North America,US,Mississippi,71,0,1,2020-03-30 22:52:45
+North America,US,New York,70,0,0,2020-03-30 22:52:45
+North America,US,Iowa,70,0,0,2020-03-30 22:52:45
+Africa,Rwanda,Rwanda,70,0,0,2020-03-30 22:52:33
+North America,US,Texas,70,0,0,2020-03-30 22:52:45
+North America,US,New Hampshire,69,0,2,2020-03-30 22:52:45
+Europe,UK,Gibraltar,69,34,0,2020-03-30 22:52:33
+North America,US,Texas,68,0,1,2020-03-30 22:52:45
+North America,US,New Jersey,68,0,1,2020-03-30 22:52:45
+North America,Canada,New Brunswick,68,0,0,2020-03-30 22:58:41
+North America,US,California,68,0,0,2020-03-30 22:52:45
+North America,US,Kansas,67,0,4,2020-03-30 22:52:45
+North America,US,Montana,67,0,0,2020-03-30 22:52:45
+Australia,Australia,Tasmania,66,5,0,2020-03-30 22:58:55
+North America,US,Mississippi,66,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,65,0,3,2020-03-30 22:52:45
+North America,US,Florida,65,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,65,0,3,2020-03-30 22:52:45
+North America,US,Arizona,64,0,0,2020-03-30 22:52:45
+South America,Paraguay,Paraguay,64,1,3,2020-03-30 22:52:33
+North America,US,Michigan,64,0,2,2020-03-30 22:52:45
+Europe,Liechtenstein,Liechtenstein,62,0,0,2020-03-30 22:52:33
+North America,US,Pennsylvania,62,0,2,2020-03-30 22:52:45
+North America,US,Florida,61,0,2,2020-03-30 22:52:45
+North America,US,Iowa,61,0,0,2020-03-30 22:52:45
+North America,US,Georgia,61,0,1,2020-03-30 22:52:45
+North America,US,Virginia,61,0,1,2020-03-30 22:52:45
+North America,US,Georgia,61,0,1,2020-03-30 22:52:45
+North America,US,California,60,0,1,2020-03-30 22:52:45
+North America,US,Oklahoma,60,0,5,2020-03-30 22:52:45
+North America,US,Florida,60,0,2,2020-03-30 22:52:45
+North America,US,Washington,59,0,1,2020-03-30 22:52:45
+North America,US,Missouri,59,0,1,2020-03-30 22:52:45
+North America,US,Alaska,59,0,1,2020-03-30 22:52:45
+North America,US,California,58,0,1,2020-03-30 22:52:45
+North America,US,Georgia,58,0,2,2020-03-30 22:52:45
+North America,US,Guam,58,0,1,2020-03-30 22:52:45
+North America,US,Indiana,58,0,1,2020-03-30 22:52:45
+North America,US,Tennessee,57,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,57,0,0,2020-03-30 22:52:45
+North America,US,Utah,57,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,56,0,1,2020-03-30 22:52:45
+North America,US,Washington,56,0,0,2020-03-30 22:52:45
+North America,US,New Hampshire,56,0,0,2020-03-30 22:52:45
+North America,US,Missouri,56,0,2,2020-03-30 22:52:45
+North America,US,Missouri,56,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,55,0,0,2020-03-30 22:52:45
+North America,US,Florida,55,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,54,0,0,2020-03-30 22:52:45
+North America,US,Maine,53,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,53,0,2,2020-03-30 22:52:45
+North America,US,California,53,0,2,2020-03-30 22:52:45
+North America,US,Kentucky,53,0,2,2020-03-30 22:52:45
+North America,US,Illinois,52,0,2,2020-03-30 22:52:45
+North America,US,New York,52,0,0,2020-03-30 22:52:45
+North America,US,Virginia,52,0,1,2020-03-30 22:52:45
+North America,US,Minnesota,51,0,0,2020-03-30 22:52:45
+North America,US,Texas,51,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,51,0,2,2020-03-30 22:52:45
+North America,US,Minnesota,50,0,2,2020-03-30 22:52:45
+North America,US,Connecticut,50,0,1,2020-03-30 22:52:45
+Europe,Netherlands,Aruba,50,1,0,2020-03-30 22:52:33
+Africa,Kenya,Kenya,50,1,1,2020-03-30 22:52:33
+North America,US,Connecticut,50,0,4,2020-03-30 22:52:45
+North America,US,Pennsylvania,49,0,2,2020-03-30 22:52:45
+North America,US,Diamond Princess,49,0,0,2020-03-30 22:52:45
+Asia,Bangladesh,Bangladesh,49,19,5,2020-03-30 22:52:33
+North America,US,Kansas,49,0,1,2020-03-30 22:52:45
+North America,US,Massachusetts,49,0,2,2020-03-30 22:52:45
+Europe,UK,Isle of Man,49,0,0,2020-03-30 22:52:33
+Europe,Monaco,Monaco,49,1,1,2020-03-30 22:52:33
+North America,US,Arkansas,49,0,2,2020-03-30 22:52:45
+North America,US,Missouri,48,0,4,2020-03-30 22:52:45
+North America,US,Ohio,48,0,1,2020-03-30 22:52:45
+North America,US,Tennessee,48,0,0,2020-03-30 22:52:45
+North America,US,Florida,47,0,0,2020-03-30 22:52:45
+North America,US,Texas,46,0,2,2020-03-30 22:52:45
+North America,US,Ohio,46,0,5,2020-03-30 22:52:45
+North America,US,Minnesota,46,0,0,2020-03-30 22:52:45
+North America,US,Massachusetts,46,0,0,2020-03-30 22:52:45
+North America,US,Florida,46,0,0,2020-03-30 22:52:45
+North America,US,Michigan,45,0,0,2020-03-30 22:52:45
+North America,US,Georgia,44,0,6,2020-03-30 22:52:45
+North America,US,Ohio,44,0,2,2020-03-30 22:52:45
+North America,US,California,44,0,1,2020-03-30 22:52:45
+North America,US,Virginia,44,0,2,2020-03-30 22:52:45
+North America,US,North Carolina,44,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,44,0,0,2020-03-30 22:52:45
+North America,US,Utah,44,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,44,0,1,2020-03-30 22:52:45
+North America,US,Alabama,44,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,44,0,1,2020-03-30 22:52:45
+North America,US,Ohio,43,0,1,2020-03-30 22:52:45
+Africa,Madagascar,Madagascar,43,0,0,2020-03-30 22:52:33
+North America,US,South Carolina,43,0,0,2020-03-30 22:52:45
+North America,US,California,43,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,43,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,42,0,1,2020-03-30 22:52:45
+North America,US,Indiana,42,0,0,2020-03-30 22:52:45
+North America,US,New York,42,0,1,2020-03-30 22:52:45
+North America,US,Ohio,42,0,2,2020-03-30 22:52:45
+North America,US,Florida,42,0,0,2020-03-30 22:52:45
+North America,US,New York,41,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,41,0,1,2020-03-30 22:52:45
+North America,US,Georgia,41,0,5,2020-03-30 22:52:45
+North America,US,Texas,40,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,40,0,0,2020-03-30 22:52:45
+North America,US,Idaho,40,0,1,2020-03-30 22:52:45
+North America,US,Oregon,40,0,3,2020-03-30 22:52:45
+North America,US,Utah,39,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,39,0,1,2020-03-30 22:52:45
+North America,US,Georgia,39,0,1,2020-03-30 22:52:45
+North America,US,Florida,39,0,1,2020-03-30 22:52:45
+North America,US,Ohio,38,0,1,2020-03-30 22:52:45
+North America,US,North Carolina,38,0,1,2020-03-30 22:52:45
+North America,US,North Carolina,38,0,0,2020-03-30 22:52:45
+North America,US,Florida,38,0,2,2020-03-30 22:52:45
+North America,US,Michigan,37,0,1,2020-03-30 22:52:45
+North America,US,Washington,37,0,0,2020-03-30 22:52:45
+North America,US,Texas,37,0,1,2020-03-30 22:52:45
+North America,US,Mississippi,37,0,0,2020-03-30 22:52:45
+North America,US,Texas,36,0,0,2020-03-30 22:52:45
+North America,US,Michigan,36,0,0,2020-03-30 22:52:45
+North America,US,Washington,36,0,0,2020-03-30 22:52:45
+North America,US,California,36,0,1,2020-03-30 22:52:45
+North America,US,Wisconsin,36,0,3,2020-03-30 22:52:45
+North America,US,Illinois,36,0,2,2020-03-30 22:52:45
+North America,US,New York,36,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,36,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,36,0,3,2020-03-30 22:52:45
+North America,US,Texas,36,0,1,2020-03-30 22:52:45
+North America,Guatemala,Guatemala,36,10,1,2020-03-30 22:52:33
+North America,Jamaica,Jamaica,36,2,1,2020-03-30 22:52:33
+North America,US,Oregon,36,0,2,2020-03-30 22:52:45
+North America,US,Indiana,36,0,1,2020-03-30 22:52:45
+North America,US,Arkansas,35,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,35,0,1,2020-03-30 22:52:45
+North America,US,New York,35,0,3,2020-03-30 22:52:45
+Africa,Zambia,Zambia,35,0,0,2020-03-30 22:52:33
+North America,US,California,35,0,1,2020-03-30 22:52:45
+North America,US,Florida,35,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,35,0,1,2020-03-30 22:52:45
+North America,US,Texas,35,0,1,2020-03-30 22:52:45
+North America,US,Florida,35,0,4,2020-03-30 22:52:45
+North America,US,California,34,0,0,2020-03-30 22:52:45
+North America,US,Georgia,34,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,34,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,34,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,34,0,1,2020-03-30 22:52:45
+North America,US,New York,34,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,34,0,2,2020-03-30 22:52:45
+North America,US,Wisconsin,34,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,34,0,0,2020-03-30 22:52:45
+North America,US,Alabama,33,0,3,2020-03-30 22:52:45
+North America,US,Maryland,33,0,1,2020-03-30 22:52:45
+North America,US,Georgia,33,0,1,2020-03-30 22:52:45
+North America,Barbados,Barbados,33,0,0,2020-03-30 22:52:33
+Africa,Uganda,Uganda,33,0,0,2020-03-30 22:52:33
+North America,US,Illinois,33,0,0,2020-03-30 22:52:45
+North America,US,Michigan,32,0,0,2020-03-30 22:52:45
+North America,US,Ohio,32,0,1,2020-03-30 22:52:45
+North America,US,South Carolina,32,0,3,2020-03-30 22:52:45
+North America,US,Georgia,32,0,3,2020-03-30 22:52:45
+North America,US,Texas,32,0,1,2020-03-30 22:52:45
+North America,US,West Virginia,31,0,0,2020-03-30 22:52:45
+North America,US,Ohio,31,0,1,2020-03-30 22:52:45
+North America,US,California,31,0,0,2020-03-30 22:52:45
+North America,US,Florida,31,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,31,0,1,2020-03-30 22:52:45
+Africa,Togo,Togo,30,1,1,2020-03-30 22:52:33
+North America,US,Pennsylvania,30,0,0,2020-03-30 22:52:45
+North America,El Salvador,El Salvador,30,0,0,2020-03-30 22:52:33
+North America,US,Wisconsin,30,0,0,2020-03-30 22:52:45
+North America,US,Florida,30,0,1,2020-03-30 22:52:45
+North America,US,Alabama,30,0,0,2020-03-30 22:52:45
+North America,US,Ohio,30,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,30,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,30,0,1,2020-03-30 22:52:45
+North America,US,South Carolina,30,0,0,2020-03-30 22:52:45
+North America,US,New Jersey,29,0,0,2020-03-30 22:52:45
+North America,US,Indiana,29,0,1,2020-03-30 22:52:45
+North America,US,North Dakota,29,0,0,2020-03-30 22:52:45
+North America,US,New Hampshire,29,0,0,2020-03-30 22:52:45
+North America,US,Florida,29,0,2,2020-03-30 22:52:45
+North America,US,Louisiana,28,0,1,2020-03-30 22:52:45
+North America,US,South Dakota,28,0,0,2020-03-30 22:52:45
+North America,US,Texas,28,0,0,2020-03-30 22:52:45
+North America,US,Alaska,28,0,0,2020-03-30 22:52:45
+North America,US,Georgia,28,0,2,2020-03-30 22:52:45
+North America,US,Louisiana,28,0,2,2020-03-30 22:52:45
+North America,US,Indiana,28,0,1,2020-03-30 22:52:45
+North America,US,Georgia,28,0,2,2020-03-30 22:52:45
+North America,US,Vermont,28,0,7,2020-03-30 22:52:45
+North America,US,Texas,28,0,0,2020-03-30 22:52:45
+North America,US,Indiana,28,0,1,2020-03-30 22:52:45
+North America,US,Indiana,28,0,4,2020-03-30 22:52:45
+North America,US,Michigan,28,0,0,2020-03-30 22:52:45
+North America,US,Rhode Island,27,0,0,2020-03-30 22:52:45
+North America,US,Florida,27,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,27,0,0,2020-03-30 22:52:45
+North America,US,Indiana,27,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,27,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,27,0,0,2020-03-30 22:52:45
+Africa,Niger,Niger,27,0,3,2020-03-30 22:52:33
+Europe,UK,Bermuda,27,2,0,2020-03-30 22:52:33
+North America,US,Tennessee,27,0,0,2020-03-30 22:52:45
+North America,US,Colorado,27,0,2,2020-03-30 22:52:45
+North America,US,Kentucky,27,0,0,2020-03-30 22:52:45
+North America,US,Delaware,27,0,3,2020-03-30 22:52:45
+North America,US,Pennsylvania,26,0,0,2020-03-30 22:52:45
+North America,US,Maryland,26,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,26,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,26,0,0,2020-03-30 22:52:45
+North America,US,Indiana,26,0,0,2020-03-30 22:52:45
+North America,US,Virginia,26,0,0,2020-03-30 22:52:45
+North America,US,Idaho,26,0,0,2020-03-30 22:52:45
+North America,US,Montana,26,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,26,0,0,2020-03-30 22:52:45
+North America,US,Virginia,25,0,0,2020-03-30 22:52:45
+North America,US,Missouri,25,0,0,2020-03-30 22:52:45
+North America,US,Indiana,25,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,25,0,0,2020-03-30 22:52:45
+North America,US,Oregon,25,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,25,0,0,2020-03-30 22:52:45
+North America,US,California,25,0,0,2020-03-30 22:52:45
+Africa,Mali,Mali,25,0,2,2020-03-30 22:52:33
+North America,US,Michigan,25,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,25,0,0,2020-03-30 22:52:45
+North America,US,Colorado,25,0,0,2020-03-30 22:52:45
+North America,US,Florida,24,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,24,0,1,2020-03-30 22:52:45
+North America,US,Wyoming,24,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,24,0,0,2020-03-30 22:52:45
+North America,US,Georgia,24,0,0,2020-03-30 22:52:45
+North America,US,Alabama,24,0,0,2020-03-30 22:52:45
+North America,US,Maryland,24,0,0,2020-03-30 22:52:45
+North America,US,Connecticut,24,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,24,0,1,2020-03-30 22:52:45
+North America,US,Florida,24,0,0,2020-03-30 22:52:45
+North America,US,Michigan,24,0,1,2020-03-30 22:52:45
+North America,US,West Virginia,23,0,0,2020-03-30 22:52:45
+North America,US,Rhode Island,23,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,23,0,2,2020-03-30 22:52:45
+North America,US,Illinois,23,0,0,2020-03-30 22:52:45
+North America,US,Kansas,23,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,23,0,2,2020-03-30 22:52:45
+Africa,Ethiopia,Ethiopia,23,4,0,2020-03-30 22:52:33
+North America,US,Indiana,23,0,1,2020-03-30 22:52:45
+North America,US,Florida,23,0,0,2020-03-30 22:52:45
+North America,US,Texas,22,0,0,2020-03-30 22:52:45
+Africa,Guinea,Guinea,22,0,0,2020-03-30 22:52:33
+North America,US,New Mexico,22,0,0,2020-03-30 22:52:45
+North America,US,Ohio,22,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,22,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,22,0,2,2020-03-30 22:52:45
+North America,US,Louisiana,22,0,1,2020-03-30 22:52:45
+North America,US,Alabama,22,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,21,0,2,2020-03-30 22:52:45
+North America,US,Colorado,21,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,21,0,1,2020-03-30 22:52:45
+North America,US,Arkansas,21,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,21,0,0,2020-03-30 22:52:45
+North America,US,Iowa,21,0,1,2020-03-30 22:52:45
+North America,US,Virginia,21,0,0,2020-03-30 22:52:45
+North America,US,Florida,21,0,0,2020-03-30 22:52:45
+North America,US,Florida,21,0,0,2020-03-30 22:52:45
+North America,US,Ohio,21,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,21,0,0,2020-03-30 22:52:45
+North America,US,Iowa,21,0,0,2020-03-30 22:52:45
+North America,US,Texas,20,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,20,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,20,0,1,2020-03-30 22:52:45
+North America,US,New York,20,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,20,0,0,2020-03-30 22:52:45
+North America,US,Indiana,20,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,20,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,20,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,20,0,3,2020-03-30 22:52:45
+North America,US,Texas,20,0,1,2020-03-30 22:52:45
+North America,US,Oregon,20,0,0,2020-03-30 22:52:45
+North America,US,Ohio,20,0,0,2020-03-30 22:52:45
+North America,US,Virginia,20,0,0,2020-03-30 22:52:45
+North America,US,Indiana,20,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,20,0,0,2020-03-30 22:52:45
+North America,US,Alabama,20,0,0,2020-03-30 22:52:45
+North America,US,Hawaii,20,0,0,2020-03-30 22:52:45
+North America,US,Georgia,20,0,1,2020-03-30 22:52:45
+North America,US,Oklahoma,20,0,0,2020-03-30 22:52:45
+North America,US,Kansas,20,0,0,2020-03-30 22:52:45
+Africa,Tanzania,Tanzania,19,1,0,2020-03-30 22:52:33
+North America,US,Utah,19,0,0,2020-03-30 22:52:45
+North America,US,Virginia,19,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,19,0,0,2020-03-30 22:52:45
+North America,US,Georgia,19,0,0,2020-03-30 22:52:45
+Africa,Republic of the Congo,Republic of the Congo,19,0,0,2020-03-30 22:52:33
+North America,US,Rhode Island,19,0,0,2020-03-30 22:52:45
+North America,US,Michigan,19,0,0,2020-03-30 22:52:45
+North America,US,New York,19,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,19,0,1,2020-03-30 22:52:45
+North America,US,New York,18,0,0,2020-03-30 22:52:45
+North America,US,California,18,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,18,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,18,0,0,2020-03-30 22:52:45
+North America,US,Iowa,18,0,1,2020-03-30 22:52:45
+North America,US,California,18,0,1,2020-03-30 22:52:45
+North America,US,Illinois,18,0,2,2020-03-30 22:52:45
+North America,US,South Carolina,18,0,1,2020-03-30 22:52:45
+North America,US,New Hampshire,18,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,18,0,1,2020-03-30 22:52:45
+North America,Canada,Prince Edward Island,18,0,0,2020-03-30 22:58:41
+North America,US,Mississippi,18,0,0,2020-03-30 22:52:45
+North America,US,Texas,18,0,1,2020-03-30 22:52:45
+North America,US,Michigan,18,0,2,2020-03-30 22:52:45
+North America,US,Missouri,18,0,0,2020-03-30 22:52:45
+North America,US,Virginia,18,0,1,2020-03-30 22:52:45
+North America,US,Vermont,18,0,1,2020-03-30 22:52:45
+North America,US,Georgia,18,0,0,2020-03-30 22:52:45
+North America,US,Virginia,18,0,0,2020-03-30 22:52:45
+Africa,Djibouti,Djibouti,18,0,0,2020-03-30 22:52:33
+North America,US,Florida,18,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,18,0,0,2020-03-30 22:52:45
+North America,US,Georgia,18,0,1,2020-03-30 22:52:45
+North America,US,Alabama,18,0,1,2020-03-30 22:52:45
+North America,US,North Carolina,18,0,1,2020-03-30 22:52:45
+Asia,Maldives,Maldives,17,13,0,2020-03-30 22:52:33
+North America,US,Louisiana,17,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,17,0,0,2020-03-30 22:52:45
+North America,US,Vermont,17,0,0,2020-03-30 22:52:45
+North America,US,Alabama,17,0,0,2020-03-30 22:52:45
+North America,US,New Hampshire,17,0,0,2020-03-30 22:52:45
+North America,US,Arizona,17,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,17,0,1,2020-03-30 22:52:45
+North America,US,Michigan,17,0,0,2020-03-30 22:52:45
+North America,US,New York,17,0,0,2020-03-30 22:52:45
+North America,US,California,17,0,0,2020-03-30 22:52:45
+North America,US,Indiana,17,0,0,2020-03-30 22:52:45
+North America,US,Colorado,17,0,0,2020-03-30 22:52:45
+North America,US,Florida,17,0,1,2020-03-30 22:52:45
+North America,US,New York,17,0,1,2020-03-30 22:52:45
+North America,US,New York,17,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,17,0,0,2020-03-30 22:52:45
+North America,US,Virginia,17,0,0,2020-03-30 22:52:45
+North America,US,Michigan,17,0,0,2020-03-30 22:52:45
+North America,US,Missouri,17,0,0,2020-03-30 22:52:45
+North America,US,Michigan,17,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,17,0,0,2020-03-30 22:52:45
+North America,US,Illinois,17,0,1,2020-03-30 22:52:45
+North America,US,New Mexico,17,0,0,2020-03-30 22:52:45
+North America,US,Georgia,16,0,1,2020-03-30 22:52:45
+North America,US,Wisconsin,16,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,16,0,0,2020-03-30 22:52:45
+North America,US,Georgia,16,0,1,2020-03-30 22:52:45
+North America,US,California,16,0,1,2020-03-30 22:52:45
+North America,US,Wyoming,16,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,16,0,0,2020-03-30 22:52:45
+North America,US,Iowa,16,0,0,2020-03-30 22:52:45
+North America,US,Colorado,16,0,0,2020-03-30 22:52:45
+North America,US,Texas,16,0,0,2020-03-30 22:52:45
+North America,US,Georgia,16,0,0,2020-03-30 22:52:45
+North America,US,Vermont,16,0,0,2020-03-30 22:52:45
+North America,US,Georgia,16,0,1,2020-03-30 22:52:45
+North America,US,Oklahoma,15,0,0,2020-03-30 22:52:45
+North America,US,Indiana,15,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,15,0,1,2020-03-30 22:52:45
+North America,US,Colorado,15,0,1,2020-03-30 22:52:45
+North America,US,New York,15,0,0,2020-03-30 22:52:45
+North America,US,Oregon,15,0,0,2020-03-30 22:52:45
+North America,US,Georgia,15,0,1,2020-03-30 22:52:45
+North America,US,Texas,15,0,0,2020-03-30 22:52:45
+North America,Haiti,Haiti,15,1,0,2020-03-30 22:52:33
+North America,US,Mississippi,15,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,15,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,15,0,1,2020-03-30 22:52:45
+North America,US,Georgia,15,0,0,2020-03-30 22:52:45
+North America,US,Indiana,15,0,0,2020-03-30 22:52:45
+North America,US,New York,15,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,15,0,3,2020-03-30 22:52:45
+North America,US,Wisconsin,15,0,0,2020-03-30 22:52:45
+North America,US,Michigan,15,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,15,0,1,2020-03-30 22:52:45
+North America,US,New York,15,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,15,0,0,2020-03-30 22:52:45
+North America,US,Utah,15,0,1,2020-03-30 22:52:45
+North America,US,Arkansas,15,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,15,0,0,2020-03-30 22:52:45
+North America,US,Michigan,15,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,15,0,0,2020-03-30 22:52:45
+Australia,Australia,Northern Territory,15,0,0,2020-03-30 22:58:55
+North America,US,Arizona,15,0,0,2020-03-30 22:52:45
+North America,US,Florida,15,0,0,2020-03-30 22:52:45
+North America,US,Indiana,15,0,1,2020-03-30 22:52:45
+North America,US,Georgia,15,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,15,0,0,2020-03-30 22:52:45
+North America,The Bahamas,The Bahamas,14,1,0,2020-03-30 22:52:33
+North America,US,Louisiana,14,0,0,2020-03-30 22:52:45
+North America,US,Kansas,14,0,1,2020-03-30 22:52:45
+North America,US,Colorado,14,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,14,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,14,0,0,2020-03-30 22:52:45
+North America,US,Washington,14,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,14,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,14,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,14,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,14,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,14,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,14,0,0,2020-03-30 22:52:45
+North America,US,Indiana,14,0,1,2020-03-30 22:52:45
+North America,US,Washington,14,0,1,2020-03-30 22:52:45
+North America,US,Indiana,14,0,1,2020-03-30 22:52:45
+North America,US,California,14,0,1,2020-03-30 22:52:45
+North America,US,Oregon,14,0,2,2020-03-30 22:52:45
+North America,US,California,14,0,0,2020-03-30 22:52:45
+Asia,Burma,Burma,14,0,0,2020-03-30 22:52:33
+North America,US,Tennessee,14,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,14,0,0,2020-03-30 22:52:45
+North America,US,Washington,14,0,0,2020-03-30 22:52:45
+North America,US,Indiana,14,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,14,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,14,0,1,2020-03-30 22:52:45
+North America,US,California,13,0,0,2020-03-30 22:52:45
+North America,Canada,Grand Princess,13,0,0,2020-03-30 22:58:41
+North America,US,Mississippi,13,0,0,2020-03-30 22:52:45
+North America,US,Ohio,13,0,0,2020-03-30 22:52:45
+North America,US,Alabama,13,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,13,0,0,2020-03-30 22:52:45
+North America,US,Florida,13,0,1,2020-03-30 22:52:45
+North America,US,Illinois,13,0,0,2020-03-30 22:52:45
+North America,US,Illinois,13,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,13,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,13,0,1,2020-03-30 22:52:45
+North America,US,Florida,13,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,13,0,0,2020-03-30 22:52:45
+North America,US,Missouri,13,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,13,0,0,2020-03-30 22:52:45
+North America,US,Illinois,13,0,0,2020-03-30 22:52:45
+North America,US,Georgia,13,0,0,2020-03-30 22:52:45
+North America,US,Missouri,13,0,0,2020-03-30 22:52:45
+North America,US,New York,13,0,0,2020-03-30 22:52:45
+North America,US,Alabama,13,0,0,2020-03-30 22:52:45
+North America,US,Iowa,13,0,0,2020-03-30 22:52:45
+North America,US,Alaska,13,0,0,2020-03-30 22:52:45
+North America,US,Virginia,13,0,0,2020-03-30 22:52:45
+North America,US,Texas,13,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,13,0,0,2020-03-30 22:52:45
+North America,US,Maryland,13,0,0,2020-03-30 22:52:45
+North America,US,Ohio,13,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,13,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,13,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,13,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,13,0,1,2020-03-30 22:52:45
+North America,US,Texas,13,0,0,2020-03-30 22:52:45
+North America,US,Missouri,13,0,0,2020-03-30 22:52:45
+North America,US,Indiana,13,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,13,0,0,2020-03-30 22:52:45
+North America,US,New York,13,0,0,2020-03-30 22:52:45
+North America,US,Utah,13,0,0,2020-03-30 22:52:45
+North America,US,Florida,13,0,0,2020-03-30 22:52:45
+North America,US,Georgia,12,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,12,0,0,2020-03-30 22:52:45
+North America,US,Georgia,12,0,2,2020-03-30 22:52:45
+North America,US,Georgia,12,0,0,2020-03-30 22:52:45
+North America,US,Hawaii,12,0,0,2020-03-30 22:52:45
+North America,US,Vermont,12,0,0,2020-03-30 22:52:45
+North America,US,Alabama,12,0,1,2020-03-30 22:52:45
+North America,US,Oregon,12,0,1,2020-03-30 22:52:45
+North America,US,Kentucky,12,0,0,2020-03-30 22:52:45
+North America,US,New Jersey,12,0,1,2020-03-30 22:52:45
+North America,US,Georgia,12,0,0,2020-03-30 22:52:45
+Africa,Eritrea,Eritrea,12,0,0,2020-03-30 22:52:33
+Africa,Equatorial Guinea,Equatorial Guinea,12,0,0,2020-03-30 22:52:33
+North America,US,Georgia,12,0,0,2020-03-30 22:52:45
+North America,US,Illinois,12,0,0,2020-03-30 22:52:45
+North America,US,Vermont,12,0,0,2020-03-30 22:52:45
+North America,US,Georgia,12,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,12,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,12,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,12,0,1,2020-03-30 22:52:45
+North America,US,Illinois,12,0,1,2020-03-30 22:52:45
+North America,US,Oklahoma,12,0,0,2020-03-30 22:52:45
+Europe,UK,Cayman Islands,12,0,1,2020-03-30 22:52:33
+North America,US,Ohio,12,0,0,2020-03-30 22:52:45
+North America,US,Colorado,12,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,12,0,2,2020-03-30 22:52:45
+North America,US,Indiana,12,0,0,2020-03-30 22:52:45
+North America,US,California,12,0,0,2020-03-30 22:52:45
+North America,US,Montana,12,0,0,2020-03-30 22:52:45
+North America,US,Maryland,12,0,0,2020-03-30 22:52:45
+North America,US,Missouri,12,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,12,0,0,2020-03-30 22:52:45
+North America,US,Hawaii,12,0,0,2020-03-30 22:52:45
+North America,US,Maine,12,0,0,2020-03-30 22:52:45
+North America,US,Rhode Island,12,0,0,2020-03-30 22:52:45
+North America,US,Michigan,12,0,1,2020-03-30 22:52:45
+North America,US,Missouri,12,0,0,2020-03-30 22:52:45
+Asia,Mongolia,Mongolia,12,2,0,2020-03-30 22:52:33
+North America,US,New York,12,0,2,2020-03-30 22:52:45
+North America,US,Georgia,11,0,0,2020-03-30 22:52:45
+North America,US,Ohio,11,0,2,2020-03-30 22:52:45
+North America,US,Texas,11,0,2,2020-03-30 22:52:45
+Europe,Netherlands,Curacao,11,2,1,2020-03-30 22:52:33
+North America,US,Georgia,11,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,11,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,11,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,11,0,0,2020-03-30 22:52:45
+North America,US,Virginia,11,0,1,2020-03-30 22:52:45
+North America,US,Vermont,11,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,11,0,0,2020-03-30 22:52:45
+North America,US,New York,11,0,0,2020-03-30 22:52:45
+North America,US,New York,11,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,11,0,0,2020-03-30 22:52:45
+North America,US,Georgia,11,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,11,0,1,2020-03-30 22:52:45
+North America,US,Montana,11,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,11,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,11,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,11,0,1,2020-03-30 22:52:45
+North America,US,North Carolina,11,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,11,0,0,2020-03-30 22:52:45
+North America,Dominica,Dominica,11,0,0,2020-03-30 22:52:33
+North America,US,South Carolina,11,0,0,2020-03-30 22:52:45
+North America,US,Missouri,11,0,1,2020-03-30 22:52:45
+Africa,Namibia,Namibia,11,2,0,2020-03-30 22:52:33
+North America,US,Texas,11,0,0,2020-03-30 22:52:45
+North America,US,Missouri,10,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,10,0,0,2020-03-30 22:52:45
+North America,US,Indiana,10,0,1,2020-03-30 22:52:45
+North America,US,Washington,10,0,0,2020-03-30 22:52:45
+North America,US,Indiana,10,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,10,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,10,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,10,0,0,2020-03-30 22:52:45
+North America,US,New Hampshire,10,0,0,2020-03-30 22:52:45
+North America,US,Kansas,10,0,0,2020-03-30 22:52:45
+North America,US,Alabama,10,0,0,2020-03-30 22:52:45
+North America,US,Colorado,10,0,1,2020-03-30 22:52:45
+Asia,Syria,Syria,10,0,2,2020-03-30 22:52:33
+North America,US,North Dakota,10,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,10,0,0,2020-03-30 22:52:45
+North America,US,New York,10,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,10,0,1,2020-03-30 22:52:45
+North America,US,Maine,10,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,10,0,0,2020-03-30 22:52:45
+North America,US,Georgia,10,0,0,2020-03-30 22:52:45
+North America,US,Indiana,10,0,0,2020-03-30 22:52:45
+North America,US,Oregon,10,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,10,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,10,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,10,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,10,0,0,2020-03-30 22:52:45
+North America,US,Alabama,10,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,10,0,0,2020-03-30 22:52:45
+North America,US,Virginia,10,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,10,0,0,2020-03-30 22:52:45
+North America,US,Connecticut,10,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,10,0,0,2020-03-30 22:52:45
+North America,US,Iowa,10,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,10,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,10,0,0,2020-03-30 22:52:45
+North America,US,New York,10,0,0,2020-03-30 22:52:45
+North America,US,Georgia,10,0,0,2020-03-30 22:52:45
+North America,US,Washington,9,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,9,0,0,2020-03-30 22:52:45
+North America,US,Virginia,9,0,1,2020-03-30 22:52:45
+North America,US,Tennessee,9,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,9,0,0,2020-03-30 22:52:45
+North America,US,Kansas,9,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,9,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,9,0,0,2020-03-30 22:52:45
+North America,US,Ohio,9,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,9,0,0,2020-03-30 22:52:45
+North America,US,New Jersey,9,0,0,2020-03-30 22:52:45
+North America,US,Missouri,9,0,0,2020-03-30 22:52:45
+North America,US,Vermont,9,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,9,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,9,0,0,2020-03-30 22:52:45
+North America,US,New York,9,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,9,0,0,2020-03-30 22:52:45
+North America,US,New York,9,0,0,2020-03-30 22:52:45
+North America,Grenada,Grenada,9,0,0,2020-03-30 22:52:33
+North America,US,Nebraska,9,0,0,2020-03-30 22:52:45
+North America,US,Maryland,9,0,0,2020-03-30 22:52:45
+North America,US,California,9,0,0,2020-03-30 22:52:45
+Africa,Eswatini,Eswatini,9,0,0,2020-03-30 22:52:33
+North America,US,Tennessee,9,0,0,2020-03-30 22:52:45
+North America,US,Michigan,9,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,9,0,0,2020-03-30 22:52:45
+North America,US,Michigan,9,0,0,2020-03-30 22:52:45
+North America,Saint Lucia,Saint Lucia,9,1,0,2020-03-30 22:52:33
+North America,US,Mississippi,9,0,0,2020-03-30 22:52:45
+North America,US,Alabama,9,0,0,2020-03-30 22:52:45
+North America,US,Indiana,9,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,9,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,9,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,9,0,0,2020-03-30 22:52:45
+North America,US,New Hampshire,9,0,0,2020-03-30 22:52:45
+North America,US,Maine,9,0,0,2020-03-30 22:52:45
+North America,US,Montana,9,0,0,2020-03-30 22:52:45
+North America,US,Utah,9,0,0,2020-03-30 22:52:45
+North America,US,Oregon,9,0,0,2020-03-30 22:52:45
+North America,US,Montana,9,0,0,2020-03-30 22:52:45
+North America,US,Texas,9,0,0,2020-03-30 22:52:45
+Africa,Guinea-Bissau,Guinea-Bissau,8,0,0,2020-03-30 22:52:33
+North America,US,Hawaii,8,0,0,2020-03-30 22:52:45
+North America,US,California,8,0,0,2020-03-30 22:52:45
+North America,US,Maine,8,0,0,2020-03-30 22:52:45
+North America,US,Alabama,8,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,8,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,8,0,0,2020-03-30 22:52:45
+Africa,Mozambique,Mozambique,8,0,0,2020-03-30 22:52:33
+South America,Guyana,Guyana,8,0,1,2020-03-30 22:52:33
+South America,Suriname,Suriname,8,0,0,2020-03-30 22:52:33
+Africa,Seychelles,Seychelles,8,0,0,2020-03-30 22:52:33
+North America,US,Oklahoma,8,0,1,2020-03-30 22:52:45
+North America,US,Florida,8,0,0,2020-03-30 22:52:45
+Asia,Laos,Laos,8,0,0,2020-03-30 22:52:33
+North America,US,Iowa,8,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,8,0,0,2020-03-30 22:52:45
+Africa,Libya,Libya,8,0,0,2020-03-30 22:52:33
+North America,US,Tennessee,8,0,0,2020-03-30 22:52:45
+North America,US,Ohio,8,0,0,2020-03-30 22:52:45
+North America,US,Illinois,8,0,0,2020-03-30 22:52:45
+North America,US,Massachusetts,8,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,8,0,0,2020-03-30 22:52:45
+North America,US,Indiana,8,0,0,2020-03-30 22:52:45
+North America,US,Alabama,8,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,8,0,0,2020-03-30 22:52:45
+North America,US,Virginia,8,0,0,2020-03-30 22:52:45
+North America,US,Michigan,8,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,8,0,0,2020-03-30 22:52:45
+North America,US,Colorado,8,0,0,2020-03-30 22:52:45
+North America,US,Alabama,8,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,8,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,8,0,0,2020-03-30 22:52:45
+North America,US,Washington,8,0,0,2020-03-30 22:52:45
+North America,US,Indiana,8,0,1,2020-03-30 22:52:45
+North America,US,Wyoming,8,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,8,0,0,2020-03-30 22:52:45
+North America,US,Texas,8,0,1,2020-03-30 22:52:45
+North America,US,Minnesota,8,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,8,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,8,0,0,2020-03-30 22:52:45
+North America,US,Oregon,8,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,8,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,8,0,0,2020-03-30 22:52:45
+North America,US,New York,8,0,1,2020-03-30 22:52:45
+North America,US,Wisconsin,8,0,0,2020-03-30 22:52:45
+North America,US,Washington,8,0,1,2020-03-30 22:52:45
+North America,US,Florida,8,0,0,2020-03-30 22:52:45
+North America,US,Iowa,8,0,0,2020-03-30 22:52:45
+North America,US,Texas,8,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,8,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,8,0,0,2020-03-30 22:52:45
+North America,US,Maine,8,0,0,2020-03-30 22:52:45
+North America,US,Indiana,8,0,0,2020-03-30 22:52:45
+North America,US,Illinois,8,0,0,2020-03-30 22:52:45
+North America,US,Texas,8,0,0,2020-03-30 22:52:45
+North America,US,Alabama,7,0,0,2020-03-30 22:52:45
+North America,US,Missouri,7,0,0,2020-03-30 22:52:45
+North America,US,Kansas,7,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,7,0,0,2020-03-30 22:52:45
+North America,US,Maine,7,0,0,2020-03-30 22:52:45
+North America,US,Arizona,7,0,0,2020-03-30 22:52:45
+North America,US,Virginia,7,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,7,0,0,2020-03-30 22:52:45
+North America,US,Ohio,7,0,0,2020-03-30 22:52:45
+North America,US,Georgia,7,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,7,0,0,2020-03-30 22:52:45
+North America,US,Indiana,7,0,1,2020-03-30 22:52:45
+North America,US,Mississippi,7,0,0,2020-03-30 22:52:45
+North America,US,Missouri,7,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,7,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,7,0,0,2020-03-30 22:52:45
+Africa,Zimbabwe,Zimbabwe,7,0,1,2020-03-30 22:52:33
+North America,US,Iowa,7,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,7,0,0,2020-03-30 22:52:45
+North America,US,Missouri,7,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,7,0,0,2020-03-30 22:52:45
+North America,US,Ohio,7,0,0,2020-03-30 22:52:45
+North America,US,Georgia,7,0,0,2020-03-30 22:52:45
+Africa,Gabon,Gabon,7,0,1,2020-03-30 22:52:33
+North America,US,Colorado,7,0,1,2020-03-30 22:52:45
+North America,US,Ohio,7,0,0,2020-03-30 22:52:45
+North America,US,Georgia,7,0,0,2020-03-30 22:52:45
+North America,US,Texas,7,0,0,2020-03-30 22:52:45
+North America,US,Montana,7,0,0,2020-03-30 22:52:45
+North America,US,New York,7,0,0,2020-03-30 22:52:45
+North America,US,New York,7,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,7,0,0,2020-03-30 22:52:45
+North America,US,Ohio,7,0,0,2020-03-30 22:52:45
+North America,US,Alaska,7,0,0,2020-03-30 22:52:45
+North America,US,Texas,7,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,7,0,0,2020-03-30 22:52:45
+Europe,Antigua and Barbuda,Antigua and Barbuda,7,0,0,2020-03-30 22:52:33
+Africa,Angola,Angola,7,0,2,2020-03-30 22:52:33
+North America,US,Virginia,7,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,7,0,0,2020-03-30 22:52:45
+North America,US,Maryland,7,0,0,2020-03-30 22:52:45
+North America,US,Indiana,7,0,1,2020-03-30 22:52:45
+North America,US,Pennsylvania,7,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,7,0,0,2020-03-30 22:52:45
+North America,US,Florida,7,0,0,2020-03-30 22:52:45
+North America,US,Texas,7,0,0,2020-03-30 22:52:45
+North America,US,Michigan,7,0,0,2020-03-30 22:52:45
+North America,US,Virginia,7,0,1,2020-03-30 22:52:45
+North America,US,Indiana,7,0,0,2020-03-30 22:52:45
+North America,US,Texas,7,0,0,2020-03-30 22:52:45
+North America,US,Georgia,7,0,2,2020-03-30 22:52:45
+North America,US,Iowa,7,0,0,2020-03-30 22:52:45
+North America,US,Iowa,7,0,1,2020-03-30 22:52:45
+North America,US,New York,7,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,7,0,0,2020-03-30 22:52:45
+North America,US,Washington,7,0,0,2020-03-30 22:52:45
+North America,US,Georgia,7,0,1,2020-03-30 22:52:45
+North America,US,Minnesota,7,0,0,2020-03-30 22:52:45
+North America,Saint Kitts and Nevis,Saint Kitts and Nevis,7,0,0,2020-03-30 22:52:33
+North America,US,Mississippi,7,0,0,2020-03-30 22:52:45
+North America,US,Virginia,6,0,0,2020-03-30 22:52:45
+Europe,Netherlands,Sint Maarten,6,0,0,2020-03-30 22:52:33
+North America,US,Nebraska,6,0,1,2020-03-30 22:52:45
+North America,US,Georgia,6,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,6,0,0,2020-03-30 22:52:45
+North America,US,Michigan,6,0,0,2020-03-30 22:52:45
+North America,US,Illinois,6,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,6,0,0,2020-03-30 22:52:45
+North America,US,Vermont,6,0,0,2020-03-30 22:52:45
+North America,US,New York,6,0,0,2020-03-30 22:52:45
+North America,US,Georgia,6,0,0,2020-03-30 22:52:45
+North America,US,Indiana,6,0,0,2020-03-30 22:52:45
+Africa,Sudan,Sudan,6,0,2,2020-03-30 22:52:33
+North America,US,Ohio,6,0,0,2020-03-30 22:52:45
+North America,US,Virginia,6,0,0,2020-03-30 22:52:45
+North America,US,Ohio,6,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,6,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,6,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,6,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,6,0,0,2020-03-30 22:52:45
+North America,US,Virginia,6,0,0,2020-03-30 22:52:45
+North America,US,Virginia,6,0,0,2020-03-30 22:52:45
+North America,US,Indiana,6,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,6,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,6,0,0,2020-03-30 22:52:45
+North America,US,New York,6,0,0,2020-03-30 22:52:45
+North America,US,Arizona,6,0,0,2020-03-30 22:52:45
+North America,US,Texas,6,0,0,2020-03-30 22:52:45
+North America,US,Iowa,6,0,0,2020-03-30 22:52:45
+North America,US,Texas,6,0,0,2020-03-30 22:52:45
+North America,US,Washington,6,0,0,2020-03-30 22:52:45
+North America,US,Georgia,6,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,6,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,6,0,0,2020-03-30 22:52:45
+North America,US,Indiana,6,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,6,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,6,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,6,0,0,2020-03-30 22:52:45
+North America,US,Washington,6,0,0,2020-03-30 22:52:45
+Africa,Benin,Benin,6,0,0,2020-03-30 22:52:33
+North America,US,Kansas,6,0,0,2020-03-30 22:52:45
+North America,US,Florida,6,0,0,2020-03-30 22:52:45
+North America,US,Alabama,6,0,0,2020-03-30 22:52:45
+North America,US,Texas,6,0,0,2020-03-30 22:52:45
+North America,US,Indiana,6,0,1,2020-03-30 22:52:45
+Europe,Holy See,Holy See,6,0,0,2020-03-30 22:52:33
+North America,US,Missouri,6,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,6,0,0,2020-03-30 22:52:45
+North America,US,Alabama,6,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,6,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,6,0,0,2020-03-30 22:52:45
+North America,US,California,6,0,0,2020-03-30 22:52:45
+North America,US,Virginia,6,0,0,2020-03-30 22:52:45
+North America,US,Virginia,6,0,0,2020-03-30 22:52:45
+North America,US,Maryland,6,0,1,2020-03-30 22:52:45
+North America,US,West Virginia,6,0,0,2020-03-30 22:52:45
+North America,US,Georgia,6,0,1,2020-03-30 22:52:45
+North America,US,New York,6,0,0,2020-03-30 22:52:45
+North America,US,Virginia,6,0,0,2020-03-30 22:52:45
+North America,US,Iowa,6,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,6,0,0,2020-03-30 22:52:45
+North America,US,Texas,6,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,6,0,0,2020-03-30 22:52:45
+North America,US,Missouri,6,0,0,2020-03-30 22:52:45
+Africa,Cabo Verde,Cabo Verde,6,0,1,2020-03-30 22:52:33
+North America,US,New York,6,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,6,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,6,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,6,0,1,2020-03-30 22:52:45
+North America,US,Montana,6,0,2,2020-03-30 22:52:45
+North America,US,North Carolina,6,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,6,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,6,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,6,0,0,2020-03-30 22:52:45
+North America,US,Texas,6,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,6,0,0,2020-03-30 22:52:45
+North America,US,Texas,6,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,6,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,Ohio,5,0,0,2020-03-30 22:52:45
+North America,US,Washington,5,0,0,2020-03-30 22:52:45
+North America,US,New York,5,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,5,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,5,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,5,0,0,2020-03-30 22:52:45
+North America,US,Iowa,5,0,0,2020-03-30 22:52:45
+North America,US,Nevada,5,0,0,2020-03-30 22:52:45
+North America,US,Ohio,5,0,1,2020-03-30 22:52:45
+North America,US,Mississippi,5,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,Ohio,5,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,5,0,0,2020-03-30 22:52:45
+Australia,Fiji,Fiji,5,0,0,2020-03-30 22:52:33
+North America,US,Georgia,5,0,0,2020-03-30 22:52:45
+North America,US,Georgia,5,0,0,2020-03-30 22:52:45
+North America,US,California,5,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,Virginia,5,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,5,0,0,2020-03-30 22:52:45
+North America,US,Ohio,5,0,0,2020-03-30 22:52:45
+Africa,Mauritania,Mauritania,5,2,1,2020-03-30 22:52:33
+North America,US,Alabama,5,0,0,2020-03-30 22:52:45
+North America,US,Texas,5,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,5,0,1,2020-03-30 22:52:45
+North America,US,North Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,Vermont,5,0,0,2020-03-30 22:52:45
+Asia,Nepal,Nepal,5,1,0,2020-03-30 22:52:33
+North America,US,South Dakota,5,0,1,2020-03-30 22:52:45
+North America,US,Louisiana,5,0,0,2020-03-30 22:52:45
+North America,US,Ohio,5,0,0,2020-03-30 22:52:45
+North America,US,Nevada,5,0,0,2020-03-30 22:52:45
+North America,US,Georgia,5,0,0,2020-03-30 22:52:45
+North America,US,Missouri,5,0,0,2020-03-30 22:52:45
+North America,US,Georgia,5,0,0,2020-03-30 22:52:45
+North America,US,Ohio,5,0,0,2020-03-30 22:52:45
+North America,US,Kansas,5,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,Colorado,5,0,0,2020-03-30 22:52:45
+Europe,UK,Montserrat,5,0,0,2020-03-30 22:52:33
+North America,US,Ohio,5,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,5,0,0,2020-03-30 22:52:45
+Europe,UK,Turks and Caicos Islands,5,0,0,2020-03-30 22:52:33
+North America,US,Arkansas,5,0,0,2020-03-30 22:52:45
+North America,US,Alabama,5,0,0,2020-03-30 22:52:45
+North America,US,Virginia,5,0,0,2020-03-30 22:52:45
+North America,US,Iowa,5,0,1,2020-03-30 22:52:45
+North America,US,Mississippi,5,0,0,2020-03-30 22:52:45
+Africa,Chad,Chad,5,0,0,2020-03-30 22:52:33
+North America,US,Texas,5,0,0,2020-03-30 22:52:45
+North America,US,Texas,5,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,5,0,0,2020-03-30 22:52:45
+North America,US,Maine,5,0,0,2020-03-30 22:52:45
+North America,US,Virginia,5,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,5,0,0,2020-03-30 22:52:45
+North America,US,Alabama,5,0,0,2020-03-30 22:52:45
+North America,US,Alabama,5,0,1,2020-03-30 22:52:45
+North America,US,Georgia,5,0,0,2020-03-30 22:52:45
+North America,US,Texas,5,0,0,2020-03-30 22:52:45
+North America,US,Kansas,5,0,0,2020-03-30 22:52:45
+North America,US,Michigan,5,0,0,2020-03-30 22:52:45
+North America,US,Alaska,5,0,0,2020-03-30 22:52:45
+North America,US,Oregon,5,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,5,0,0,2020-03-30 22:52:45
+North America,US,Georgia,5,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,5,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,5,0,0,2020-03-30 22:52:45
+North America,US,Colorado,5,0,0,2020-03-30 22:52:45
+North America,US,Michigan,5,0,1,2020-03-30 22:52:45
+North America,US,Wisconsin,5,0,0,2020-03-30 22:52:45
+North America,US,Iowa,5,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,5,0,0,2020-03-30 22:52:45
+North America,US,Alabama,5,0,0,2020-03-30 22:52:45
+North America,US,Texas,5,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,5,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,5,0,1,2020-03-30 22:52:45
+North America,US,Georgia,5,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,5,0,0,2020-03-30 22:52:45
+North America,US,Virginia,5,0,0,2020-03-30 22:52:45
+North America,US,Michigan,5,0,1,2020-03-30 22:52:45
+North America,US,Ohio,5,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,5,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,5,0,0,2020-03-30 22:52:45
+North America,US,Virginia,5,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,5,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,5,0,0,2020-03-30 22:52:45
+North America,US,Missouri,5,0,0,2020-03-30 22:52:45
+North America,US,Illinois,5,0,1,2020-03-30 22:52:45
+North America,US,Michigan,5,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,5,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,5,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,5,0,0,2020-03-30 22:52:45
+North America,US,Missouri,5,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,5,0,0,2020-03-30 22:52:45
+Asia,Bhutan,Bhutan,4,0,0,2020-03-30 22:52:33
+North America,US,Indiana,4,0,0,2020-03-30 22:52:45
+North America,US,Virginia,4,0,0,2020-03-30 22:52:45
+North America,US,Idaho,4,0,1,2020-03-30 22:52:45
+North America,US,Maryland,4,0,0,2020-03-30 22:52:45
+North America,US,Texas,4,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,4,0,0,2020-03-30 22:52:45
+North America,US,Michigan,4,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,4,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,4,0,0,2020-03-30 22:52:45
+North America,US,Georgia,4,0,0,2020-03-30 22:52:45
+North America,US,Michigan,4,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,4,0,0,2020-03-30 22:52:45
+North America,US,Montana,4,0,2,2020-03-30 22:52:45
+North America,US,California,4,0,1,2020-03-30 22:52:45
+North America,US,Oregon,4,0,0,2020-03-30 22:52:45
+North America,US,Virginia,4,0,0,2020-03-30 22:52:45
+North America,US,Michigan,4,0,0,2020-03-30 22:52:45
+North America,US,Missouri,4,0,0,2020-03-30 22:52:45
+North America,US,Illinois,4,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,4,0,0,2020-03-30 22:52:45
+North America,US,Georgia,4,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,4,0,0,2020-03-30 22:52:45
+North America,Nicaragua,Nicaragua,4,0,1,2020-03-30 22:52:33
+North America,US,North Carolina,4,0,0,2020-03-30 22:52:45
+North America,US,Oregon,4,0,0,2020-03-30 22:52:45
+North America,US,Maine,4,0,0,2020-03-30 22:52:45
+North America,US,Indiana,4,0,0,2020-03-30 22:52:45
+North America,US,Georgia,4,0,0,2020-03-30 22:52:45
+North America,US,New York,4,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,4,0,0,2020-03-30 22:52:45
+North America,US,Ohio,4,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,4,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,4,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,4,0,0,2020-03-30 22:52:45
+North America,US,Texas,4,0,0,2020-03-30 22:52:45
+North America,US,Montana,4,0,1,2020-03-30 22:52:45
+North America,US,California,4,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,4,0,0,2020-03-30 22:52:45
+North America,US,Georgia,4,0,0,2020-03-30 22:52:45
+North America,US,Illinois,4,0,0,2020-03-30 22:52:45
+Africa,The Gambia,The Gambia,4,0,1,2020-03-30 22:52:33
+North America,US,South Carolina,4,0,0,2020-03-30 22:52:45
+North America,US,Michigan,4,0,0,2020-03-30 22:52:45
+North America,US,Maryland,4,0,0,2020-03-30 22:52:45
+North America,US,Alabama,4,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,4,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,4,0,0,2020-03-30 22:52:45
+North America,US,Ohio,4,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,4,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,4,0,0,2020-03-30 22:52:45
+North America,US,Texas,4,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,4,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,4,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,4,0,0,2020-03-30 22:52:45
+North America,US,Georgia,4,0,0,2020-03-30 22:52:45
+North America,US,Maryland,4,0,0,2020-03-30 22:52:45
+North America,US,Texas,4,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,4,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,4,0,0,2020-03-30 22:52:45
+North America,US,Illinois,4,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,4,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,4,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,4,0,0,2020-03-30 22:52:45
+North America,US,Virginia,4,0,0,2020-03-30 22:52:45
+North America,US,Iowa,4,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,4,0,0,2020-03-30 22:52:45
+North America,US,Alabama,4,0,0,2020-03-30 22:52:45
+North America,US,Georgia,4,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,4,0,0,2020-03-30 22:52:45
+North America,US,Illinois,4,0,0,2020-03-30 22:52:45
+North America,US,Kansas,4,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,4,0,0,2020-03-30 22:52:45
+North America,US,Washington,4,0,0,2020-03-30 22:52:45
+North America,US,California,4,0,0,2020-03-30 22:52:45
+North America,US,Indiana,4,0,0,2020-03-30 22:52:45
+North America,US,Utah,4,0,0,2020-03-30 22:52:45
+North America,US,Michigan,4,0,0,2020-03-30 22:52:45
+North America,US,Missouri,4,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,4,0,0,2020-03-30 22:52:45
+North America,US,Alabama,4,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,4,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,4,0,0,2020-03-30 22:52:45
+North America,US,Michigan,4,0,0,2020-03-30 22:52:45
+North America,US,Missouri,4,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,4,0,0,2020-03-30 22:52:45
+North America,US,California,4,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,4,0,0,2020-03-30 22:52:45
+North America,US,Indiana,4,0,0,2020-03-30 22:52:45
+North America,Canada,Yukon,4,0,0,2020-03-30 22:58:41
+North America,US,Texas,4,0,0,2020-03-30 22:52:45
+North America,US,Ohio,4,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,4,0,0,2020-03-30 22:52:45
+North America,US,Virginia,4,0,0,2020-03-30 22:52:45
+North America,US,Michigan,4,0,0,2020-03-30 22:52:45
+North America,US,Arizona,4,0,0,2020-03-30 22:52:45
+North America,US,Georgia,4,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,4,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,4,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,4,0,1,2020-03-30 22:52:45
+North America,US,Georgia,4,0,0,2020-03-30 22:52:45
+North America,US,Alabama,4,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,4,0,0,2020-03-30 22:52:45
+North America,US,Maryland,3,0,0,2020-03-30 22:52:45
+North America,US,New Jersey,3,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,3,0,1,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,Colorado,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Illinois,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,3,0,0,2020-03-30 22:52:45
+North America,US,Missouri,3,0,0,2020-03-30 22:52:45
+North America,US,Illinois,3,0,0,2020-03-30 22:52:45
+North America,US,Washington,3,0,0,2020-03-30 22:52:45
+North America,US,Michigan,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Iowa,3,0,0,2020-03-30 22:52:45
+Africa,Somalia,Somalia,3,0,0,2020-03-30 22:52:33
+North America,US,Mississippi,3,0,0,2020-03-30 22:52:45
+North America,US,Iowa,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Oregon,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,Belize,Belize,3,0,0,2020-03-30 22:52:33
+North America,US,Idaho,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,3,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+Africa,Botswana,Botswana,3,0,0,2020-03-30 22:52:33
+North America,US,South Carolina,3,0,0,2020-03-30 22:52:45
+Africa,Central African Republic,Central African Republic,3,0,0,2020-03-30 22:52:33
+North America,US,Arkansas,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,3,0,1,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,New Hampshire,3,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,3,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Indiana,3,0,0,2020-03-30 22:52:45
+North America,US,Florida,3,0,0,2020-03-30 22:52:45
+North America,US,Iowa,3,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,3,0,0,2020-03-30 22:52:45
+Africa,Liberia,Liberia,3,0,0,2020-03-30 22:52:33
+North America,US,West Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Colorado,3,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,3,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,3,0,0,2020-03-30 22:52:45
+North America,US,Indiana,3,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Alabama,3,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,3,0,0,2020-03-30 22:52:45
+North America,US,Idaho,3,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Florida,3,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,3,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,3,0,0,2020-03-30 22:52:45
+North America,US,Kansas,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,3,0,0,2020-03-30 22:52:45
+North America,US,Michigan,3,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Alabama,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,3,0,0,2020-03-30 22:52:45
+North America,US,Maryland,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Alabama,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Illinois,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,3,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Colorado,3,0,0,2020-03-30 22:52:45
+North America,US,Nevada,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Indiana,3,0,0,2020-03-30 22:52:45
+North America,US,Illinois,3,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Iowa,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,3,0,0,2020-03-30 22:52:45
+North America,US,Illinois,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,3,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,3,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Maryland,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,Montana,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,3,0,0,2020-03-30 22:52:45
+North America,US,Iowa,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Indiana,3,0,0,2020-03-30 22:52:45
+North America,US,Michigan,3,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,3,0,0,2020-03-30 22:52:45
+North America,US,Florida,3,0,0,2020-03-30 22:52:45
+North America,US,Iowa,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Michigan,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,1,2020-03-30 22:52:45
+North America,US,Florida,3,0,0,2020-03-30 22:52:45
+North America,US,Alabama,3,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,3,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,3,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Missouri,3,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,3,0,0,2020-03-30 22:52:45
+North America,US,Ohio,3,0,0,2020-03-30 22:52:45
+North America,US,Missouri,3,0,0,2020-03-30 22:52:45
+North America,US,New York,3,0,0,2020-03-30 22:52:45
+North America,US,Alabama,3,0,0,2020-03-30 22:52:45
+North America,US,Vermont,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,3,0,1,2020-03-30 22:52:45
+North America,US,Ohio,3,0,1,2020-03-30 22:52:45
+North America,US,Kansas,3,0,0,2020-03-30 22:52:45
+North America,US,California,3,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,3,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,3,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,3,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,3,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,3,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,3,0,0,2020-03-30 22:52:45
+North America,US,New Hampshire,3,0,0,2020-03-30 22:52:45
+North America,US,Colorado,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,3,0,0,2020-03-30 22:52:45
+North America,US,Colorado,3,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,3,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,3,0,0,2020-03-30 22:52:45
+North America,US,Oregon,3,0,0,2020-03-30 22:52:45
+North America,US,Washington,3,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,3,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,3,0,0,2020-03-30 22:52:45
+North America,US,Georgia,3,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,3,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,3,0,0,2020-03-30 22:52:45
+North America,US,Montana,3,0,0,2020-03-30 22:52:45
+North America,US,Kansas,3,0,0,2020-03-30 22:52:45
+North America,US,Idaho,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Texas,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,3,0,0,2020-03-30 22:52:45
+North America,US,Indiana,3,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,1,2020-03-30 22:52:45
+North America,US,Minnesota,2,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,2,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,2,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Oregon,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,Idaho,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,2,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,2,0,0,2020-03-30 22:52:45
+North America,US,Idaho,2,0,0,2020-03-30 22:52:45
+North America,US,Florida,2,0,0,2020-03-30 22:52:45
+North America,US,Iowa,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Kansas,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,1,2020-03-30 22:52:45
+North America,US,Oklahoma,2,0,0,2020-03-30 22:52:45
+North America,US,California,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,2,0,0,2020-03-30 22:52:45
+North America,US,California,2,0,0,2020-03-30 22:52:45
+North America,US,Arizona,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,2,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Michigan,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Illinois,2,0,0,2020-03-30 22:52:45
+North America,US,Michigan,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Ohio,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,2,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Idaho,2,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Montana,2,0,0,2020-03-30 22:52:45
+North America,US,Ohio,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,MS Zaandam,MS Zaandam,2,0,0,2020-03-30 22:52:33
+North America,US,Minnesota,2,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Kansas,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,Iowa,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Michigan,2,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Maine,2,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,2,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,2,0,0,2020-03-30 22:52:45
+North America,US,Ohio,2,0,0,2020-03-30 22:52:45
+North America,US,Montana,2,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+Europe,UK,British Virgin Islands,2,0,0,2020-03-30 22:52:33
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+Europe,UK,Anguilla,2,0,0,2020-03-30 22:52:33
+North America,US,Colorado,2,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Illinois,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Iowa,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,New York,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,1,2020-03-30 22:52:45
+North America,US,Iowa,2,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Florida,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Maine,2,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Michigan,2,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Arizona,2,0,0,2020-03-30 22:52:45
+North America,US,Colorado,2,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Vermont,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Montana,2,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,2,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,2,0,0,2020-03-30 22:52:45
+North America,US,Michigan,2,0,1,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Ohio,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,2,0,0,2020-03-30 22:52:45
+North America,US,Kansas,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,2,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Iowa,2,0,0,2020-03-30 22:52:45
+North America,US,Illinois,2,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Idaho,2,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,2,0,0,2020-03-30 22:52:45
+North America,US,New York,2,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,2,0,0,2020-03-30 22:52:45
+North America,US,Illinois,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Arizona,2,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Washington,2,0,0,2020-03-30 22:52:45
+North America,US,Alaska,2,0,0,2020-03-30 22:52:45
+North America,US,Kansas,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Colorado,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,2,0,0,2020-03-30 22:52:45
+North America,US,Michigan,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,1,2020-03-30 22:52:45
+North America,US,North Dakota,2,0,0,2020-03-30 22:52:45
+North America,US,Georgia,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,2,0,1,2020-03-30 22:52:45
+North America,US,Kansas,2,0,0,2020-03-30 22:52:45
+North America,US,Michigan,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Ohio,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Iowa,2,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Indiana,2,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,2,0,0,2020-03-30 22:52:45
+North America,US,Illinois,2,0,0,2020-03-30 22:52:45
+North America,US,Alabama,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Missouri,2,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,2,0,0,2020-03-30 22:52:45
+North America,US,Kansas,2,0,0,2020-03-30 22:52:45
+North America,US,Ohio,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,2,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,2,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,2,0,1,2020-03-30 22:52:45
+North America,US,West Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Florida,2,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,2,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Illinois,2,0,0,2020-03-30 22:52:45
+North America,US,Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Iowa,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,2,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,2,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,2,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,2,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Texas,2,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Oregon,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,Maine,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Oregon,1,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,1,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Washington,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,California,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,1,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,Canada,Northwest Territories,1,0,0,2020-03-30 22:58:41
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,1,1,0,2020-03-30 22:52:33
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,1,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+Australia,Papua New Guinea,Papua New Guinea,1,0,0,2020-03-30 22:52:33
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+Asia,Timor-Leste,Timor-Leste,1,0,0,2020-03-30 22:52:33
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Maryland,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Nevada,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Montana,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Oregon,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Washington,1,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Florida,1,0,0,2020-03-30 22:52:45
+North America,US,Arizona,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,South Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Oregon,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,1,2020-03-30 22:52:45
+North America,US,Nevada,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,Nevada,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,1,0,1,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,1,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Montana,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Florida,1,0,4,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Washington,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,Missouri,1,0,0,2020-03-30 22:52:45
+North America,US,North Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,1,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,West Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,1,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Washington,1,0,0,2020-03-30 22:52:45
+North America,US,Louisiana,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,1,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Oregon,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,1,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Washington,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Pennsylvania,1,0,0,2020-03-30 22:52:45
+North America,US,Arizona,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,North Carolina,1,0,0,2020-03-30 22:52:45
+North America,US,Montana,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,California,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,1,2020-03-30 22:52:45
+North America,US,Oklahoma,1,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Nebraska,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Montana,1,0,0,2020-03-30 22:52:45
+North America,US,Florida,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,New Mexico,1,0,0,2020-03-30 22:52:45
+North America,US,Michigan,1,0,0,2020-03-30 22:52:45
+North America,US,Wyoming,1,0,0,2020-03-30 22:52:45
+North America,US,Ohio,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Mississippi,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Alabama,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,1,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Kentucky,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Illinois,1,0,0,2020-03-30 22:52:45
+North America,US,Iowa,1,0,0,2020-03-30 22:52:45
+North America,US,South Dakota,1,0,0,2020-03-30 22:52:45
+North America,US,Georgia,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Virginia,1,0,0,2020-03-30 22:52:45
+North America,US,Colorado,1,0,0,2020-03-30 22:52:45
+North America,US,Idaho,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Wisconsin,1,0,1,2020-03-30 22:52:45
+North America,US,New York,1,0,0,2020-03-30 22:52:45
+North America,US,Minnesota,1,0,0,2020-03-30 22:52:45
+North America,US,Kansas,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Tennessee,1,0,0,2020-03-30 22:52:45
+North America,US,Florida,1,0,0,2020-03-30 22:52:45
+North America,US,Indiana,1,0,0,2020-03-30 22:52:45
+North America,US,Texas,1,0,0,2020-03-30 22:52:45
+North America,US,Arkansas,1,0,0,2020-03-30 22:52:45
+North America,US,New York,0,0,298,2020-03-30 22:52:45
+North America,US,North Dakota,0,0,1,2020-03-30 22:52:45
+North America,US,North Carolina,0,0,1,2020-03-30 22:52:45
+North America,Canada,Recovered,0,466,0,2020-03-30 22:58:41
+North America,US,Minnesota,0,0,1,2020-03-30 22:52:45
+North America,US,Maryland,0,0,1,2020-03-30 22:52:45
+North America,US,Arizona,0,0,9,2020-03-30 22:52:45
+North America,US,Alaska,0,0,2,2020-03-30 22:52:45
+North America,Canada,Diamond Princess,0,0,1,2020-03-30 22:58:41
+North America,US,Recovered,0,5644,0,2020-03-30 22:52:45
 Europe,Italy,Italy,97689,13030,10779,2020-03-29 23:08:13
 Europe,Spain,Spain,80110,14709,6803,2020-03-29 23:08:13
 Europe,Germany,Germany,62095,9211,533,2020-03-29 23:08:13
