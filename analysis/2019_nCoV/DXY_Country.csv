@@ -1,4 +1,2879 @@
 continentName,countryName,stateName,confirmedCount,curedCount,deadCount,updateTime
+Europe,Spain,Spain,163027,59109,16606,2020-04-11 22:45:13
+Europe,Italy,Italy,152271,32534,19468,2020-04-11 22:45:13
+Europe,France,France,129654,26391,13832,2020-04-11 22:45:13
+Europe,Germany,Germany,124908,57400,2736,2020-04-11 22:45:13
+North America,US,New York,98308,0,6367,2020-04-11 22:45:33
+Europe,UK,UK,78991,344,9875,2020-04-11 22:45:13
+Asia,Iran,Iran,70029,41947,4357,2020-04-11 22:45:13
+Europe,Turkey,Turkey,52167,2965,1101,2020-04-11 22:45:13
+Europe,Belgium,Belgium,28018,5986,3346,2020-04-11 22:45:13
+Europe,Switzerland,Switzerland,25107,12100,1036,2020-04-11 22:45:13
+Europe,Netherlands,Netherlands,24413,250,2643,2020-04-11 22:45:13
+North America,US,New York,22584,0,792,2020-04-11 22:45:33
+South America,Brazil,Brazil,20727,173,1124,2020-04-11 22:45:13
+North America,US,New York,20321,0,458,2020-04-11 22:45:33
+North America,US,New York,18729,0,461,2020-04-11 22:45:33
+Europe,Portugal,Portugal,15987,266,470,2020-04-11 22:45:13
+Europe,Austria,Austria,13806,6604,337,2020-04-11 22:45:13
+Europe,Russia,Russia,13584,1045,106,2020-04-11 22:45:13
+North America,US,Illinois,13417,0,455,2020-04-11 22:45:33
+North America,Canada,Quebec,12292,0,289,2020-04-11 22:52:28
+North America,US,Michigan,10951,0,652,2020-04-11 22:45:33
+Asia,Israel,Israel,10743,1341,101,2020-04-11 22:45:13
+Asia,South Korea,South Korea,10480,7243,211,2020-04-11 22:45:13
+Europe,Sweden,Sweden,10151,381,887,2020-04-11 22:45:13
+North America,US,New Jersey,9362,0,435,2020-04-11 22:45:33
+Europe,Ireland,Ireland,8928,25,320,2020-04-11 22:45:13
+North America,US,California,8453,0,244,2020-04-11 22:45:33
+Asia,India,India,8446,969,288,2020-04-11 22:45:13
+North America,US,New York,7477,0,200,2020-04-11 22:45:33
+South America,Ecuador,Ecuador,7257,411,315,2020-04-11 22:45:13
+North America,US,New Jersey,7007,0,412,2020-04-11 22:45:33
+South America,Chile,Chile,6927,1864,73,2020-04-11 22:45:13
+North America,US,New Jersey,6851,0,183,2020-04-11 22:45:33
+South America,Peru,Peru,6848,1739,181,2020-04-11 22:45:13
+North America,Canada,Ontario,6648,0,253,2020-04-11 22:52:28
+North America,US,Florida,6487,0,91,2020-04-11 22:45:33
+Europe,Norway,Norway,6409,32,119,2020-04-11 22:45:13
+Europe,Poland,Poland,6356,375,208,2020-04-11 22:45:13
+North America,US,Pennsylvania,6022,0,137,2020-04-11 22:45:33
+Asia,Japan,Japan,6005,762,99,2020-04-11 22:45:13
+Europe,Denmark,Denmark,5996,1955,260,2020-04-11 22:45:13
+Europe,Romania,Romania,5990,758,291,2020-04-11 22:45:13
+North America,US,New Jersey,5865,0,195,2020-04-11 22:45:33
+Europe,Czech Republic,Czech Republic,5831,411,129,2020-04-11 22:45:13
+North America,US,Louisiana,5535,0,232,2020-04-11 22:45:33
+North America,US,Connecticut,5407,0,220,2020-04-11 22:45:33
+North America,US,New Jersey,5406,0,177,2020-04-11 22:45:33
+North America,US,New Jersey,5295,0,119,2020-04-11 22:45:33
+Asia,Pakistan,Pakistan,5011,762,86,2020-04-11 22:45:13
+North America,US,Massachusetts,4926,0,79,2020-04-11 22:45:33
+North America,US,Louisiana,4877,0,166,2020-04-11 22:45:33
+North America,US,Massachusetts,4872,0,137,2020-04-11 22:45:33
+North America,US,New York,4847,0,132,2020-04-11 22:45:33
+North America,US,Michigan,4802,0,316,2020-04-11 22:45:33
+Asia,Malaysia,Malaysia,4530,1995,73,2020-04-11 22:45:13
+Asia,Philippines,Philippines,4428,157,247,2020-04-11 22:45:13
+North America,US,Washington,4262,0,284,2020-04-11 22:45:33
+Asia,Saudi Arabia,Saudi Arabia,4033,720,52,2020-04-11 22:45:13
+North America,Mexico,Mexico,3844,633,233,2020-04-11 22:45:13
+Asia,Indonesia,Indonesia,3842,286,327,2020-04-11 22:45:13
+Asia,United Arab Emirates,United Arab Emirates,3736,588,20,2020-04-11 22:45:13
+North America,US,New Jersey,3651,0,115,2020-04-11 22:45:33
+North America,US,Texas,3561,0,41,2020-04-11 22:45:33
+North America,US,New Jersey,3403,0,132,2020-04-11 22:45:33
+Europe,Serbia,Serbia,3380,0,74,2020-04-11 22:45:13
+Europe,Luxembourg,Luxembourg,3270,500,62,2020-04-11 22:45:13
+North America,US,Michigan,3164,0,209,2020-04-11 22:45:33
+North America,Panama,Panama,2974,17,74,2020-04-11 22:45:13
+North America,US,New Jersey,2925,0,152,2020-04-11 22:45:33
+Europe,Finland,Finland,2905,300,49,2020-04-11 22:45:13
+North America,US,Massachusetts,2896,0,91,2020-04-11 22:45:33
+Australia,Australia,New South Wales,2857,4,23,2020-04-11 22:52:46
+North America,US,Florida,2806,0,76,2020-04-11 22:45:33
+North America,Dominican Republic,Dominican Republic,2759,108,135,2020-04-11 22:45:13
+North America,US,Indiana,2742,0,118,2020-04-11 22:45:33
+Asia,Qatar,Qatar,2728,247,6,2020-04-11 22:45:13
+North America,US,Connecticut,2715,0,107,2020-04-11 22:45:33
+South America,Colombia,Colombia,2709,214,100,2020-04-11 22:45:13
+Asia,Thailand,Thailand,2518,1135,35,2020-04-11 22:45:13
+Europe,Ukraine,Ukraine,2511,79,73,2020-04-11 22:45:13
+North America,US,Massachusetts,2395,0,79,2020-04-11 22:45:33
+Asia,Singapore,Singapore,2299,528,8,2020-04-11 22:45:13
+Europe,Belarus,Belarus,2226,172,23,2020-04-11 22:45:13
+North America,US,Nevada,2144,0,75,2020-04-11 22:45:33
+Europe,Greece,Greece,2081,269,93,2020-04-11 22:45:13
+North America,US,Pennsylvania,2053,0,60,2020-04-11 22:45:33
+Africa,South Africa,South Africa,2028,410,25,2020-04-11 22:45:13
+South America,Argentina,Argentina,1975,440,83,2020-04-11 22:45:13
+Africa,Egypt,Egypt,1939,426,146,2020-04-11 22:45:13
+North America,US,Maryland,1923,0,50,2020-04-11 22:45:33
+North America,US,Arizona,1891,0,47,2020-04-11 22:45:33
+North America,US,Washington,1835,0,68,2020-04-11 22:45:33
+North America,US,Connecticut,1832,0,101,2020-04-11 22:45:33
+Africa,Algeria,Algeria,1825,460,275,2020-04-11 22:45:13
+North America,US,Massachusetts,1822,0,41,2020-04-11 22:45:33
+North America,US,Massachusetts,1809,0,51,2020-04-11 22:45:33
+North America,US,District of Columbia,1778,0,47,2020-04-11 22:45:33
+North America,US,New York,1744,0,11,2020-04-11 22:45:33
+North America,US,California,1693,0,44,2020-04-11 22:45:33
+Europe,Iceland,Iceland,1689,841,8,2020-04-11 22:45:13
+North America,US,Wisconsin,1653,0,85,2020-04-11 22:45:33
+North America,US,Texas,1644,0,27,2020-04-11 22:45:33
+North America,US,New Jersey,1642,0,78,2020-04-11 22:45:33
+North America,US,Pennsylvania,1620,0,16,2020-04-11 22:45:33
+North America,US,Missouri,1568,0,42,2020-04-11 22:45:33
+North America,Canada,Alberta,1567,0,40,2020-04-11 22:52:28
+Europe,Moldova,Moldova,1560,75,30,2020-04-11 22:45:13
+North America,US,Massachusetts,1545,0,92,2020-04-11 22:45:33
+Africa,Morocco,Morocco,1545,146,111,2020-04-11 22:45:13
+North America,US,Maryland,1537,0,36,2020-04-11 22:45:33
+Europe,Croatia,Croatia,1534,323,21,2020-04-11 22:45:13
+North America,US,Pennsylvania,1510,0,39,2020-04-11 22:45:33
+North America,US,New York,1506,0,53,2020-04-11 22:45:33
+North America,US,California,1484,0,50,2020-04-11 22:45:33
+North America,Canada,British Columbia,1445,0,58,2020-04-11 22:52:28
+North America,US,Florida,1441,0,80,2020-04-11 22:45:33
+North America,US,New Jersey,1434,0,49,2020-04-11 22:45:33
+North America,US,California,1431,0,41,2020-04-11 22:45:33
+North America,US,Georgia,1422,0,50,2020-04-11 22:45:33
+North America,US,Georgia,1397,0,4,2020-04-11 22:45:33
+North America,US,Pennsylvania,1372,0,17,2020-04-11 22:45:33
+North America,US,Illinois,1331,0,39,2020-04-11 22:45:33
+Asia,Iraq,Iraq,1318,601,72,2020-04-11 22:45:13
+Australia,New Zealand,New Zealand,1312,422,4,2020-04-11 22:45:13
+Europe,Hungary,Hungary,1310,115,85,2020-04-11 22:45:13
+Europe,Estonia,Estonia,1304,93,24,2020-04-11 22:45:13
+North America,US,Rhode Island,1278,0,3,2020-04-11 22:45:33
+Australia,Australia,Victoria,1265,926,14,2020-04-11 22:52:46
+North America,US,California,1221,0,18,2020-04-11 22:45:33
+North America,US,Massachusetts,1191,0,39,2020-04-11 22:45:33
+Europe,Slovenia,Slovenia,1188,148,50,2020-04-11 22:45:13
+North America,US,New Jersey,1180,0,29,2020-04-11 22:45:33
+North America,US,Maryland,1173,0,26,2020-04-11 22:45:33
+North America,US,Louisiana,1158,0,45,2020-04-11 22:45:33
+Asia,Kuwait,Kuwait,1154,133,1,2020-04-11 22:45:13
+North America,US,Tennessee,1147,0,26,2020-04-11 22:45:33
+North America,US,Illinois,1126,0,57,2020-04-11 22:45:33
+North America,US,Colorado,1113,0,42,2020-04-11 22:45:33
+North America,US,Ohio,1113,0,22,2020-04-11 22:45:33
+North America,US,Tennessee,1111,0,13,2020-04-11 22:45:33
+North America,US,Pennsylvania,1107,0,32,2020-04-11 22:45:33
+North America,US,Georgia,1076,0,69,2020-04-11 22:45:33
+North America,US,Utah,1071,0,7,2020-04-11 22:45:33
+Asia,Azerbaijan,Azerbaijan,1058,200,11,2020-04-11 22:45:13
+North America,US,Illinois,1048,0,46,2020-04-11 22:45:33
+Asia,Bahrain,Bahrain,1040,555,6,2020-04-11 22:45:13
+North America,US,Pennsylvania,1039,0,23,2020-04-11 22:45:33
+North America,US,New Jersey,1031,0,22,2020-04-11 22:45:33
+Europe,Lithuania,Lithuania,1026,54,23,2020-04-11 22:45:13
+Australia,Australia,Queensland,974,372,5,2020-04-11 22:52:46
+North America,US,Louisiana,974,0,39,2020-04-11 22:45:33
+Asia,Armenia,Armenia,967,173,13,2020-04-11 22:45:13
+Europe,Bosnia and Herzegovina,Bosnia and Herzegovina,946,139,37,2020-04-11 22:45:13
+North America,US,Virginia,946,0,20,2020-04-11 22:45:33
+North America,US,North Carolina,935,0,12,2020-04-11 22:45:33
+North America,US,Colorado,931,0,30,2020-04-11 22:45:33
+North America,US,Pennsylvania,930,0,19,2020-04-11 22:45:33
+North America,US,New Jersey,924,0,2,2020-04-11 22:45:33
+North America,US,Washington,922,0,19,2020-04-11 22:45:33
+North America,US,Michigan,919,0,62,2020-04-11 22:45:33
+North America,US,Florida,914,0,13,2020-04-11 22:45:33
+North America,US,Ohio,894,0,14,2020-04-11 22:45:33
+Asia,Kazakhstan,Kazakhstan,865,81,10,2020-04-11 22:45:13
+North America,US,California,857,0,13,2020-04-11 22:45:33
+North America,US,Washington,848,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,845,0,32,2020-04-11 22:45:33
+North America,US,Pennsylvania,836,0,19,2020-04-11 22:45:33
+North America,US,Georgia,835,0,13,2020-04-11 22:45:33
+Africa,Cameroon,Cameroon,820,98,12,2020-04-11 22:45:13
+North America,US,California,810,0,25,2020-04-11 22:45:33
+North America,US,Delaware,807,0,19,2020-04-11 22:45:33
+North America,US,California,806,0,21,2020-04-11 22:45:33
+North America,US,Puerto Rico,788,0,42,2020-04-11 22:45:33
+North America,US,Pennsylvania,774,0,22,2020-04-11 22:45:33
+North America,US,New York,767,0,40,2020-04-11 22:45:33
+Asia,Uzbekistan,Uzbekistan,767,42,4,2020-04-11 22:45:13
+Europe,North Macedonia,North Macedonia,760,41,34,2020-04-11 22:45:13
+North America,US,Maryland,756,0,22,2020-04-11 22:45:33
+Europe,Slovakia,Slovakia,728,23,2,2020-04-11 22:45:13
+Asia,Diamond Princess cruise ship,Diamond Princess cruise ship,712,619,11,2020-04-11 22:45:13
+North America,US,Texas,705,0,25,2020-04-11 22:45:33
+North America,US,Pennsylvania,698,0,23,2020-04-11 22:45:33
+North America,US,Georgia,696,0,33,2020-04-11 22:45:33
+North America,US,Texas,690,0,9,2020-04-11 22:45:33
+North America,US,Florida,690,0,14,2020-04-11 22:45:33
+North America,US,Michigan,685,0,18,2020-04-11 22:45:33
+Africa,Tunisia,Tunisia,685,43,28,2020-04-11 22:45:13
+North America,US,Colorado,683,0,25,2020-04-11 22:45:33
+North America,US,Indiana,676,0,25,2020-04-11 22:45:33
+North America,US,Georgia,675,0,18,2020-04-11 22:45:33
+North America,US,Texas,665,0,24,2020-04-11 22:45:33
+Europe,Bulgaria,Bulgaria,661,62,28,2020-04-11 22:45:13
+North America,US,California,653,0,24,2020-04-11 22:45:33
+North America,US,California,652,0,21,2020-04-11 22:45:33
+North America,US,Colorado,649,0,40,2020-04-11 22:45:33
+North America,US,Rhode Island,649,0,53,2020-04-11 22:45:33
+North America,US,Florida,635,0,11,2020-04-11 22:45:33
+Europe,Latvia,Latvia,630,16,3,2020-04-11 22:45:13
+North America,Cuba,Cuba,620,77,16,2020-04-11 22:45:13
+Asia,Lebanon,Lebanon,619,77,20,2020-04-11 22:45:13
+Europe,Cyprus,Cyprus,616,61,10,2020-04-11 22:45:13
+North America,US,Maryland,615,0,19,2020-04-11 22:45:33
+Europe,Andorra,Andorra,601,71,26,2020-04-11 22:45:13
+North America,US,Missouri,594,0,17,2020-04-11 22:45:33
+North America,US,Arizona,591,0,16,2020-04-11 22:45:33
+North America,US,New York,589,0,8,2020-04-11 22:45:33
+North America,US,Florida,584,0,16,2020-04-11 22:45:33
+North America,US,Alabama,579,0,15,2020-04-11 22:45:33
+North America,Costa Rica,Costa Rica,577,49,3,2020-04-11 22:45:13
+Asia,Afghanistan,Afghanistan,555,32,18,2020-04-11 22:45:13
+North America,US,Colorado,550,0,33,2020-04-11 22:45:33
+Asia,Oman,Oman,546,109,3,2020-04-11 22:45:13
+North America,US,Colorado,543,0,23,2020-04-11 22:45:33
+North America,US,Louisiana,538,0,38,2020-04-11 22:45:33
+Africa,Cote d'Ivoire,Cote d'Ivoire,533,58,4,2020-04-11 22:45:13
+North America,US,Pennsylvania,532,0,15,2020-04-11 22:45:33
+North America,US,California,530,0,11,2020-04-11 22:45:33
+North America,US,Ohio,529,0,17,2020-04-11 22:45:33
+North America,US,Texas,518,0,11,2020-04-11 22:45:33
+Australia,Australia,Western Australia,514,216,6,2020-04-11 22:52:46
+North America,US,Idaho,513,0,6,2020-04-11 22:45:33
+North America,US,Washington,511,0,20,2020-04-11 22:45:33
+North America,US,New York,494,0,7,2020-04-11 22:45:33
+South America,Uruguay,Uruguay,494,214,7,2020-04-11 22:45:13
+Africa,Niger,Niger,491,41,11,2020-04-11 22:45:13
+North America,US,Ohio,490,0,21,2020-04-11 22:45:33
+North America,US,New Jersey,487,0,9,2020-04-11 22:45:33
+Africa,Burkina Faso,Burkina Faso,484,155,27,2020-04-11 22:45:13
+Asia,Bangladesh,Bangladesh,482,36,30,2020-04-11 22:45:13
+North America,US,Massachusetts,480,0,15,2020-04-11 22:45:33
+North America,US,South Carolina,479,0,10,2020-04-11 22:45:33
+North America,US,Minnesota,464,0,30,2020-04-11 22:45:33
+North America,US,New York,456,0,8,2020-04-11 22:45:33
+North America,US,Connecticut,456,0,5,2020-04-11 22:45:33
+North America,US,New Jersey,456,0,27,2020-04-11 22:45:33
+North America,US,Louisiana,454,0,13,2020-04-11 22:45:33
+North America,US,Texas,454,0,10,2020-04-11 22:45:33
+North America,US,Idaho,452,0,5,2020-04-11 22:45:33
+North America,US,New York,446,0,12,2020-04-11 22:45:33
+North America,US,Florida,444,0,12,2020-04-11 22:45:33
+North America,US,Indiana,443,0,22,2020-04-11 22:45:33
+North America,US,South Dakota,438,0,2,2020-04-11 22:45:33
+North America,US,Tennessee,435,0,22,2020-04-11 22:45:33
+Europe,Albania,Albania,433,197,23,2020-04-11 22:45:13
+Australia,Australia,South Australia,429,179,3,2020-04-11 22:52:46
+North America,Canada,Nova Scotia,428,0,2,2020-04-11 22:52:28
+North America,US,Colorado,426,0,5,2020-04-11 22:45:33
+North America,US,Texas,425,0,7,2020-04-11 22:45:33
+North America,US,Oklahoma,425,0,19,2020-04-11 22:45:33
+North America,US,North Carolina,424,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,415,0,20,2020-04-11 22:45:33
+North America,US,Alabama,408,0,15,2020-04-11 22:45:33
+Africa,Ghana,Ghana,408,4,8,2020-04-11 22:45:13
+North America,US,New Mexico,407,0,13,2020-04-11 22:45:33
+Europe,UK,Channel Islands,407,48,9,2020-04-11 22:45:13
+North America,US,Delaware,404,0,10,2020-04-11 22:45:33
+North America,US,Louisiana,401,0,24,2020-04-11 22:45:33
+North America,Honduras,Honduras,392,7,24,2020-04-11 22:45:13
+North America,US,Pennsylvania,392,0,20,2020-04-11 22:45:33
+North America,US,Virginia,390,0,1,2020-04-11 22:45:33
+North America,US,Nevada,389,0,10,2020-04-11 22:45:33
+North America,US,Connecticut,388,0,20,2020-04-11 22:45:33
+North America,US,Kentucky,385,0,21,2020-04-11 22:45:33
+Asia,Jordan,Jordan,381,177,7,2020-04-11 22:45:13
+North America,US,Kentucky,380,0,26,2020-04-11 22:45:33
+North America,US,Illinois,376,0,22,2020-04-11 22:45:33
+North America,US,Ohio,375,0,31,2020-04-11 22:45:33
+North America,US,California,371,0,3,2020-04-11 22:45:33
+Europe,Malta,Malta,370,16,3,2020-04-11 22:45:13
+North America,US,Virginia,368,0,2,2020-04-11 22:45:33
+North America,US,New Jersey,362,0,18,2020-04-11 22:45:33
+North America,US,Louisiana,358,0,10,2020-04-11 22:45:33
+Europe,San Marino,San Marino,356,53,35,2020-04-11 22:45:13
+North America,US,Maryland,351,0,6,2020-04-11 22:45:33
+North America,US,Vermont,351,0,16,2020-04-11 22:45:33
+North America,US,Louisiana,350,0,5,2020-04-11 22:45:33
+North America,US,Virginia,349,0,2,2020-04-11 22:45:33
+North America,US,Missouri,348,0,11,2020-04-11 22:45:33
+North America,US,Florida,344,0,4,2020-04-11 22:45:33
+North America,US,New Hampshire,344,0,2,2020-04-11 22:45:33
+North America,US,Hawaii,343,0,5,2020-04-11 22:45:33
+North America,US,Texas,341,0,8,2020-04-11 22:45:33
+North America,US,Maryland,341,0,11,2020-04-11 22:45:33
+North America,US,New York,340,0,7,2020-04-11 22:45:33
+Asia,Kyrgyzstan,Kyrgyzstan,339,44,5,2020-04-11 22:45:13
+North America,US,Louisiana,337,0,12,2020-04-11 22:45:33
+North America,US,Massachusetts,336,0,20,2020-04-11 22:45:33
+North America,US,South Carolina,331,0,1,2020-04-11 22:45:33
+North America,US,Georgia,331,0,11,2020-04-11 22:45:33
+North America,US,Wisconsin,327,0,12,2020-04-11 22:45:33
+North America,US,South Carolina,325,0,7,2020-04-11 22:45:33
+North America,US,Oklahoma,323,0,16,2020-04-11 22:45:33
+North America,US,Arizona,321,0,1,2020-04-11 22:45:33
+North America,US,Oregon,320,0,6,2020-04-11 22:45:33
+Africa,Mauritius,Mauritius,319,28,9,2020-04-11 22:45:13
+North America,US,Louisiana,318,0,7,2020-04-11 22:45:33
+Africa,Nigeria,Nigeria,318,70,10,2020-04-11 22:45:13
+North America,US,Oregon,317,0,17,2020-04-11 22:45:33
+North America,US,Florida,317,0,5,2020-04-11 22:45:33
+North America,US,Kansas,315,0,20,2020-04-11 22:45:33
+North America,US,Tennessee,312,0,4,2020-04-11 22:45:33
+North America,US,New Hampshire,305,0,1,2020-04-11 22:45:33
+North America,US,Indiana,301,0,9,2020-04-11 22:45:33
+North America,US,New Jersey,301,0,11,2020-04-11 22:45:33
+North America,US,Utah,300,0,0,2020-04-11 22:45:33
+North America,US,Missouri,300,0,8,2020-04-11 22:45:33
+North America,US,California,298,0,10,2020-04-11 22:45:33
+North America,US,Virginia,296,0,5,2020-04-11 22:45:33
+North America,US,Utah,295,0,2,2020-04-11 22:45:33
+North America,US,Pennsylvania,293,0,3,2020-04-11 22:45:33
+North America,US,Connecticut,290,0,18,2020-04-11 22:45:33
+North America,Canada,Saskatchewan,289,0,4,2020-04-11 22:52:28
+North America,US,Indiana,287,0,19,2020-04-11 22:45:33
+North America,US,Maine,284,0,12,2020-04-11 22:45:33
+Europe,Kosovo,Kosovo,283,58,7,2020-04-11 22:45:13
+North America,US,Kansas,283,0,12,2020-04-11 22:45:33
+North America,US,Colorado,282,0,10,2020-04-11 22:45:33
+Africa,Senegal,Senegal,278,152,2,2020-04-11 22:45:13
+North America,US,Tennessee,276,0,1,2020-04-11 22:45:33
+South America,Bolivia,Bolivia,275,2,20,2020-04-11 22:45:13
+North America,US,North Carolina,275,0,1,2020-04-11 22:45:33
+North America,US,Georgia,275,0,0,2020-04-11 22:45:33
+North America,US,Michigan,270,0,13,2020-04-11 22:45:33
+Asia,West Bank and Gaza,West Bank and Gaza,268,57,2,2020-04-11 22:45:13
+Europe,Montenegro,Montenegro,263,5,2,2020-04-11 22:45:13
+North America,US,Washington,261,0,23,2020-04-11 22:45:33
+North America,US,California,260,0,2,2020-04-11 22:45:33
+Asia,Vietnam,Vietnam,258,144,0,2020-04-11 22:45:13
+North America,US,California,257,0,14,2020-04-11 22:45:33
+North America,US,Delaware,255,0,4,2020-04-11 22:45:33
+North America,US,Michigan,254,0,9,2020-04-11 22:45:33
+North America,US,Texas,252,0,2,2020-04-11 22:45:33
+North America,US,Washington,251,0,14,2020-04-11 22:45:33
+North America,US,Texas,251,0,5,2020-04-11 22:45:33
+Africa,Guinea,Guinea,250,17,0,2020-04-11 22:45:13
+North America,US,Texas,249,0,13,2020-04-11 22:45:33
+North America,US,Arkansas,249,0,9,2020-04-11 22:45:33
+North America,US,Georgia,249,0,3,2020-04-11 22:45:33
+North America,US,Louisiana,248,0,8,2020-04-11 22:45:33
+North America,US,Louisiana,248,0,14,2020-04-11 22:45:33
+North America,US,Oklahoma,247,0,17,2020-04-11 22:45:33
+North America,US,Oregon,246,0,9,2020-04-11 22:45:33
+North America,US,Washington,244,0,25,2020-04-11 22:45:33
+North America,Canada,Manitoba,243,0,4,2020-04-11 22:52:28
+North America,US,Ohio,243,0,14,2020-04-11 22:45:33
+North America,US,Florida,242,0,8,2020-04-11 22:45:33
+North America,US,Florida,242,0,2,2020-04-11 22:45:33
+Asia,Georgia,Georgia,242,60,3,2020-04-11 22:45:13
+North America,US,Michigan,241,0,3,2020-04-11 22:45:33
+North America,Canada,Newfoundland and Labrador,241,0,3,2020-04-11 22:52:28
+North America,US,Arizona,238,0,15,2020-04-11 22:45:33
+North America,US,Virginia,236,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,235,0,6,2020-04-11 22:45:33
+North America,US,Iowa,235,0,10,2020-04-11 22:45:33
+North America,US,Maryland,235,0,5,2020-04-11 22:45:33
+North America,US,Indiana,235,0,13,2020-04-11 22:45:33
+North America,US,Georgia,234,0,15,2020-04-11 22:45:33
+North America,US,Colorado,234,0,7,2020-04-11 22:45:33
+North America,US,Mississippi,234,0,2,2020-04-11 22:45:33
+North America,US,Pennsylvania,232,0,1,2020-04-11 22:45:33
+North America,US,New Jersey,230,0,7,2020-04-11 22:45:33
+North America,US,Nebraska,228,0,5,2020-04-11 22:45:33
+Europe,UK,Isle of Man,226,112,2,2020-04-11 22:45:13
+North America,US,Massachusetts,225,0,13,2020-04-11 22:45:33
+Africa,Democratic Republic of the Congo,Democratic Republic of the Congo,223,16,20,2020-04-11 22:45:13
+North America,US,Georgia,222,0,9,2020-04-11 22:45:33
+North America,US,Illinois,220,0,6,2020-04-11 22:45:33
+North America,US,Washington,220,0,14,2020-04-11 22:45:33
+North America,US,Florida,219,0,12,2020-04-11 22:45:33
+North America,US,Alabama,218,0,8,2020-04-11 22:45:33
+North America,US,Pennsylvania,218,0,6,2020-04-11 22:45:33
+North America,US,Missouri,217,0,7,2020-04-11 22:45:33
+North America,US,Texas,216,0,2,2020-04-11 22:45:33
+North America,US,Louisiana,214,0,12,2020-04-11 22:45:33
+North America,US,Maryland,214,0,25,2020-04-11 22:45:33
+North America,US,Pennsylvania,213,0,3,2020-04-11 22:45:33
+North America,US,Georgia,209,0,15,2020-04-11 22:45:33
+North America,US,Pennsylvania,208,0,6,2020-04-11 22:45:33
+North America,US,Florida,206,0,3,2020-04-11 22:45:33
+North America,US,Michigan,206,0,3,2020-04-11 22:45:33
+North America,US,Massachusetts,204,0,5,2020-04-11 22:45:33
+North America,US,Virginia,203,0,0,2020-04-11 22:45:33
+North America,US,California,203,0,11,2020-04-11 22:45:33
+North America,US,Florida,203,0,13,2020-04-11 22:45:33
+North America,US,South Carolina,202,0,6,2020-04-11 22:45:33
+North America,US,Wisconsin,201,0,6,2020-04-11 22:45:33
+North America,US,Georgia,201,0,5,2020-04-11 22:45:33
+Asia,Sri Lanka,Sri Lanka,198,54,7,2020-04-11 22:45:13
+North America,US,Louisiana,197,0,9,2020-04-11 22:45:33
+North America,US,Florida,195,0,6,2020-04-11 22:45:33
+North America,US,Iowa,194,0,1,2020-04-11 22:45:33
+North America,US,New York,194,0,7,2020-04-11 22:45:33
+North America,US,Alabama,193,0,5,2020-04-11 22:45:33
+North America,US,Utah,193,0,2,2020-04-11 22:45:33
+North America,US,Kansas,191,0,2,2020-04-11 22:45:33
+North America,US,South Carolina,191,0,6,2020-04-11 22:45:33
+Africa,Kenya,Kenya,191,24,7,2020-04-11 22:45:13
+North America,US,California,191,0,5,2020-04-11 22:45:33
+North America,US,Michigan,190,0,4,2020-04-11 22:45:33
+North America,US,Virginia,188,0,1,2020-04-11 22:45:33
+Africa,Djibouti,Djibouti,187,36,2,2020-04-11 22:45:13
+North America,US,New York,187,0,4,2020-04-11 22:45:33
+North America,US,Alabama,186,0,3,2020-04-11 22:45:33
+North America,US,Indiana,186,0,3,2020-04-11 22:45:33
+North America,US,Washington,185,0,6,2020-04-11 22:45:33
+North America,US,Connecticut,185,0,7,2020-04-11 22:45:33
+North America,US,Illinois,185,0,9,2020-04-11 22:45:33
+North America,US,Michigan,183,0,5,2020-04-11 22:45:33
+North America,US,Georgia,182,0,7,2020-04-11 22:45:33
+North America,US,Texas,181,0,1,2020-04-11 22:45:33
+North America,US,Alabama,181,0,8,2020-04-11 22:45:33
+North America,US,New York,181,0,3,2020-04-11 22:45:33
+North America,US,Pennsylvania,179,0,2,2020-04-11 22:45:33
+North America,US,Louisiana,178,0,9,2020-04-11 22:45:33
+North America,US,South Carolina,178,0,4,2020-04-11 22:45:33
+North America,US,Colorado,177,0,9,2020-04-11 22:45:33
+North America,US,New Mexico,177,0,3,2020-04-11 22:45:33
+South America,Venezuela,Venezuela,175,93,9,2020-04-11 22:45:13
+North America,US,Ohio,175,0,5,2020-04-11 22:45:33
+North America,US,Florida,174,0,0,2020-04-11 22:45:33
+North America,US,Illinois,173,0,7,2020-04-11 22:45:33
+North America,US,Texas,171,0,6,2020-04-11 22:45:33
+North America,US,Connecticut,171,0,15,2020-04-11 22:45:33
+North America,US,South Carolina,170,0,4,2020-04-11 22:45:33
+North America,US,Rhode Island,169,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,169,0,3,2020-04-11 22:45:33
+North America,US,Florida,167,0,2,2020-04-11 22:45:33
+North America,US,New York,167,0,4,2020-04-11 22:45:33
+North America,US,Iowa,163,0,4,2020-04-11 22:45:33
+North America,US,Mississippi,163,0,2,2020-04-11 22:45:33
+North America,US,Wisconsin,163,0,1,2020-04-11 22:45:33
+North America,US,Ohio,161,0,5,2020-04-11 22:45:33
+North America,US,Texas,159,0,3,2020-04-11 22:45:33
+North America,US,Louisiana,159,0,5,2020-04-11 22:45:33
+North America,US,Florida,158,0,8,2020-04-11 22:45:33
+North America,US,Washington,157,0,7,2020-04-11 22:45:33
+North America,US,Ohio,155,0,8,2020-04-11 22:45:33
+North America,US,New Jersey,154,0,3,2020-04-11 22:45:33
+North America,US,California,154,0,10,2020-04-11 22:45:33
+North America,US,Michigan,152,0,4,2020-04-11 22:45:33
+North America,US,Florida,149,0,4,2020-04-11 22:45:33
+North America,US,Virginia,148,0,0,2020-04-11 22:45:33
+North America,US,Florida,148,0,6,2020-04-11 22:45:33
+North America,US,Florida,148,0,2,2020-04-11 22:45:33
+North America,US,Kentucky,148,0,8,2020-04-11 22:45:33
+North America,US,Georgia,147,0,5,2020-04-11 22:45:33
+North America,US,South Carolina,146,0,4,2020-04-11 22:45:33
+North America,US,Arizona,146,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,146,0,7,2020-04-11 22:45:33
+North America,US,Idaho,145,0,5,2020-04-11 22:45:33
+North America,US,Colorado,145,0,1,2020-04-11 22:45:33
+North America,US,California,145,0,2,2020-04-11 22:45:33
+North America,US,Georgia,144,0,4,2020-04-11 22:45:33
+North America,US,Maine,143,0,3,2020-04-11 22:45:33
+North America,US,Pennsylvania,143,0,13,2020-04-11 22:45:33
+North America,US,Georgia,142,0,5,2020-04-11 22:45:33
+North America,US,New Mexico,142,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,142,0,7,2020-04-11 22:45:33
+North America,US,North Carolina,141,0,2,2020-04-11 22:45:33
+North America,US,Michigan,140,0,1,2020-04-11 22:45:33
+North America,US,Rhode Island,140,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,139,0,5,2020-04-11 22:45:33
+North America,US,Massachusetts,138,0,23,2020-04-11 22:45:33
+North America,US,Georgia,138,0,3,2020-04-11 22:45:33
+North America,Guatemala,Guatemala,137,19,3,2020-04-11 22:45:13
+North America,US,Indiana,136,0,10,2020-04-11 22:45:33
+North America,US,Louisiana,136,0,11,2020-04-11 22:45:33
+Asia,Brunei,Brunei,136,104,1,2020-04-11 22:45:13
+North America,US,Tennessee,135,0,1,2020-04-11 22:45:33
+North America,US,Georgia,135,0,13,2020-04-11 22:45:33
+North America,US,Montana,135,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,134,0,9,2020-04-11 22:45:33
+North America,US,Ohio,134,0,14,2020-04-11 22:45:33
+North America,US,Texas,134,0,10,2020-04-11 22:45:33
+South America,Paraguay,Paraguay,133,18,6,2020-04-11 22:45:13
+North America,US,Ohio,133,0,11,2020-04-11 22:45:33
+North America,US,Mississippi,133,0,8,2020-04-11 22:45:33
+Australia,Australia,Tasmania,133,48,4,2020-04-11 22:52:46
+North America,US,Guam,133,0,5,2020-04-11 22:45:33
+North America,US,Minnesota,132,0,6,2020-04-11 22:45:33
+North America,US,South Carolina,132,0,7,2020-04-11 22:45:33
+North America,US,Minnesota,132,0,2,2020-04-11 22:45:33
+Europe,UK,Gibraltar,129,84,0,2020-04-11 22:45:13
+North America,US,New Jersey,129,0,5,2020-04-11 22:45:33
+North America,US,Nebraska,129,0,4,2020-04-11 22:45:33
+North America,US,Washington,128,0,1,2020-04-11 22:45:33
+North America,US,Pennsylvania,128,0,3,2020-04-11 22:45:33
+North America,US,Louisiana,128,0,5,2020-04-11 22:45:33
+North America,US,South Carolina,127,0,3,2020-04-11 22:45:33
+North America,US,Virginia,126,0,2,2020-04-11 22:45:33
+North America,US,California,123,0,4,2020-04-11 22:45:33
+North America,US,Indiana,123,0,10,2020-04-11 22:45:33
+North America,US,California,121,0,2,2020-04-11 22:45:33
+North America,US,Georgia,121,0,4,2020-04-11 22:45:33
+North America,US,Alaska,121,0,4,2020-04-11 22:45:33
+North America,US,Florida,120,0,2,2020-04-11 22:45:33
+North America,US,Maryland,120,0,1,2020-04-11 22:45:33
+Asia,Cambodia,Cambodia,120,75,0,2020-04-11 22:45:13
+Africa,Rwanda,Rwanda,120,18,0,2020-04-11 22:45:13
+North America,El Salvador,El Salvador,118,19,6,2020-04-11 22:45:13
+North America,US,New York,117,0,6,2020-04-11 22:45:33
+North America,US,Missouri,117,0,3,2020-04-11 22:45:33
+North America,US,New York,117,0,6,2020-04-11 22:45:33
+North America,US,California,116,0,1,2020-04-11 22:45:33
+North America,US,Ohio,116,0,15,2020-04-11 22:45:33
+North America,US,Oregon,116,0,3,2020-04-11 22:45:33
+North America,US,North Carolina,115,0,4,2020-04-11 22:45:33
+North America,US,Florida,115,0,3,2020-04-11 22:45:33
+North America,US,Virginia,115,0,0,2020-04-11 22:45:33
+North America,US,Ohio,115,0,2,2020-04-11 22:45:33
+North America,US,Louisiana,114,0,7,2020-04-11 22:45:33
+North America,US,Georgia,113,0,7,2020-04-11 22:45:33
+North America,US,New Mexico,113,0,2,2020-04-11 22:45:33
+North America,US,Ohio,112,0,6,2020-04-11 22:45:33
+North America,Canada,New Brunswick,112,0,0,2020-04-11 22:52:28
+South America,Trinidad and Tobago,Trinidad and Tobago,112,12,8,2020-04-11 22:45:13
+North America,US,Florida,112,0,0,2020-04-11 22:45:33
+North America,US,Indiana,112,0,6,2020-04-11 22:45:33
+North America,US,Iowa,111,0,1,2020-04-11 22:45:33
+North America,US,California,110,0,1,2020-04-11 22:45:33
+North America,US,Texas,110,0,4,2020-04-11 22:45:33
+North America,US,Washington,110,0,2,2020-04-11 22:45:33
+North America,US,Louisiana,109,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,109,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,109,0,11,2020-04-11 22:45:33
+North America,US,Indiana,108,0,4,2020-04-11 22:45:33
+North America,US,New York,108,0,0,2020-04-11 22:45:33
+North America,US,Florida,107,0,9,2020-04-11 22:45:33
+North America,US,Indiana,107,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,107,0,5,2020-04-11 22:45:33
+North America,US,Ohio,107,0,7,2020-04-11 22:45:33
+North America,US,North Carolina,107,0,1,2020-04-11 22:45:33
+North America,US,Florida,107,0,5,2020-04-11 22:45:33
+North America,US,Washington,107,0,2,2020-04-11 22:45:33
+North America,US,Indiana,106,0,8,2020-04-11 22:45:33
+North America,US,Georgia,106,0,6,2020-04-11 22:45:33
+North America,US,Louisiana,105,0,2,2020-04-11 22:45:33
+North America,US,Indiana,105,0,4,2020-04-11 22:45:33
+North America,US,Georgia,105,0,5,2020-04-11 22:45:33
+North America,US,Pennsylvania,105,0,3,2020-04-11 22:45:33
+North America,US,Florida,105,0,3,2020-04-11 22:45:33
+North America,US,North Carolina,105,0,2,2020-04-11 22:45:33
+North America,US,Tennessee,105,0,10,2020-04-11 22:45:33
+North America,US,Wisconsin,105,0,3,2020-04-11 22:45:33
+North America,US,Georgia,104,0,10,2020-04-11 22:45:33
+North America,US,Illinois,103,0,2,2020-04-11 22:45:33
+North America,US,Grand Princess,103,0,3,2020-04-11 22:45:33
+Australia,Australia,Australian Capital Territory,103,59,2,2020-04-11 22:52:46
+North America,US,Illinois,103,0,2,2020-04-11 22:45:33
+North America,US,Indiana,103,0,2,2020-04-11 22:45:33
+North America,US,Georgia,103,0,5,2020-04-11 22:45:33
+North America,US,New York,102,0,3,2020-04-11 22:45:33
+North America,US,South Carolina,102,0,5,2020-04-11 22:45:33
+Africa,Madagascar,Madagascar,102,11,0,2020-04-11 22:45:13
+North America,US,New York,102,0,5,2020-04-11 22:45:33
+North America,US,Alabama,102,0,4,2020-04-11 22:45:33
+North America,US,North Carolina,101,0,1,2020-04-11 22:45:33
+North America,US,Colorado,101,0,1,2020-04-11 22:45:33
+North America,US,Georgia,101,0,2,2020-04-11 22:45:33
+North America,US,Texas,100,0,5,2020-04-11 22:45:33
+North America,US,Alabama,99,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,99,0,2,2020-04-11 22:45:33
+North America,US,Pennsylvania,99,0,2,2020-04-11 22:45:33
+North America,US,Utah,98,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,98,0,3,2020-04-11 22:45:33
+North America,US,Louisiana,98,0,4,2020-04-11 22:45:33
+North America,US,Nevada,96,0,16,2020-04-11 22:45:33
+North America,US,Ohio,96,0,6,2020-04-11 22:45:33
+North America,US,Michigan,95,0,6,2020-04-11 22:45:33
+North America,US,North Dakota,95,0,2,2020-04-11 22:45:33
+North America,US,Mississippi,94,0,2,2020-04-11 22:45:33
+North America,US,Indiana,94,0,3,2020-04-11 22:45:33
+North America,US,Michigan,94,0,3,2020-04-11 22:45:33
+North America,US,Georgia,94,0,4,2020-04-11 22:45:33
+North America,US,Texas,93,0,2,2020-04-11 22:45:33
+North America,US,Utah,93,0,1,2020-04-11 22:45:33
+Europe,Netherlands,Aruba,92,29,0,2020-04-11 22:45:13
+Europe,Monaco,Monaco,92,5,1,2020-04-11 22:45:13
+North America,US,North Carolina,92,0,5,2020-04-11 22:45:33
+North America,US,Iowa,91,0,1,2020-04-11 22:45:33
+North America,US,Texas,91,0,3,2020-04-11 22:45:33
+North America,US,Arkansas,91,0,2,2020-04-11 22:45:33
+North America,US,Florida,91,0,1,2020-04-11 22:45:33
+North America,US,Georgia,91,0,2,2020-04-11 22:45:33
+North America,US,Michigan,90,0,3,2020-04-11 22:45:33
+North America,US,Virginia,90,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,89,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,89,0,2,2020-04-11 22:45:33
+North America,US,West Virginia,89,0,0,2020-04-11 22:45:33
+North America,US,Ohio,89,0,2,2020-04-11 22:45:33
+North America,US,Tennessee,88,0,2,2020-04-11 22:45:33
+North America,US,New York,87,0,7,2020-04-11 22:45:33
+North America,US,Minnesota,87,0,4,2020-04-11 22:45:33
+Africa,Mali,Mali,87,22,7,2020-04-11 22:45:13
+North America,US,Mississippi,86,0,2,2020-04-11 22:45:33
+North America,US,Michigan,86,0,7,2020-04-11 22:45:33
+North America,US,North Carolina,85,0,2,2020-04-11 22:45:33
+North America,US,Illinois,85,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,85,0,4,2020-04-11 22:45:33
+North America,US,Tennessee,85,0,0,2020-04-11 22:45:33
+North America,US,Illinois,85,0,2,2020-04-11 22:45:33
+North America,US,Illinois,84,0,3,2020-04-11 22:45:33
+North America,US,North Carolina,84,0,2,2020-04-11 22:45:33
+North America,US,Florida,83,0,2,2020-04-11 22:45:33
+North America,US,Missouri,83,0,3,2020-04-11 22:45:33
+North America,US,Oklahoma,83,0,2,2020-04-11 22:45:33
+North America,US,Alabama,82,0,2,2020-04-11 22:45:33
+North America,US,West Virginia,82,0,0,2020-04-11 22:45:33
+North America,US,New York,82,0,0,2020-04-11 22:45:33
+North America,US,Texas,82,0,0,2020-04-11 22:45:33
+North America,US,Georgia,82,0,11,2020-04-11 22:45:33
+North America,US,Maryland,82,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,82,0,6,2020-04-11 22:45:33
+North America,US,North Carolina,82,0,1,2020-04-11 22:45:33
+North America,US,Washington,81,0,1,2020-04-11 22:45:33
+North America,US,Indiana,81,0,3,2020-04-11 22:45:33
+North America,US,Tennessee,81,0,0,2020-04-11 22:45:33
+North America,US,Ohio,80,0,3,2020-04-11 22:45:33
+North America,US,Vermont,80,0,3,2020-04-11 22:45:33
+North America,US,California,80,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,80,0,3,2020-04-11 22:45:33
+North America,US,Illinois,80,0,4,2020-04-11 22:45:33
+North America,US,Georgia,80,0,5,2020-04-11 22:45:33
+North America,US,Michigan,79,0,7,2020-04-11 22:45:33
+North America,US,California,79,0,3,2020-04-11 22:45:33
+North America,US,California,79,0,3,2020-04-11 22:45:33
+Europe,Liechtenstein,Liechtenstein,79,55,1,2020-04-11 22:45:13
+North America,US,Virginia,79,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,79,0,2,2020-04-11 22:45:33
+North America,US,Missouri,79,0,1,2020-04-11 22:45:33
+North America,US,Iowa,79,0,3,2020-04-11 22:45:33
+North America,US,Alabama,78,0,0,2020-04-11 22:45:33
+North America,US,Ohio,78,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,78,0,1,2020-04-11 22:45:33
+North America,US,Georgia,78,0,4,2020-04-11 22:45:33
+North America,US,Minnesota,77,0,2,2020-04-11 22:45:33
+North America,US,Missouri,77,0,8,2020-04-11 22:45:33
+North America,US,Iowa,77,0,2,2020-04-11 22:45:33
+North America,US,Georgia,77,0,3,2020-04-11 22:45:33
+North America,US,Texas,76,0,0,2020-04-11 22:45:33
+North America,US,Alaska,76,0,1,2020-04-11 22:45:33
+Africa,Togo,Togo,76,25,3,2020-04-11 22:45:13
+North America,US,Georgia,76,0,2,2020-04-11 22:45:33
+North America,US,Illinois,75,0,2,2020-04-11 22:45:33
+North America,US,Virginia,75,0,1,2020-04-11 22:45:33
+North America,US,Kansas,75,0,1,2020-04-11 22:45:33
+North America,US,Michigan,75,0,6,2020-04-11 22:45:33
+North America,US,Indiana,75,0,0,2020-04-11 22:45:33
+North America,US,California,75,0,3,2020-04-11 22:45:33
+North America,US,Rhode Island,74,0,0,2020-04-11 22:45:33
+North America,US,Ohio,74,0,0,2020-04-11 22:45:33
+North America,US,Alabama,74,0,6,2020-04-11 22:45:33
+North America,US,Georgia,74,0,3,2020-04-11 22:45:33
+North America,US,Idaho,73,0,1,2020-04-11 22:45:33
+North America,US,Kansas,73,0,3,2020-04-11 22:45:33
+North America,US,Maryland,73,0,0,2020-04-11 22:45:33
+North America,US,Texas,72,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,72,0,0,2020-04-11 22:45:33
+North America,US,Maryland,72,0,1,2020-04-11 22:45:33
+North America,US,New Mexico,72,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,72,0,9,2020-04-11 22:45:33
+North America,US,Indiana,71,0,3,2020-04-11 22:45:33
+North America,US,Wisconsin,71,0,3,2020-04-11 22:45:33
+North America,US,Louisiana,71,0,7,2020-04-11 22:45:33
+North America,US,Michigan,71,0,1,2020-04-11 22:45:33
+North America,US,Michigan,71,0,4,2020-04-11 22:45:33
+North America,US,North Carolina,71,0,1,2020-04-11 22:45:33
+North America,US,Iowa,70,0,0,2020-04-11 22:45:33
+North America,US,Florida,70,0,1,2020-04-11 22:45:33
+North America,US,Pennsylvania,69,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,69,0,1,2020-04-11 22:45:33
+Africa,Ethiopia,Ethiopia,69,10,3,2020-04-11 22:45:13
+North America,US,Arkansas,69,0,4,2020-04-11 22:45:33
+North America,US,Colorado,68,0,2,2020-04-11 22:45:33
+North America,Barbados,Barbados,68,11,4,2020-04-11 22:45:13
+North America,US,North Carolina,68,0,5,2020-04-11 22:45:33
+North America,US,Indiana,68,0,2,2020-04-11 22:45:33
+North America,US,Texas,68,0,2,2020-04-11 22:45:33
+North America,US,Louisiana,67,0,2,2020-04-11 22:45:33
+North America,US,New York,67,0,1,2020-04-11 22:45:33
+North America,US,Virginia,67,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,67,0,4,2020-04-11 22:45:33
+North America,US,South Carolina,67,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,67,0,1,2020-04-11 22:45:33
+North America,US,Georgia,67,0,0,2020-04-11 22:45:33
+North America,US,Indiana,67,0,7,2020-04-11 22:45:33
+North America,US,Texas,66,0,2,2020-04-11 22:45:33
+North America,US,Hawaii,66,0,3,2020-04-11 22:45:33
+North America,US,Louisiana,66,0,9,2020-04-11 22:45:33
+North America,US,Maryland,66,0,1,2020-04-11 22:45:33
+North America,US,New Hampshire,66,0,0,2020-04-11 22:45:33
+North America,US,Georgia,66,0,0,2020-04-11 22:45:33
+North America,US,Alabama,66,0,1,2020-04-11 22:45:33
+North America,US,Florida,66,0,6,2020-04-11 22:45:33
+North America,US,Pennsylvania,66,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,66,0,7,2020-04-11 22:45:33
+North America,US,Florida,66,0,0,2020-04-11 22:45:33
+North America,US,Arizona,66,0,0,2020-04-11 22:45:33
+North America,US,Texas,66,0,2,2020-04-11 22:45:33
+North America,US,Connecticut,66,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,65,0,3,2020-04-11 22:45:33
+North America,Jamaica,Jamaica,65,13,4,2020-04-11 22:45:13
+North America,US,Florida,65,0,2,2020-04-11 22:45:33
+North America,US,Georgia,65,0,4,2020-04-11 22:45:33
+North America,US,Virginia,64,0,1,2020-04-11 22:45:33
+North America,US,Michigan,64,0,2,2020-04-11 22:45:33
+North America,US,Colorado,64,0,0,2020-04-11 22:45:33
+North America,US,Indiana,64,0,0,2020-04-11 22:45:33
+North America,US,Indiana,63,0,2,2020-04-11 22:45:33
+North America,US,Indiana,63,0,7,2020-04-11 22:45:33
+North America,US,Arizona,63,0,0,2020-04-11 22:45:33
+North America,US,Virginia,63,0,0,2020-04-11 22:45:33
+North America,US,Georgia,63,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,62,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,62,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,61,0,2,2020-04-11 22:45:33
+North America,US,New York,61,0,0,2020-04-11 22:45:33
+North America,US,Alabama,61,0,4,2020-04-11 22:45:33
+North America,US,Louisiana,61,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,61,0,1,2020-04-11 22:45:33
+Africa,Republic of the Congo,Republic of the Congo,60,5,5,2020-04-11 22:45:13
+North America,US,Louisiana,60,0,2,2020-04-11 22:45:33
+North America,US,Texas,60,0,2,2020-04-11 22:45:33
+North America,US,Wisconsin,60,0,1,2020-04-11 22:45:33
+North America,US,New York,60,0,1,2020-04-11 22:45:33
+North America,US,Georgia,59,0,2,2020-04-11 22:45:33
+North America,US,California,59,0,3,2020-04-11 22:45:33
+North America,US,Indiana,59,0,3,2020-04-11 22:45:33
+North America,US,Pennsylvania,59,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,58,0,1,2020-04-11 22:45:33
+North America,US,Florida,58,0,3,2020-04-11 22:45:33
+North America,US,Wyoming,58,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,58,0,3,2020-04-11 22:45:33
+North America,US,Minnesota,58,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,57,0,1,2020-04-11 22:45:33
+North America,US,Montana,57,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,57,0,4,2020-04-11 22:45:33
+North America,US,Georgia,57,0,1,2020-04-11 22:45:33
+North America,US,Alabama,57,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,57,0,0,2020-04-11 22:45:33
+North America,US,Michigan,57,0,4,2020-04-11 22:45:33
+North America,US,Oklahoma,56,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,56,0,0,2020-04-11 22:45:33
+North America,US,New Jersey,56,0,3,2020-04-11 22:45:33
+North America,US,New York,56,0,0,2020-04-11 22:45:33
+North America,US,Texas,55,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,55,0,0,2020-04-11 22:45:33
+North America,US,Georgia,55,0,3,2020-04-11 22:45:33
+North America,US,Texas,54,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,54,0,3,2020-04-11 22:45:33
+North America,US,Kentucky,54,0,8,2020-04-11 22:45:33
+North America,US,Indiana,54,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,54,0,3,2020-04-11 22:45:33
+North America,US,Indiana,54,0,2,2020-04-11 22:45:33
+North America,US,Vermont,54,0,0,2020-04-11 22:45:33
+North America,US,Virginia,53,0,0,2020-04-11 22:45:33
+North America,US,New Hampshire,53,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,53,0,3,2020-04-11 22:45:33
+North America,US,Indiana,53,0,1,2020-04-11 22:45:33
+Africa,Uganda,Uganda,53,4,0,2020-04-11 22:45:13
+North America,US,Ohio,53,0,2,2020-04-11 22:45:33
+North America,US,Wyoming,53,0,0,2020-04-11 22:45:33
+North America,US,Washington,53,0,5,2020-04-11 22:45:33
+North America,US,Georgia,53,0,2,2020-04-11 22:45:33
+North America,US,Michigan,53,0,0,2020-04-11 22:45:33
+North America,US,Colorado,52,0,2,2020-04-11 22:45:33
+North America,US,Wisconsin,52,0,2,2020-04-11 22:45:33
+North America,US,Mississippi,52,0,0,2020-04-11 22:45:33
+North America,US,Ohio,52,0,3,2020-04-11 22:45:33
+North America,US,Oregon,51,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,51,0,2,2020-04-11 22:45:33
+North America,US,Colorado,51,0,0,2020-04-11 22:45:33
+North America,US,Virgin Islands,51,0,1,2020-04-11 22:45:33
+North America,US,Georgia,51,0,1,2020-04-11 22:45:33
+North America,US,Georgia,51,0,3,2020-04-11 22:45:33
+North America,US,Florida,51,0,4,2020-04-11 22:45:33
+North America,US,Ohio,51,0,0,2020-04-11 22:45:33
+North America,US,Vermont,50,0,1,2020-04-11 22:45:33
+North America,US,Pennsylvania,50,0,3,2020-04-11 22:45:33
+North America,US,Nebraska,50,0,1,2020-04-11 22:45:33
+North America,US,Colorado,50,0,2,2020-04-11 22:45:33
+North America,US,Georgia,50,0,4,2020-04-11 22:45:33
+Europe,Netherlands,Sint Maarten,50,5,9,2020-04-11 22:45:13
+North America,US,California,50,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,50,0,1,2020-04-11 22:45:33
+North America,US,Oregon,49,0,4,2020-04-11 22:45:33
+North America,US,Mississippi,49,0,1,2020-04-11 22:45:33
+North America,US,North Dakota,49,0,0,2020-04-11 22:45:33
+North America,US,Virginia,49,0,0,2020-04-11 22:45:33
+North America,US,Ohio,49,0,2,2020-04-11 22:45:33
+North America,US,Diamond Princess,49,0,0,2020-04-11 22:45:33
+North America,US,Ohio,49,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,49,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,49,0,2,2020-04-11 22:45:33
+North America,US,Texas,49,0,3,2020-04-11 22:45:33
+Europe,UK,Bermuda,48,25,4,2020-04-11 22:45:13
+North America,US,Oklahoma,48,0,4,2020-04-11 22:45:33
+Africa,Liberia,Liberia,48,3,5,2020-04-11 22:45:13
+North America,US,Texas,47,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,47,0,1,2020-04-11 22:45:33
+North America,US,Texas,47,0,2,2020-04-11 22:45:33
+North America,US,Colorado,47,0,2,2020-04-11 22:45:33
+North America,US,Mississippi,47,0,1,2020-04-11 22:45:33
+North America,US,Virginia,47,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,47,0,0,2020-04-11 22:45:33
+Africa,Gabon,Gabon,46,1,1,2020-04-11 22:45:13
+North America,US,Missouri,46,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,46,0,3,2020-04-11 22:45:33
+North America,US,Indiana,46,0,4,2020-04-11 22:45:33
+North America,US,Pennsylvania,46,0,4,2020-04-11 22:45:33
+North America,US,West Virginia,46,0,0,2020-04-11 22:45:33
+North America,The Bahamas,The Bahamas,46,5,8,2020-04-11 22:45:13
+North America,US,Virginia,46,0,0,2020-04-11 22:45:33
+South America,Guyana,Guyana,45,8,6,2020-04-11 22:45:13
+Europe,UK,Cayman Islands,45,6,1,2020-04-11 22:45:13
+North America,US,Kentucky,45,0,3,2020-04-11 22:45:33
+North America,US,Georgia,45,0,2,2020-04-11 22:45:33
+North America,US,Louisiana,45,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,45,0,7,2020-04-11 22:45:33
+North America,US,Nebraska,45,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,45,0,3,2020-04-11 22:45:33
+North America,US,New York,44,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,44,0,0,2020-04-11 22:45:33
+North America,US,Virginia,44,0,0,2020-04-11 22:45:33
+North America,US,Idaho,44,0,0,2020-04-11 22:45:33
+North America,US,Colorado,44,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,44,0,1,2020-04-11 22:45:33
+North America,US,Georgia,44,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,44,0,4,2020-04-11 22:45:33
+North America,US,Florida,44,0,1,2020-04-11 22:45:33
+North America,US,New York,44,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,44,0,0,2020-04-11 22:45:33
+North America,US,Oregon,44,0,0,2020-04-11 22:45:33
+North America,US,Illinois,43,0,1,2020-04-11 22:45:33
+North America,US,New York,43,0,1,2020-04-11 22:45:33
+North America,US,Michigan,43,0,0,2020-04-11 22:45:33
+North America,US,Indiana,43,0,1,2020-04-11 22:45:33
+North America,US,Illinois,43,0,2,2020-04-11 22:45:33
+North America,US,New York,43,0,2,2020-04-11 22:45:33
+North America,US,New Hampshire,43,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,43,0,6,2020-04-11 22:45:33
+North America,US,Mississippi,42,0,3,2020-04-11 22:45:33
+North America,US,Mississippi,42,0,3,2020-04-11 22:45:33
+North America,US,Ohio,42,0,8,2020-04-11 22:45:33
+North America,US,New York,42,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,42,0,3,2020-04-11 22:45:33
+North America,US,Mississippi,42,0,3,2020-04-11 22:45:33
+North America,US,Alabama,42,0,3,2020-04-11 22:45:33
+North America,US,Ohio,41,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,41,0,3,2020-04-11 22:45:33
+North America,US,Iowa,41,0,0,2020-04-11 22:45:33
+North America,US,Georgia,41,0,2,2020-04-11 22:45:33
+North America,US,Missouri,41,0,0,2020-04-11 22:45:33
+North America,US,Utah,41,0,1,2020-04-11 22:45:33
+North America,US,Nebraska,41,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,41,0,3,2020-04-11 22:45:33
+North America,US,Indiana,41,0,2,2020-04-11 22:45:33
+North America,US,Texas,40,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,40,0,0,2020-04-11 22:45:33
+North America,US,Virginia,40,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,40,0,2,2020-04-11 22:45:33
+North America,US,Texas,40,0,0,2020-04-11 22:45:33
+North America,US,Michigan,40,0,6,2020-04-11 22:45:33
+North America,US,Georgia,40,0,1,2020-04-11 22:45:33
+North America,US,Pennsylvania,40,0,0,2020-04-11 22:45:33
+North America,US,Ohio,40,0,5,2020-04-11 22:45:33
+Africa,Zambia,Zambia,40,28,2,2020-04-11 22:45:13
+North America,US,Kansas,39,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,39,0,0,2020-04-11 22:45:33
+North America,US,Rhode Island,39,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,39,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,39,0,0,2020-04-11 22:45:33
+North America,US,New York,39,0,2,2020-04-11 22:45:33
+North America,US,Virginia,38,0,0,2020-04-11 22:45:33
+North America,US,Colorado,38,0,3,2020-04-11 22:45:33
+North America,US,Mississippi,38,0,5,2020-04-11 22:45:33
+North America,US,Kansas,38,0,1,2020-04-11 22:45:33
+North America,US,Michigan,38,0,3,2020-04-11 22:45:33
+North America,US,North Carolina,38,0,2,2020-04-11 22:45:33
+North America,US,Pennsylvania,38,0,0,2020-04-11 22:45:33
+North America,US,Alabama,38,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,38,0,0,2020-04-11 22:45:33
+Africa,Guinea-Bissau,Guinea-Bissau,38,0,0,2020-04-11 22:45:13
+Asia,Burma,Burma,38,2,3,2020-04-11 22:45:13
+North America,US,Mississippi,38,0,1,2020-04-11 22:45:33
+North America,US,New York,37,0,2,2020-04-11 22:45:33
+North America,US,New York,37,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,37,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,37,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,37,0,4,2020-04-11 22:45:33
+North America,US,South Carolina,37,0,0,2020-04-11 22:45:33
+North America,US,Alabama,37,0,0,2020-04-11 22:45:33
+North America,US,New York,37,0,3,2020-04-11 22:45:33
+North America,US,Arkansas,37,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,37,0,4,2020-04-11 22:45:33
+North America,US,Alabama,37,0,1,2020-04-11 22:45:33
+North America,US,Illinois,37,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,37,0,1,2020-04-11 22:45:33
+North America,US,Michigan,37,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,37,0,0,2020-04-11 22:45:33
+North America,US,Illinois,37,0,0,2020-04-11 22:45:33
+North America,US,California,37,0,3,2020-04-11 22:45:33
+North America,US,Tennessee,37,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,37,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,37,0,2,2020-04-11 22:45:33
+North America,US,Iowa,37,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,37,0,0,2020-04-11 22:45:33
+North America,US,Texas,37,0,4,2020-04-11 22:45:33
+North America,US,Alabama,36,0,0,2020-04-11 22:45:33
+North America,US,Georgia,36,0,2,2020-04-11 22:45:33
+North America,US,Texas,36,0,1,2020-04-11 22:45:33
+North America,US,Georgia,36,0,1,2020-04-11 22:45:33
+North America,US,Ohio,36,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,36,0,1,2020-04-11 22:45:33
+North America,US,Missouri,36,0,1,2020-04-11 22:45:33
+North America,US,Florida,36,0,1,2020-04-11 22:45:33
+Africa,Benin,Benin,35,5,1,2020-04-11 22:45:13
+North America,US,North Carolina,35,0,0,2020-04-11 22:45:33
+North America,US,California,35,0,2,2020-04-11 22:45:33
+North America,US,Texas,35,0,1,2020-04-11 22:45:33
+North America,US,Colorado,35,0,0,2020-04-11 22:45:33
+North America,US,Indiana,35,0,2,2020-04-11 22:45:33
+North America,US,Louisiana,35,0,7,2020-04-11 22:45:33
+North America,US,Wisconsin,35,0,0,2020-04-11 22:45:33
+North America,US,Vermont,35,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,35,0,1,2020-04-11 22:45:33
+North America,US,Texas,34,0,0,2020-04-11 22:45:33
+North America,US,Virginia,34,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,34,0,1,2020-04-11 22:45:33
+North America,US,Montana,34,0,0,2020-04-11 22:45:33
+North America,US,Utah,34,0,0,2020-04-11 22:45:33
+Africa,Eritrea,Eritrea,34,0,0,2020-04-11 22:45:13
+North America,US,Texas,34,0,0,2020-04-11 22:45:33
+North America,US,California,34,0,1,2020-04-11 22:45:33
+North America,US,Wisconsin,34,0,2,2020-04-11 22:45:33
+North America,US,Ohio,34,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,34,0,0,2020-04-11 22:45:33
+North America,US,Missouri,34,0,2,2020-04-11 22:45:33
+North America,US,Colorado,34,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,34,0,1,2020-04-11 22:45:33
+North America,US,Indiana,34,0,2,2020-04-11 22:45:33
+North America,US,Oregon,34,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,34,0,0,2020-04-11 22:45:33
+North America,US,Maine,34,0,0,2020-04-11 22:45:33
+North America,US,Missouri,34,0,0,2020-04-11 22:45:33
+North America,US,Maryland,33,0,1,2020-04-11 22:45:33
+North America,US,Georgia,33,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,33,0,1,2020-04-11 22:45:33
+North America,Haiti,Haiti,33,0,2,2020-04-11 22:45:13
+North America,US,Texas,33,0,0,2020-04-11 22:45:33
+North America,US,Illinois,33,0,1,2020-04-11 22:45:33
+North America,US,Florida,33,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,33,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,33,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,32,0,0,2020-04-11 22:45:33
+North America,US,California,32,0,2,2020-04-11 22:45:33
+North America,US,West Virginia,32,0,1,2020-04-11 22:45:33
+North America,US,Indiana,32,0,2,2020-04-11 22:45:33
+North America,US,North Carolina,32,0,1,2020-04-11 22:45:33
+North America,US,Alabama,32,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,32,0,0,2020-04-11 22:45:33
+North America,US,California,32,0,2,2020-04-11 22:45:33
+North America,US,California,32,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,32,0,1,2020-04-11 22:45:33
+Africa,Tanzania,Tanzania,32,5,3,2020-04-11 22:45:13
+North America,US,Iowa,32,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,32,0,1,2020-04-11 22:45:33
+North America,US,Indiana,31,0,3,2020-04-11 22:45:33
+North America,US,Arkansas,31,0,0,2020-04-11 22:45:33
+North America,US,Hawaii,31,0,0,2020-04-11 22:45:33
+North America,US,Texas,31,0,3,2020-04-11 22:45:33
+North America,US,Virginia,31,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,31,0,2,2020-04-11 22:45:33
+North America,US,Vermont,31,0,1,2020-04-11 22:45:33
+North America,US,Alabama,31,0,1,2020-04-11 22:45:33
+North America,US,Utah,31,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,31,0,2,2020-04-11 22:45:33
+North America,US,New York,31,0,1,2020-04-11 22:45:33
+North America,US,Virginia,31,0,0,2020-04-11 22:45:33
+North America,US,Michigan,31,0,2,2020-04-11 22:45:33
+North America,US,Texas,31,0,1,2020-04-11 22:45:33
+North America,US,Arkansas,31,0,0,2020-04-11 22:45:33
+North America,US,Virginia,31,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,31,0,1,2020-04-11 22:45:33
+North America,US,Pennsylvania,31,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,31,0,0,2020-04-11 22:45:33
+North America,US,Maine,31,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,31,0,1,2020-04-11 22:45:33
+North America,US,New York,31,0,1,2020-04-11 22:45:33
+North America,US,Alabama,30,0,0,2020-04-11 22:45:33
+North America,US,Michigan,30,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,30,0,0,2020-04-11 22:45:33
+North America,US,Washington,30,0,0,2020-04-11 22:45:33
+North America,US,New York,30,0,2,2020-04-11 22:45:33
+North America,US,Arizona,30,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,30,0,2,2020-04-11 22:45:33
+North America,US,Illinois,30,0,2,2020-04-11 22:45:33
+North America,US,Louisiana,30,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,30,0,0,2020-04-11 22:45:33
+North America,US,Texas,30,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,30,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,30,0,2,2020-04-11 22:45:33
+North America,US,Alabama,30,0,0,2020-04-11 22:45:33
+North America,US,Georgia,29,0,3,2020-04-11 22:45:33
+North America,US,Georgia,29,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,29,0,1,2020-04-11 22:45:33
+North America,US,Oregon,29,0,1,2020-04-11 22:45:33
+North America,US,Florida,29,0,1,2020-04-11 22:45:33
+North America,US,Wisconsin,29,0,2,2020-04-11 22:45:33
+North America,US,New York,29,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,29,0,3,2020-04-11 22:45:33
+North America,US,Minnesota,29,0,0,2020-04-11 22:45:33
+North America,US,Montana,29,0,1,2020-04-11 22:45:33
+North America,US,West Virginia,28,0,1,2020-04-11 22:45:33
+North America,US,New York,28,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,28,0,0,2020-04-11 22:45:33
+North America,US,Virginia,28,0,0,2020-04-11 22:45:33
+North America,US,Washington,28,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,28,0,0,2020-04-11 22:45:33
+North America,US,Texas,28,0,1,2020-04-11 22:45:33
+North America,US,Missouri,28,0,1,2020-04-11 22:45:33
+North America,US,Iowa,28,0,0,2020-04-11 22:45:33
+North America,US,Georgia,28,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,28,0,0,2020-04-11 22:45:33
+North America,US,Missouri,28,0,1,2020-04-11 22:45:33
+North America,US,New Hampshire,28,0,0,2020-04-11 22:45:33
+Australia,Australia,Northern Territory,28,2,0,2020-04-11 22:52:46
+North America,US,Oregon,28,0,5,2020-04-11 22:45:33
+North America,US,Georgia,28,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,28,0,0,2020-04-11 22:45:33
+North America,US,Vermont,28,0,0,2020-04-11 22:45:33
+North America,US,Idaho,28,0,2,2020-04-11 22:45:33
+North America,US,Georgia,28,0,1,2020-04-11 22:45:33
+North America,US,Iowa,28,0,0,2020-04-11 22:45:33
+North America,US,Georgia,27,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,27,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,27,0,0,2020-04-11 22:45:33
+North America,US,Maine,27,0,0,2020-04-11 22:45:33
+North America,US,Georgia,27,0,0,2020-04-11 22:45:33
+North America,US,Alabama,27,0,4,2020-04-11 22:45:33
+North America,US,Maine,27,0,2,2020-04-11 22:45:33
+North America,US,Virginia,27,0,1,2020-04-11 22:45:33
+North America,US,Kansas,27,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,27,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,27,0,3,2020-04-11 22:45:33
+North America,US,Ohio,27,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,27,0,2,2020-04-11 22:45:33
+North America,US,Arkansas,27,0,0,2020-04-11 22:45:33
+North America,US,Florida,27,0,0,2020-04-11 22:45:33
+North America,US,Colorado,27,0,3,2020-04-11 22:45:33
+North America,US,Mississippi,27,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,26,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,26,0,0,2020-04-11 22:45:33
+North America,US,Texas,26,0,1,2020-04-11 22:45:33
+North America,US,Arkansas,26,0,2,2020-04-11 22:45:33
+North America,US,Georgia,26,0,1,2020-04-11 22:45:33
+North America,US,Michigan,26,0,2,2020-04-11 22:45:33
+North America,US,Missouri,26,0,1,2020-04-11 22:45:33
+North America,US,Ohio,26,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,26,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,26,0,2,2020-04-11 22:45:33
+North America,US,Tennessee,26,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,26,0,1,2020-04-11 22:45:33
+North America,US,Virginia,26,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,26,0,0,2020-04-11 22:45:33
+North America,US,Missouri,26,0,1,2020-04-11 22:45:33
+North America,US,Virginia,26,0,0,2020-04-11 22:45:33
+North America,US,New York,26,0,1,2020-04-11 22:45:33
+North America,US,Texas,26,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,26,0,5,2020-04-11 22:45:33
+North America,US,Georgia,25,0,1,2020-04-11 22:45:33
+North America,US,Virginia,25,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,25,0,2,2020-04-11 22:45:33
+Asia,Syria,Syria,25,5,2,2020-04-11 22:45:13
+North America,US,Missouri,25,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,25,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,25,0,1,2020-04-11 22:45:33
+North America,US,Vermont,25,0,2,2020-04-11 22:45:33
+North America,US,Georgia,25,0,2,2020-04-11 22:45:33
+North America,US,Oklahoma,25,0,3,2020-04-11 22:45:33
+North America,US,Illinois,25,0,0,2020-04-11 22:45:33
+North America,US,Virginia,25,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,25,0,1,2020-04-11 22:45:33
+North America,US,Illinois,25,0,1,2020-04-11 22:45:33
+North America,US,Ohio,25,0,0,2020-04-11 22:45:33
+North America,Canada,Prince Edward Island,25,0,0,2020-04-11 22:52:28
+North America,US,Tennessee,24,0,1,2020-04-11 22:45:33
+North America,US,New Mexico,24,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,24,0,0,2020-04-11 22:45:33
+North America,US,Alabama,24,0,0,2020-04-11 22:45:33
+North America,US,Texas,24,0,0,2020-04-11 22:45:33
+North America,US,Georgia,24,0,3,2020-04-11 22:45:33
+North America,US,Wisconsin,24,0,1,2020-04-11 22:45:33
+Africa,Libya,Libya,24,8,1,2020-04-11 22:45:13
+North America,US,North Carolina,24,0,1,2020-04-11 22:45:33
+North America,US,Ohio,24,0,1,2020-04-11 22:45:33
+North America,US,Illinois,24,0,3,2020-04-11 22:45:33
+North America,US,Texas,24,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,24,0,1,2020-04-11 22:45:33
+North America,US,New York,24,0,0,2020-04-11 22:45:33
+North America,US,Oregon,24,0,0,2020-04-11 22:45:33
+North America,US,Virginia,24,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,24,0,0,2020-04-11 22:45:33
+North America,US,Florida,24,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,24,0,0,2020-04-11 22:45:33
+North America,US,Florida,24,0,0,2020-04-11 22:45:33
+North America,US,California,24,0,3,2020-04-11 22:45:33
+North America,US,Ohio,24,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,23,0,0,2020-04-11 22:45:33
+North America,US,Indiana,23,0,1,2020-04-11 22:45:33
+North America,US,Ohio,23,0,3,2020-04-11 22:45:33
+North America,US,Mississippi,23,0,0,2020-04-11 22:45:33
+North America,US,Illinois,23,0,1,2020-04-11 22:45:33
+North America,US,Texas,23,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,23,0,2,2020-04-11 22:45:33
+North America,US,Minnesota,23,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,23,0,2,2020-04-11 22:45:33
+North America,US,Michigan,23,0,2,2020-04-11 22:45:33
+North America,US,Illinois,23,0,1,2020-04-11 22:45:33
+North America,US,Washington,23,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,23,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,23,0,1,2020-04-11 22:45:33
+North America,US,Ohio,23,0,0,2020-04-11 22:45:33
+North America,US,Indiana,23,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,23,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,23,0,1,2020-04-11 22:45:33
+North America,US,Arkansas,22,0,0,2020-04-11 22:45:33
+North America,US,Georgia,22,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,22,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,22,0,0,2020-04-11 22:45:33
+North America,US,Missouri,22,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,22,0,2,2020-04-11 22:45:33
+North America,US,Minnesota,22,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,22,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,22,0,0,2020-04-11 22:45:33
+North America,US,Missouri,22,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,22,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,22,0,2,2020-04-11 22:45:33
+North America,US,Alabama,22,0,0,2020-04-11 22:45:33
+North America,US,Illinois,22,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,22,0,2,2020-04-11 22:45:33
+North America,US,North Carolina,22,0,2,2020-04-11 22:45:33
+North America,US,Virginia,22,0,0,2020-04-11 22:45:33
+North America,US,New York,22,0,3,2020-04-11 22:45:33
+North America,US,Minnesota,22,0,0,2020-04-11 22:45:33
+North America,US,Indiana,22,0,0,2020-04-11 22:45:33
+North America,US,Alabama,22,0,2,2020-04-11 22:45:33
+North America,US,North Carolina,22,0,1,2020-04-11 22:45:33
+North America,US,Alabama,21,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,21,0,0,2020-04-11 22:45:33
+North America,US,Alabama,21,0,4,2020-04-11 22:45:33
+North America,US,Michigan,21,0,2,2020-04-11 22:45:33
+North America,US,California,21,0,1,2020-04-11 22:45:33
+North America,US,West Virginia,21,0,0,2020-04-11 22:45:33
+North America,US,Alabama,21,0,0,2020-04-11 22:45:33
+North America,US,Vermont,21,0,2,2020-04-11 22:45:33
+North America,US,Michigan,21,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,21,0,0,2020-04-11 22:45:33
+North America,US,New York,21,0,0,2020-04-11 22:45:33
+North America,US,Georgia,21,0,2,2020-04-11 22:45:33
+North America,US,Iowa,21,0,1,2020-04-11 22:45:33
+North America,US,North Dakota,21,0,0,2020-04-11 22:45:33
+Europe,Antigua and Barbuda,Antigua and Barbuda,21,0,2,2020-04-11 22:45:13
+North America,US,Michigan,21,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,21,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,21,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,21,0,2,2020-04-11 22:45:33
+North America,US,Massachusetts,21,0,1,2020-04-11 22:45:33
+North America,US,Georgia,21,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,21,0,2,2020-04-11 22:45:33
+North America,US,Missouri,21,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,21,0,1,2020-04-11 22:45:33
+North America,US,Michigan,21,0,2,2020-04-11 22:45:33
+North America,US,Texas,21,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,21,0,0,2020-04-11 22:45:33
+North America,US,New Hampshire,21,0,0,2020-04-11 22:45:33
+North America,US,Indiana,21,0,0,2020-04-11 22:45:33
+North America,US,Georgia,21,0,0,2020-04-11 22:45:33
+North America,US,Oregon,21,0,2,2020-04-11 22:45:33
+North America,US,Tennessee,21,0,0,2020-04-11 22:45:33
+Africa,Somalia,Somalia,21,1,1,2020-04-11 22:45:13
+North America,US,Missouri,21,0,1,2020-04-11 22:45:33
+North America,US,North Dakota,20,0,0,2020-04-11 22:45:33
+North America,US,Virginia,20,0,0,2020-04-11 22:45:33
+North America,US,Kansas,20,0,0,2020-04-11 22:45:33
+North America,US,Missouri,20,0,1,2020-04-11 22:45:33
+North America,US,Montana,20,0,3,2020-04-11 22:45:33
+North America,US,Iowa,20,0,0,2020-04-11 22:45:33
+Africa,Mozambique,Mozambique,20,2,0,2020-04-11 22:45:13
+North America,US,Texas,20,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,20,0,0,2020-04-11 22:45:33
+North America,US,Michigan,20,0,0,2020-04-11 22:45:33
+North America,US,Georgia,20,0,2,2020-04-11 22:45:33
+North America,US,Indiana,20,0,3,2020-04-11 22:45:33
+North America,US,South Dakota,20,0,0,2020-04-11 22:45:33
+North America,US,Virginia,20,0,0,2020-04-11 22:45:33
+North America,US,Georgia,20,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,20,0,1,2020-04-11 22:45:33
+North America,US,Florida,20,0,3,2020-04-11 22:45:33
+North America,US,Georgia,20,0,1,2020-04-11 22:45:33
+North America,US,Washington,20,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,20,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,20,0,1,2020-04-11 22:45:33
+North America,US,Ohio,20,0,1,2020-04-11 22:45:33
+North America,US,Nebraska,20,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,19,0,0,2020-04-11 22:45:33
+North America,US,Alabama,19,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,19,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,19,0,0,2020-04-11 22:45:33
+Asia,Maldives,Maldives,19,13,0,2020-04-11 22:45:13
+North America,US,Mississippi,19,0,1,2020-04-11 22:45:33
+North America,US,Maryland,19,0,0,2020-04-11 22:45:33
+North America,US,Iowa,19,0,1,2020-04-11 22:45:33
+North America,US,Georgia,19,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,19,0,0,2020-04-11 22:45:33
+North America,US,Alabama,19,0,0,2020-04-11 22:45:33
+North America,US,Georgia,19,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,19,0,0,2020-04-11 22:45:33
+North America,US,Alabama,19,0,1,2020-04-11 22:45:33
+North America,US,Maryland,19,0,0,2020-04-11 22:45:33
+North America,US,Idaho,19,0,5,2020-04-11 22:45:33
+North America,US,New York,19,0,0,2020-04-11 22:45:33
+North America,US,New York,19,0,0,2020-04-11 22:45:33
+Africa,Sudan,Sudan,19,2,2,2020-04-11 22:45:13
+North America,US,Michigan,19,0,0,2020-04-11 22:45:33
+North America,US,Virginia,19,0,0,2020-04-11 22:45:33
+North America,US,Virginia,19,0,0,2020-04-11 22:45:33
+Africa,Angola,Angola,19,4,2,2020-04-11 22:45:13
+North America,US,Hawaii,19,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,19,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,19,0,1,2020-04-11 22:45:33
+North America,US,New Mexico,18,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,18,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,18,0,0,2020-04-11 22:45:33
+North America,US,Ohio,18,0,0,2020-04-11 22:45:33
+North America,US,Kansas,18,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,18,0,0,2020-04-11 22:45:33
+North America,US,Indiana,18,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,18,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,18,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,18,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,18,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,18,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,18,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,18,0,0,2020-04-11 22:45:33
+North America,US,Illinois,18,0,1,2020-04-11 22:45:33
+Africa,Equatorial Guinea,Equatorial Guinea,18,3,0,2020-04-11 22:45:13
+North America,US,Washington,18,0,2,2020-04-11 22:45:33
+North America,US,Wisconsin,18,0,0,2020-04-11 22:45:33
+North America,US,Illinois,18,0,2,2020-04-11 22:45:33
+North America,US,Alabama,18,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,18,0,0,2020-04-11 22:45:33
+Asia,Laos,Laos,18,0,0,2020-04-11 22:45:13
+North America,US,Georgia,18,0,1,2020-04-11 22:45:33
+North America,US,Nevada,18,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,18,0,0,2020-04-11 22:45:33
+North America,US,Iowa,18,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,18,0,1,2020-04-11 22:45:33
+North America,US,Washington,18,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,17,0,1,2020-04-11 22:45:33
+North America,US,New Hampshire,17,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,17,0,1,2020-04-11 22:45:33
+North America,US,Alabama,17,0,0,2020-04-11 22:45:33
+North America,US,Texas,17,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,17,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,17,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,17,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,17,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,17,0,2,2020-04-11 22:45:33
+North America,US,Virginia,17,0,0,2020-04-11 22:45:33
+North America,US,New York,17,0,0,2020-04-11 22:45:33
+North America,US,Missouri,17,0,0,2020-04-11 22:45:33
+North America,US,Florida,17,0,2,2020-04-11 22:45:33
+North America,US,Virginia,17,0,0,2020-04-11 22:45:33
+North America,US,Texas,17,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,17,0,0,2020-04-11 22:45:33
+North America,US,Virginia,17,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,17,0,0,2020-04-11 22:45:33
+North America,US,Indiana,17,0,1,2020-04-11 22:45:33
+North America,US,Illinois,17,0,0,2020-04-11 22:45:33
+North America,US,Oregon,17,0,0,2020-04-11 22:45:33
+North America,US,Texas,17,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,17,0,0,2020-04-11 22:45:33
+North America,US,Indiana,17,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,17,0,0,2020-04-11 22:45:33
+North America,US,Virginia,17,0,0,2020-04-11 22:45:33
+North America,US,Michigan,17,0,3,2020-04-11 22:45:33
+North America,US,Georgia,17,0,0,2020-04-11 22:45:33
+North America,US,Virginia,17,0,0,2020-04-11 22:45:33
+North America,US,Indiana,16,0,1,2020-04-11 22:45:33
+North America,US,Minnesota,16,0,1,2020-04-11 22:45:33
+North America,US,Georgia,16,0,1,2020-04-11 22:45:33
+North America,US,Texas,16,0,0,2020-04-11 22:45:33
+Asia,Mongolia,Mongolia,16,4,0,2020-04-11 22:45:13
+North America,US,Indiana,16,0,3,2020-04-11 22:45:33
+Australia,Fiji,Fiji,16,0,0,2020-04-11 22:45:13
+North America,US,Montana,16,0,0,2020-04-11 22:45:33
+North America,US,Washington,16,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,16,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,16,0,0,2020-04-11 22:45:33
+North America,US,Georgia,16,0,0,2020-04-11 22:45:33
+North America,US,Iowa,16,0,1,2020-04-11 22:45:33
+North America,US,New York,16,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,16,0,0,2020-04-11 22:45:33
+North America,US,Virginia,16,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,16,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,16,0,1,2020-04-11 22:45:33
+North America,US,Illinois,16,0,0,2020-04-11 22:45:33
+Africa,Namibia,Namibia,16,3,0,2020-04-11 22:45:13
+North America,US,Pennsylvania,16,0,1,2020-04-11 22:45:33
+North America,Dominica,Dominica,16,5,0,2020-04-11 22:45:13
+North America,US,Nevada,16,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,16,0,0,2020-04-11 22:45:33
+North America,US,Texas,16,0,0,2020-04-11 22:45:33
+North America,US,Florida,16,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,16,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,16,0,0,2020-04-11 22:45:33
+North America,US,Idaho,16,0,0,2020-04-11 22:45:33
+North America,US,Georgia,15,0,0,2020-04-11 22:45:33
+North America,US,Iowa,15,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,15,0,0,2020-04-11 22:45:33
+North America,US,Maryland,15,0,0,2020-04-11 22:45:33
+North America,US,Virginia,15,0,0,2020-04-11 22:45:33
+North America,US,Arizona,15,0,0,2020-04-11 22:45:33
+North America,US,Ohio,15,0,1,2020-04-11 22:45:33
+North America,US,Georgia,15,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,15,0,0,2020-04-11 22:45:33
+North America,US,Alaska,15,0,0,2020-04-11 22:45:33
+North America,US,Virginia,15,0,0,2020-04-11 22:45:33
+North America,US,Georgia,15,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,15,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,15,0,0,2020-04-11 22:45:33
+North America,US,Alaska,15,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,15,0,0,2020-04-11 22:45:33
+North America,US,Illinois,15,0,0,2020-04-11 22:45:33
+North America,US,Virginia,15,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,15,0,1,2020-04-11 22:45:33
+North America,US,Pennsylvania,15,0,0,2020-04-11 22:45:33
+North America,US,Ohio,15,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,15,0,0,2020-04-11 22:45:33
+North America,US,Washington,15,0,1,2020-04-11 22:45:33
+North America,US,Georgia,15,0,0,2020-04-11 22:45:33
+North America,US,Indiana,15,0,0,2020-04-11 22:45:33
+North America,US,Georgia,15,0,1,2020-04-11 22:45:33
+North America,US,Pennsylvania,15,0,0,2020-04-11 22:45:33
+North America,US,Ohio,15,0,0,2020-04-11 22:45:33
+North America,Saint Lucia,Saint Lucia,15,1,0,2020-04-11 22:45:13
+North America,US,North Carolina,15,0,0,2020-04-11 22:45:33
+North America,US,Georgia,15,0,0,2020-04-11 22:45:33
+North America,US,Kansas,15,0,0,2020-04-11 22:45:33
+North America,US,Ohio,15,0,1,2020-04-11 22:45:33
+North America,US,California,15,0,1,2020-04-11 22:45:33
+North America,US,Maine,15,0,1,2020-04-11 22:45:33
+North America,US,Alabama,15,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,15,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,14,0,0,2020-04-11 22:45:33
+North America,US,Indiana,14,0,1,2020-04-11 22:45:33
+North America,US,Virginia,14,0,0,2020-04-11 22:45:33
+North America,US,Indiana,14,0,1,2020-04-11 22:45:33
+North America,US,Georgia,14,0,1,2020-04-11 22:45:33
+North America,US,Indiana,14,0,2,2020-04-11 22:45:33
+North America,US,Texas,14,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,14,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,14,0,0,2020-04-11 22:45:33
+North America,US,Florida,14,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,14,0,1,2020-04-11 22:45:33
+North America,US,Alabama,14,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,14,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,14,0,1,2020-04-11 22:45:33
+North America,US,Virginia,14,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,14,0,1,2020-04-11 22:45:33
+North America,US,California,14,0,0,2020-04-11 22:45:33
+Europe,Netherlands,Curacao,14,7,1,2020-04-11 22:45:13
+North America,US,Washington,14,0,0,2020-04-11 22:45:33
+North America,US,Texas,14,0,1,2020-04-11 22:45:33
+North America,US,Georgia,14,0,0,2020-04-11 22:45:33
+North America,US,Georgia,14,0,0,2020-04-11 22:45:33
+North America,US,Alabama,14,0,0,2020-04-11 22:45:33
+North America,US,Kansas,14,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,14,0,0,2020-04-11 22:45:33
+North America,US,Ohio,14,0,1,2020-04-11 22:45:33
+North America,US,Texas,14,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,14,0,2,2020-04-11 22:45:33
+North America,US,North Carolina,14,0,1,2020-04-11 22:45:33
+North America,US,Texas,14,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,14,0,0,2020-04-11 22:45:33
+Africa,Zimbabwe,Zimbabwe,14,0,3,2020-04-11 22:45:13
+North America,US,North Carolina,14,0,2,2020-04-11 22:45:33
+North America,US,Virginia,14,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,14,0,1,2020-04-11 22:45:33
+North America,US,Idaho,14,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,14,0,1,2020-04-11 22:45:33
+North America,US,Missouri,14,0,0,2020-04-11 22:45:33
+North America,US,Georgia,14,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,14,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,14,0,0,2020-04-11 22:45:33
+North America,US,Illinois,14,0,0,2020-04-11 22:45:33
+North America,US,Michigan,14,0,2,2020-04-11 22:45:33
+North America,Grenada,Grenada,14,0,0,2020-04-11 22:45:13
+North America,US,Pennsylvania,14,0,0,2020-04-11 22:45:33
+North America,US,Florida,14,0,0,2020-04-11 22:45:33
+North America,US,Indiana,14,0,0,2020-04-11 22:45:33
+North America,US,Georgia,14,0,0,2020-04-11 22:45:33
+North America,US,Alaska,14,0,0,2020-04-11 22:45:33
+North America,US,Illinois,13,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,13,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,13,0,0,2020-04-11 22:45:33
+North America,US,Utah,13,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,13,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,13,0,1,2020-04-11 22:45:33
+North America,US,Wisconsin,13,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,13,0,1,2020-04-11 22:45:33
+North America,US,Iowa,13,0,0,2020-04-11 22:45:33
+North America,US,Montana,13,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,13,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,13,0,0,2020-04-11 22:45:33
+North America,US,Michigan,13,0,2,2020-04-11 22:45:33
+North America,US,Indiana,13,0,0,2020-04-11 22:45:33
+North America,US,Indiana,13,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,13,0,1,2020-04-11 22:45:33
+North America,US,Arizona,13,0,0,2020-04-11 22:45:33
+North America,US,Texas,13,0,1,2020-04-11 22:45:33
+North America,US,Texas,13,0,1,2020-04-11 22:45:33
+North America,US,Washington,13,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,13,0,0,2020-04-11 22:45:33
+North America,US,Delaware,13,0,0,2020-04-11 22:45:33
+North America,US,Texas,13,0,0,2020-04-11 22:45:33
+North America,US,Missouri,13,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,13,0,1,2020-04-11 22:45:33
+North America,US,Ohio,13,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,13,0,0,2020-04-11 22:45:33
+Africa,Botswana,Botswana,13,0,1,2020-04-11 22:45:13
+North America,US,Indiana,13,0,0,2020-04-11 22:45:33
+North America,US,Alabama,13,0,0,2020-04-11 22:45:33
+North America,US,Virginia,13,0,0,2020-04-11 22:45:33
+North America,US,Indiana,13,0,0,2020-04-11 22:45:33
+North America,Belize,Belize,13,0,2,2020-04-11 22:45:13
+North America,US,Virginia,13,0,0,2020-04-11 22:45:33
+North America,US,Maryland,13,0,1,2020-04-11 22:45:33
+North America,US,Texas,13,0,0,2020-04-11 22:45:33
+North America,US,Missouri,13,0,0,2020-04-11 22:45:33
+North America,US,Colorado,13,0,1,2020-04-11 22:45:33
+North America,US,Maine,13,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,13,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,13,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,13,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,13,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,13,0,2,2020-04-11 22:45:33
+North America,US,Minnesota,13,0,0,2020-04-11 22:45:33
+North America,US,Ohio,13,0,0,2020-04-11 22:45:33
+North America,Canada,Grand Princess,13,0,0,2020-04-11 22:52:28
+North America,US,Colorado,13,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,13,0,0,2020-04-11 22:45:33
+North America,US,Virginia,13,0,0,2020-04-11 22:45:33
+North America,US,Texas,13,0,1,2020-04-11 22:45:33
+North America,US,Kansas,13,0,0,2020-04-11 22:45:33
+North America,US,Texas,13,0,1,2020-04-11 22:45:33
+North America,US,Missouri,13,0,0,2020-04-11 22:45:33
+North America,US,Indiana,12,0,1,2020-04-11 22:45:33
+North America,US,Alabama,12,0,0,2020-04-11 22:45:33
+North America,US,Indiana,12,0,1,2020-04-11 22:45:33
+North America,US,Utah,12,0,0,2020-04-11 22:45:33
+North America,US,Virginia,12,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,12,0,0,2020-04-11 22:45:33
+North America,US,Washington,12,0,0,2020-04-11 22:45:33
+North America,Saint Kitts and Nevis,Saint Kitts and Nevis,12,0,0,2020-04-11 22:45:13
+North America,US,Texas,12,0,2,2020-04-11 22:45:33
+North America,US,Colorado,12,0,2,2020-04-11 22:45:33
+North America,US,Michigan,12,0,1,2020-04-11 22:45:33
+North America,US,Texas,12,0,1,2020-04-11 22:45:33
+North America,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,12,1,0,2020-04-11 22:45:13
+North America,US,Mississippi,12,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,12,0,1,2020-04-11 22:45:33
+North America,US,Ohio,12,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,12,0,0,2020-04-11 22:45:33
+North America,US,Georgia,12,0,1,2020-04-11 22:45:33
+North America,US,Georgia,12,0,2,2020-04-11 22:45:33
+North America,US,Tennessee,12,0,1,2020-04-11 22:45:33
+North America,US,New York,12,0,0,2020-04-11 22:45:33
+North America,US,Georgia,12,0,1,2020-04-11 22:45:33
+North America,US,Indiana,12,0,0,2020-04-11 22:45:33
+North America,US,Illinois,12,0,0,2020-04-11 22:45:33
+North America,US,Oregon,12,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,12,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,12,0,0,2020-04-11 22:45:33
+North America,US,Iowa,12,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,12,0,0,2020-04-11 22:45:33
+North America,US,Georgia,12,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,12,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,12,0,0,2020-04-11 22:45:33
+Africa,Eswatini,Eswatini,12,7,0,2020-04-11 22:45:13
+North America,US,Colorado,12,0,1,2020-04-11 22:45:33
+North America,US,Alabama,12,0,0,2020-04-11 22:45:33
+North America,US,Kansas,12,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,12,0,0,2020-04-11 22:45:33
+North America,US,Georgia,12,0,1,2020-04-11 22:45:33
+North America,US,New York,12,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,12,0,0,2020-04-11 22:45:33
+North America,US,Alabama,12,0,0,2020-04-11 22:45:33
+North America,US,California,12,0,0,2020-04-11 22:45:33
+North America,US,Iowa,12,0,0,2020-04-11 22:45:33
+North America,US,Alabama,12,0,1,2020-04-11 22:45:33
+North America,US,Washington,12,0,1,2020-04-11 22:45:33
+Africa,Malawi,Malawi,12,0,2,2020-04-11 22:45:13
+North America,US,Mississippi,12,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,12,0,1,2020-04-11 22:45:33
+North America,US,North Dakota,11,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,11,0,0,2020-04-11 22:45:33
+North America,US,Texas,11,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,11,0,0,2020-04-11 22:45:33
+Africa,Seychelles,Seychelles,11,0,0,2020-04-11 22:45:13
+North America,US,Texas,11,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,11,0,0,2020-04-11 22:45:33
+North America,US,Kansas,11,0,0,2020-04-11 22:45:33
+North America,US,Georgia,11,0,0,2020-04-11 22:45:33
+North America,US,Idaho,11,0,0,2020-04-11 22:45:33
+North America,US,Georgia,11,0,0,2020-04-11 22:45:33
+North America,US,Ohio,11,0,1,2020-04-11 22:45:33
+North America,US,Missouri,11,0,0,2020-04-11 22:45:33
+North America,US,Michigan,11,0,1,2020-04-11 22:45:33
+North America,US,Vermont,11,0,0,2020-04-11 22:45:33
+North America,US,Missouri,11,0,1,2020-04-11 22:45:33
+North America,US,Indiana,11,0,1,2020-04-11 22:45:33
+North America,US,Texas,11,0,2,2020-04-11 22:45:33
+North America,US,Virginia,11,0,0,2020-04-11 22:45:33
+North America,US,Alabama,11,0,0,2020-04-11 22:45:33
+North America,US,Maryland,11,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,11,0,1,2020-04-11 22:45:33
+Africa,Chad,Chad,11,2,0,2020-04-11 22:45:13
+North America,US,Nevada,11,0,1,2020-04-11 22:45:33
+North America,US,New York,11,0,0,2020-04-11 22:45:33
+North America,US,Indiana,11,0,0,2020-04-11 22:45:33
+North America,US,Ohio,11,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,11,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,11,0,0,2020-04-11 22:45:33
+North America,US,Missouri,11,0,0,2020-04-11 22:45:33
+North America,US,Indiana,11,0,1,2020-04-11 22:45:33
+North America,US,Colorado,11,0,0,2020-04-11 22:45:33
+North America,US,Alabama,11,0,1,2020-04-11 22:45:33
+North America,US,Alabama,11,0,0,2020-04-11 22:45:33
+North America,US,Georgia,11,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,11,0,0,2020-04-11 22:45:33
+North America,US,Washington,11,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,11,0,1,2020-04-11 22:45:33
+North America,US,Michigan,11,0,1,2020-04-11 22:45:33
+North America,US,Michigan,11,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,11,0,0,2020-04-11 22:45:33
+North America,US,Montana,11,0,0,2020-04-11 22:45:33
+North America,US,Alabama,11,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,11,0,0,2020-04-11 22:45:33
+North America,US,Colorado,11,0,0,2020-04-11 22:45:33
+North America,US,Oregon,11,0,0,2020-04-11 22:45:33
+North America,US,Indiana,11,0,0,2020-04-11 22:45:33
+North America,US,Illinois,11,0,0,2020-04-11 22:45:33
+North America,US,Ohio,11,0,0,2020-04-11 22:45:33
+North America,US,Texas,11,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,11,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,11,0,0,2020-04-11 22:45:33
+North America,US,Georgia,11,0,0,2020-04-11 22:45:33
+South America,Suriname,Suriname,10,4,1,2020-04-11 22:45:13
+North America,US,Texas,10,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,10,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,10,0,0,2020-04-11 22:45:33
+North America,US,Virginia,10,0,0,2020-04-11 22:45:33
+North America,US,Illinois,10,0,1,2020-04-11 22:45:33
+North America,US,Ohio,10,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,10,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,10,0,0,2020-04-11 22:45:33
+North America,US,Georgia,10,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,10,0,0,2020-04-11 22:45:33
+North America,US,Ohio,10,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,10,0,0,2020-04-11 22:45:33
+North America,US,Alabama,10,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,10,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,10,0,0,2020-04-11 22:45:33
+North America,US,Ohio,10,0,2,2020-04-11 22:45:33
+North America,US,Texas,10,0,0,2020-04-11 22:45:33
+North America,US,Nevada,10,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,10,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,10,0,0,2020-04-11 22:45:33
+North America,US,Ohio,10,0,2,2020-04-11 22:45:33
+North America,US,Arkansas,10,0,1,2020-04-11 22:45:33
+North America,US,Ohio,10,0,1,2020-04-11 22:45:33
+North America,US,Wyoming,10,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,10,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,10,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,10,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,10,0,0,2020-04-11 22:45:33
+North America,US,Indiana,10,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,10,0,0,2020-04-11 22:45:33
+North America,US,Maine,10,0,0,2020-04-11 22:45:33
+North America,US,Maryland,10,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,10,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,10,0,0,2020-04-11 22:45:33
+North America,US,Texas,10,0,0,2020-04-11 22:45:33
+North America,US,Illinois,10,0,0,2020-04-11 22:45:33
+North America,US,Alabama,10,0,0,2020-04-11 22:45:33
+North America,US,Oregon,10,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,10,0,0,2020-04-11 22:45:33
+North America,US,Texas,10,0,0,2020-04-11 22:45:33
+North America,US,Iowa,10,0,0,2020-04-11 22:45:33
+North America,US,Texas,10,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,10,0,0,2020-04-11 22:45:33
+North America,US,Georgia,10,0,1,2020-04-11 22:45:33
+North America,US,Alaska,10,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,10,0,0,2020-04-11 22:45:33
+North America,US,Illinois,10,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,10,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,10,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,10,0,0,2020-04-11 22:45:33
+North America,US,Texas,10,0,0,2020-04-11 22:45:33
+North America,US,Georgia,10,0,0,2020-04-11 22:45:33
+North America,US,Virginia,10,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,10,0,1,2020-04-11 22:45:33
+North America,US,Georgia,10,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,10,0,0,2020-04-11 22:45:33
+North America,US,Nevada,10,0,0,2020-04-11 22:45:33
+North America,US,Georgia,10,0,2,2020-04-11 22:45:33
+North America,US,Pennsylvania,10,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,10,0,0,2020-04-11 22:45:33
+North America,US,Texas,9,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,9,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,9,0,0,2020-04-11 22:45:33
+North America,US,Georgia,9,0,0,2020-04-11 22:45:33
+North America,US,Georgia,9,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,9,0,1,2020-04-11 22:45:33
+North America,US,Texas,9,0,1,2020-04-11 22:45:33
+North America,US,Indiana,9,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,9,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,9,0,2,2020-04-11 22:45:33
+North America,US,Virginia,9,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,9,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,9,0,0,2020-04-11 22:45:33
+North America,US,Indiana,9,0,1,2020-04-11 22:45:33
+North America,US,Missouri,9,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,9,0,0,2020-04-11 22:45:33
+North America,US,Georgia,9,0,1,2020-04-11 22:45:33
+North America,US,Minnesota,9,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,9,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,9,0,0,2020-04-11 22:45:33
+Europe,UK,Montserrat,9,0,0,2020-04-11 22:45:13
+North America,US,Georgia,9,0,0,2020-04-11 22:45:33
+North America,US,Colorado,9,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,9,0,0,2020-04-11 22:45:33
+Africa,The Gambia,The Gambia,9,2,1,2020-04-11 22:45:13
+North America,US,Alabama,9,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,9,0,0,2020-04-11 22:45:33
+North America,US,Illinois,9,0,0,2020-04-11 22:45:33
+North America,US,California,9,0,0,2020-04-11 22:45:33
+North America,US,Georgia,9,0,0,2020-04-11 22:45:33
+North America,US,Michigan,9,0,1,2020-04-11 22:45:33
+North America,US,Virginia,9,0,0,2020-04-11 22:45:33
+North America,US,Texas,9,0,0,2020-04-11 22:45:33
+North America,US,Ohio,9,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,9,0,0,2020-04-11 22:45:33
+North America,US,Texas,9,0,0,2020-04-11 22:45:33
+North America,US,Idaho,9,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,9,0,0,2020-04-11 22:45:33
+North America,US,Georgia,9,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,9,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,9,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,9,0,1,2020-04-11 22:45:33
+North America,US,Wisconsin,9,0,0,2020-04-11 22:45:33
+North America,MS Zaandam,MS Zaandam,9,0,2,2020-04-11 22:45:13
+North America,US,Pennsylvania,9,0,0,2020-04-11 22:45:33
+North America,US,Michigan,9,0,0,2020-04-11 22:45:33
+North America,US,Alabama,9,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,9,0,2,2020-04-11 22:45:33
+North America,US,Florida,9,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,9,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,9,0,1,2020-04-11 22:45:33
+North America,US,Indiana,9,0,1,2020-04-11 22:45:33
+North America,US,Texas,9,0,0,2020-04-11 22:45:33
+North America,US,Maine,9,0,0,2020-04-11 22:45:33
+North America,US,Georgia,9,0,0,2020-04-11 22:45:33
+Asia,Nepal,Nepal,9,1,0,2020-04-11 22:45:13
+North America,US,Virginia,9,0,0,2020-04-11 22:45:33
+North America,US,Georgia,9,0,1,2020-04-11 22:45:33
+North America,US,Wisconsin,9,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,9,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,9,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,9,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,9,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,8,0,0,2020-04-11 22:45:33
+North America,US,Georgia,8,0,0,2020-04-11 22:45:33
+North America,US,Alabama,8,0,0,2020-04-11 22:45:33
+North America,US,Kansas,8,0,1,2020-04-11 22:45:33
+North America,US,Kansas,8,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,8,0,0,2020-04-11 22:45:33
+North America,US,Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,Vermont,8,0,0,2020-04-11 22:45:33
+North America,US,Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,8,0,0,2020-04-11 22:45:33
+North America,US,Montana,8,0,1,2020-04-11 22:45:33
+North America,US,Washington,8,0,0,2020-04-11 22:45:33
+North America,US,Indiana,8,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,8,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,8,0,0,2020-04-11 22:45:33
+North America,US,Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,Vermont,8,0,0,2020-04-11 22:45:33
+North America,US,Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,8,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,8,0,0,2020-04-11 22:45:33
+North America,US,Arizona,8,0,0,2020-04-11 22:45:33
+North America,US,Utah,8,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,8,0,0,2020-04-11 22:45:33
+North America,US,Alabama,8,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,8,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,8,0,0,2020-04-11 22:45:33
+North America,US,Maryland,8,0,0,2020-04-11 22:45:33
+North America,US,California,8,0,0,2020-04-11 22:45:33
+North America,US,Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,8,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,8,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,8,0,1,2020-04-11 22:45:33
+North America,US,Alabama,8,0,0,2020-04-11 22:45:33
+North America,US,Illinois,8,0,0,2020-04-11 22:45:33
+North America,Nicaragua,Nicaragua,8,0,1,2020-04-11 22:45:13
+North America,US,Texas,8,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,8,0,0,2020-04-11 22:45:33
+North America,US,Texas,8,0,0,2020-04-11 22:45:33
+North America,US,Michigan,8,0,0,2020-04-11 22:45:33
+North America,US,Idaho,8,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,8,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,8,0,0,2020-04-11 22:45:33
+North America,US,Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,8,0,1,2020-04-11 22:45:33
+North America,US,Louisiana,8,0,0,2020-04-11 22:45:33
+North America,US,Ohio,8,0,0,2020-04-11 22:45:33
+North America,US,Illinois,8,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,8,0,0,2020-04-11 22:45:33
+North America,US,Ohio,8,0,0,2020-04-11 22:45:33
+North America,Canada,Yukon,8,0,0,2020-04-11 22:52:28
+North America,US,Indiana,8,0,1,2020-04-11 22:45:33
+Europe,Holy See,Holy See,8,2,0,2020-04-11 22:45:13
+North America,US,Missouri,8,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,Texas,8,0,0,2020-04-11 22:45:33
+North America,US,Ohio,8,0,0,2020-04-11 22:45:33
+North America,US,Michigan,8,0,1,2020-04-11 22:45:33
+North America,US,Georgia,8,0,0,2020-04-11 22:45:33
+North America,US,Texas,8,0,0,2020-04-11 22:45:33
+North America,US,Michigan,8,0,0,2020-04-11 22:45:33
+Africa,Cabo Verde,Cabo Verde,8,1,1,2020-04-11 22:45:13
+Europe,UK,Turks and Caicos Islands,8,0,1,2020-04-11 22:45:13
+North America,US,Ohio,8,0,1,2020-04-11 22:45:33
+Africa,Central African Republic,Central African Republic,8,0,0,2020-04-11 22:45:13
+North America,US,Iowa,8,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,8,0,0,2020-04-11 22:45:33
+North America,US,Illinois,8,0,1,2020-04-11 22:45:33
+North America,US,Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,Alabama,8,0,1,2020-04-11 22:45:33
+North America,US,Wisconsin,8,0,0,2020-04-11 22:45:33
+Africa,Sierra Leone,Sierra Leone,8,0,0,2020-04-11 22:45:13
+North America,US,Kentucky,8,0,0,2020-04-11 22:45:33
+North America,US,Virginia,8,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,8,0,0,2020-04-11 22:45:33
+North America,US,Missouri,8,0,0,2020-04-11 22:45:33
+North America,US,Texas,7,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,7,0,0,2020-04-11 22:45:33
+North America,US,Georgia,7,0,1,2020-04-11 22:45:33
+North America,US,Alabama,7,0,0,2020-04-11 22:45:33
+North America,US,Texas,7,0,1,2020-04-11 22:45:33
+North America,US,Florida,7,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,7,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,7,0,0,2020-04-11 22:45:33
+North America,US,Virginia,7,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,7,0,0,2020-04-11 22:45:33
+North America,US,Montana,7,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,7,0,0,2020-04-11 22:45:33
+North America,US,Missouri,7,0,0,2020-04-11 22:45:33
+North America,US,Indiana,7,0,0,2020-04-11 22:45:33
+North America,US,Alabama,7,0,0,2020-04-11 22:45:33
+North America,US,Texas,7,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,7,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,7,0,0,2020-04-11 22:45:33
+Africa,Mauritania,Mauritania,7,2,1,2020-04-11 22:45:13
+North America,US,Iowa,7,0,0,2020-04-11 22:45:33
+North America,US,Iowa,7,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,7,0,0,2020-04-11 22:45:33
+North America,US,Indiana,7,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,7,0,0,2020-04-11 22:45:33
+North America,US,Texas,7,0,0,2020-04-11 22:45:33
+North America,US,Iowa,7,0,0,2020-04-11 22:45:33
+North America,US,Texas,7,0,1,2020-04-11 22:45:33
+North America,US,Maine,7,0,0,2020-04-11 22:45:33
+North America,US,Michigan,7,0,1,2020-04-11 22:45:33
+North America,US,Minnesota,7,0,1,2020-04-11 22:45:33
+North America,US,Texas,7,0,0,2020-04-11 22:45:33
+North America,US,Missouri,7,0,1,2020-04-11 22:45:33
+North America,US,Georgia,7,0,2,2020-04-11 22:45:33
+North America,US,Georgia,7,0,1,2020-04-11 22:45:33
+North America,US,New Mexico,7,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,7,0,0,2020-04-11 22:45:33
+North America,US,Kansas,7,0,1,2020-04-11 22:45:33
+North America,US,Illinois,7,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,7,0,0,2020-04-11 22:45:33
+North America,US,Idaho,7,0,1,2020-04-11 22:45:33
+North America,US,Virginia,7,0,0,2020-04-11 22:45:33
+North America,US,Texas,7,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,7,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,7,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,7,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,7,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,7,0,1,2020-04-11 22:45:33
+North America,US,Virginia,7,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,7,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,7,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,7,0,0,2020-04-11 22:45:33
+North America,US,Georgia,7,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,7,0,0,2020-04-11 22:45:33
+North America,US,Michigan,7,0,0,2020-04-11 22:45:33
+North America,US,Oregon,7,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,7,0,0,2020-04-11 22:45:33
+North America,US,Iowa,7,0,0,2020-04-11 22:45:33
+North America,US,Texas,7,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,7,0,1,2020-04-11 22:45:33
+North America,US,Colorado,7,0,2,2020-04-11 22:45:33
+North America,US,Minnesota,7,0,0,2020-04-11 22:45:33
+North America,US,Montana,7,0,1,2020-04-11 22:45:33
+North America,US,Illinois,7,0,0,2020-04-11 22:45:33
+North America,US,Michigan,7,0,0,2020-04-11 22:45:33
+North America,US,Georgia,7,0,0,2020-04-11 22:45:33
+North America,US,Virginia,7,0,0,2020-04-11 22:45:33
+North America,US,Illinois,7,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,7,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,7,0,0,2020-04-11 22:45:33
+North America,US,Ohio,7,0,0,2020-04-11 22:45:33
+North America,US,Ohio,7,0,0,2020-04-11 22:45:33
+North America,US,California,7,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,7,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,7,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,7,0,1,2020-04-11 22:45:33
+North America,US,Missouri,7,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,7,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,7,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,7,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,7,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,0,2020-04-11 22:45:33
+North America,US,Missouri,6,0,0,2020-04-11 22:45:33
+North America,US,Texas,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,Illinois,6,0,0,2020-04-11 22:45:33
+North America,US,Colorado,6,0,1,2020-04-11 22:45:33
+North America,US,Georgia,6,0,1,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,6,0,1,2020-04-11 22:45:33
+North America,US,Indiana,6,0,1,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,1,2020-04-11 22:45:33
+North America,US,Northern Mariana Islands,6,0,1,2020-04-11 22:45:33
+North America,US,Iowa,6,0,1,2020-04-11 22:45:33
+North America,US,Ohio,6,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,6,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,0,2020-04-11 22:45:33
+North America,US,Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Ohio,6,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,6,0,1,2020-04-11 22:45:33
+North America,US,Missouri,6,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,6,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Missouri,6,0,0,2020-04-11 22:45:33
+North America,US,Texas,6,0,0,2020-04-11 22:45:33
+North America,US,New Hampshire,6,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,6,0,0,2020-04-11 22:45:33
+North America,US,Montana,6,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,6,0,0,2020-04-11 22:45:33
+North America,US,Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,6,0,0,2020-04-11 22:45:33
+North America,US,Iowa,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,Washington,6,0,0,2020-04-11 22:45:33
+North America,US,Missouri,6,0,1,2020-04-11 22:45:33
+North America,US,New York,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,6,0,1,2020-04-11 22:45:33
+North America,US,Ohio,6,0,1,2020-04-11 22:45:33
+North America,US,Florida,6,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,6,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,6,0,1,2020-04-11 22:45:33
+North America,US,Texas,6,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,0,2020-04-11 22:45:33
+North America,US,Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,6,0,2,2020-04-11 22:45:33
+North America,US,North Carolina,6,0,0,2020-04-11 22:45:33
+North America,US,Iowa,6,0,0,2020-04-11 22:45:33
+North America,US,Texas,6,0,0,2020-04-11 22:45:33
+North America,US,Texas,6,0,0,2020-04-11 22:45:33
+North America,US,Texas,6,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,6,0,0,2020-04-11 22:45:33
+North America,US,Alabama,6,0,0,2020-04-11 22:45:33
+North America,US,Nevada,6,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,6,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,Missouri,6,0,0,2020-04-11 22:45:33
+North America,US,Texas,6,0,0,2020-04-11 22:45:33
+North America,US,Kansas,6,0,0,2020-04-11 22:45:33
+North America,US,Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Colorado,6,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,0,2020-04-11 22:45:33
+North America,US,Missouri,6,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,6,0,0,2020-04-11 22:45:33
+North America,US,Idaho,6,0,0,2020-04-11 22:45:33
+North America,US,Iowa,6,0,0,2020-04-11 22:45:33
+North America,US,Kansas,6,0,1,2020-04-11 22:45:33
+North America,US,Iowa,6,0,0,2020-04-11 22:45:33
+North America,US,Iowa,6,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,6,0,0,2020-04-11 22:45:33
+North America,US,Georgia,6,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,6,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,6,0,1,2020-04-11 22:45:33
+North America,US,Alabama,6,0,1,2020-04-11 22:45:33
+North America,US,Alabama,6,0,0,2020-04-11 22:45:33
+North America,US,Illinois,6,0,0,2020-04-11 22:45:33
+North America,US,Illinois,6,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,6,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,6,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,6,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,6,0,0,2020-04-11 22:45:33
+North America,US,Texas,6,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,6,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,Maine,6,0,0,2020-04-11 22:45:33
+North America,US,Colorado,6,0,0,2020-04-11 22:45:33
+North America,US,Colorado,6,0,0,2020-04-11 22:45:33
+North America,US,Michigan,6,0,0,2020-04-11 22:45:33
+North America,US,Virginia,6,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,6,0,0,2020-04-11 22:45:33
+North America,US,Oregon,6,0,0,2020-04-11 22:45:33
+North America,US,Utah,6,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,6,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,6,0,1,2020-04-11 22:45:33
+North America,US,Mississippi,5,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,5,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,5,0,1,2020-04-11 22:45:33
+North America,US,Georgia,5,0,0,2020-04-11 22:45:33
+North America,US,Idaho,5,0,0,2020-04-11 22:45:33
+Asia,Bhutan,Bhutan,5,2,0,2020-04-11 22:45:13
+North America,US,Colorado,5,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,5,0,0,2020-04-11 22:45:33
+North America,US,Idaho,5,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,5,0,0,2020-04-11 22:45:33
+North America,US,Ohio,5,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,5,0,0,2020-04-11 22:45:33
+North America,US,Northern Mariana Islands,5,0,1,2020-04-11 22:45:33
+North America,US,Wyoming,5,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,5,0,1,2020-04-11 22:45:33
+North America,US,Virginia,5,0,0,2020-04-11 22:45:33
+North America,US,Florida,5,0,0,2020-04-11 22:45:33
+North America,US,Indiana,5,0,0,2020-04-11 22:45:33
+North America,US,Kansas,5,0,0,2020-04-11 22:45:33
+North America,US,Indiana,5,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,5,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,5,0,0,2020-04-11 22:45:33
+North America,US,New York,5,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,5,0,0,2020-04-11 22:45:33
+North America,US,California,5,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,5,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,5,0,0,2020-04-11 22:45:33
+North America,US,Illinois,5,0,0,2020-04-11 22:45:33
+North America,US,Virginia,5,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,5,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,5,0,0,2020-04-11 22:45:33
+North America,US,Georgia,5,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,5,0,0,2020-04-11 22:45:33
+North America,US,Missouri,5,0,0,2020-04-11 22:45:33
+North America,US,Indiana,5,0,0,2020-04-11 22:45:33
+North America,US,Illinois,5,0,1,2020-04-11 22:45:33
+North America,US,Texas,5,0,0,2020-04-11 22:45:33
+North America,US,Texas,5,0,0,2020-04-11 22:45:33
+North America,US,Indiana,5,0,0,2020-04-11 22:45:33
+North America,US,Kansas,5,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,5,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,5,0,0,2020-04-11 22:45:33
+North America,US,Illinois,5,0,0,2020-04-11 22:45:33
+North America,US,Ohio,5,0,1,2020-04-11 22:45:33
+North America,US,Colorado,5,0,0,2020-04-11 22:45:33
+Africa,Burundi,Burundi,5,0,0,2020-04-11 22:45:13
+North America,US,Kentucky,5,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,5,0,0,2020-04-11 22:45:33
+North America,US,Indiana,5,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,5,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,5,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,5,0,0,2020-04-11 22:45:33
+North America,US,Virginia,5,0,0,2020-04-11 22:45:33
+North America,US,Florida,5,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,5,0,0,2020-04-11 22:45:33
+North America,US,Georgia,5,0,0,2020-04-11 22:45:33
+North America,US,Colorado,5,0,0,2020-04-11 22:45:33
+North America,US,Texas,5,0,1,2020-04-11 22:45:33
+North America,US,Michigan,5,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,5,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,5,0,0,2020-04-11 22:45:33
+North America,US,Michigan,5,0,0,2020-04-11 22:45:33
+North America,US,Iowa,5,0,0,2020-04-11 22:45:33
+North America,US,Idaho,5,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,5,0,0,2020-04-11 22:45:33
+North America,US,Vermont,5,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,5,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,5,0,0,2020-04-11 22:45:33
+North America,US,Texas,5,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,5,0,0,2020-04-11 22:45:33
+North America,US,Kansas,5,0,0,2020-04-11 22:45:33
+North America,US,Virginia,5,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,5,0,0,2020-04-11 22:45:33
+North America,US,Texas,5,0,0,2020-04-11 22:45:33
+North America,Canada,Northwest Territories,5,0,0,2020-04-11 22:52:28
+North America,US,Texas,5,0,0,2020-04-11 22:45:33
+North America,US,Florida,5,0,0,2020-04-11 22:45:33
+North America,US,Indiana,5,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,5,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,5,0,0,2020-04-11 22:45:33
+North America,US,Georgia,5,0,0,2020-04-11 22:45:33
+North America,US,Montana,5,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,5,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,5,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,5,0,0,2020-04-11 22:45:33
+North America,US,Ohio,5,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,5,0,0,2020-04-11 22:45:33
+Europe,UK,Falkland Islands (Malvinas),5,1,0,2020-04-11 22:45:13
+North America,US,Tennessee,5,0,0,2020-04-11 22:45:33
+North America,US,Oregon,5,0,0,2020-04-11 22:45:33
+North America,US,Kansas,5,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,5,0,0,2020-04-11 22:45:33
+North America,US,Kansas,5,0,0,2020-04-11 22:45:33
+North America,US,Georgia,5,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,5,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,5,0,1,2020-04-11 22:45:33
+North America,US,Michigan,4,0,0,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,Colorado,4,0,1,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,Texas,4,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,4,0,0,2020-04-11 22:45:33
+North America,US,Michigan,4,0,1,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,4,0,0,2020-04-11 22:45:33
+North America,US,Arizona,4,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,4,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,4,0,0,2020-04-11 22:45:33
+North America,US,Illinois,4,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,4,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,4,0,0,2020-04-11 22:45:33
+North America,US,Oregon,4,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,4,0,0,2020-04-11 22:45:33
+North America,US,Texas,4,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,4,0,1,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,California,4,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,4,0,0,2020-04-11 22:45:33
+North America,US,Idaho,4,0,0,2020-04-11 22:45:33
+North America,US,Texas,4,0,1,2020-04-11 22:45:33
+North America,US,Michigan,4,0,0,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,Maryland,4,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,4,0,0,2020-04-11 22:45:33
+North America,US,Michigan,4,0,0,2020-04-11 22:45:33
+North America,US,Colorado,4,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,4,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,4,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,4,0,0,2020-04-11 22:45:33
+Africa,South Sudan,South Sudan,4,0,0,2020-04-11 22:45:13
+North America,US,Kansas,4,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,4,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,California,4,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,4,0,0,2020-04-11 22:45:33
+North America,US,Texas,4,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,4,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,4,0,0,2020-04-11 22:45:33
+North America,US,California,4,0,0,2020-04-11 22:45:33
+North America,US,Washington,4,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,4,0,0,2020-04-11 22:45:33
+North America,US,Michigan,4,0,0,2020-04-11 22:45:33
+North America,US,Hawaii,4,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Idaho,4,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,4,0,1,2020-04-11 22:45:33
+North America,US,South Carolina,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,4,0,0,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,4,0,0,2020-04-11 22:45:33
+Africa,Western Sahara,Western Sahara,4,0,0,2020-04-11 22:45:13
+North America,US,Indiana,4,0,0,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,4,0,1,2020-04-11 22:45:33
+North America,US,West Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Georgia,4,0,0,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,4,0,0,2020-04-11 22:45:33
+North America,US,Georgia,4,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,4,0,0,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,Michigan,4,0,0,2020-04-11 22:45:33
+North America,US,Michigan,4,0,0,2020-04-11 22:45:33
+North America,US,Alabama,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Alabama,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Iowa,4,0,0,2020-04-11 22:45:33
+North America,US,Montana,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,4,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,4,0,1,2020-04-11 22:45:33
+North America,US,Iowa,4,0,0,2020-04-11 22:45:33
+North America,US,Idaho,4,0,0,2020-04-11 22:45:33
+North America,US,Illinois,4,0,0,2020-04-11 22:45:33
+North America,US,Oregon,4,0,0,2020-04-11 22:45:33
+Africa,Sao Tome and Principe,Sao Tome and Principe,4,0,0,2020-04-11 22:45:13
+North America,US,Texas,4,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Alabama,4,0,0,2020-04-11 22:45:33
+North America,US,Kansas,4,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,4,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,4,0,0,2020-04-11 22:45:33
+North America,US,Iowa,4,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,4,0,0,2020-04-11 22:45:33
+North America,US,Iowa,4,0,0,2020-04-11 22:45:33
+North America,US,Indiana,4,0,0,2020-04-11 22:45:33
+North America,US,California,4,0,0,2020-04-11 22:45:33
+North America,US,Florida,4,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,4,0,0,2020-04-11 22:45:33
+North America,US,Missouri,4,0,1,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Iowa,4,0,0,2020-04-11 22:45:33
+North America,US,Florida,4,0,1,2020-04-11 22:45:33
+North America,US,Ohio,4,0,0,2020-04-11 22:45:33
+North America,US,Texas,4,0,0,2020-04-11 22:45:33
+North America,US,Michigan,4,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,4,0,0,2020-04-11 22:45:33
+North America,US,Indiana,4,0,0,2020-04-11 22:45:33
+North America,US,Michigan,4,0,1,2020-04-11 22:45:33
+North America,US,Ohio,4,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,4,0,0,2020-04-11 22:45:33
+North America,US,Iowa,4,0,0,2020-04-11 22:45:33
+North America,US,Maryland,4,0,0,2020-04-11 22:45:33
+North America,US,Georgia,4,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,4,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,4,0,1,2020-04-11 22:45:33
+North America,US,Illinois,4,0,1,2020-04-11 22:45:33
+North America,US,Illinois,4,0,0,2020-04-11 22:45:33
+North America,US,Iowa,4,0,0,2020-04-11 22:45:33
+North America,US,Oregon,4,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,4,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,4,0,0,2020-04-11 22:45:33
+North America,US,Texas,4,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,4,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,4,0,0,2020-04-11 22:45:33
+North America,US,Kansas,4,0,0,2020-04-11 22:45:33
+North America,US,Ohio,4,0,1,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Idaho,4,0,0,2020-04-11 22:45:33
+North America,US,Maine,4,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,4,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,4,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,4,0,1,2020-04-11 22:45:33
+North America,US,Missouri,4,0,0,2020-04-11 22:45:33
+North America,US,Colorado,4,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,4,0,0,2020-04-11 22:45:33
+North America,US,Colorado,4,0,0,2020-04-11 22:45:33
+North America,US,Texas,4,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,4,0,0,2020-04-11 22:45:33
+North America,US,Colorado,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,1,2020-04-11 22:45:33
+North America,US,Iowa,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,3,0,0,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Indiana,3,0,0,2020-04-11 22:45:33
+North America,US,Illinois,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Ohio,3,0,0,2020-04-11 22:45:33
+North America,US,Vermont,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Montana,3,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,3,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,3,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,1,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,1,2020-04-11 22:45:33
+North America,US,Indiana,3,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,3,0,0,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,0,2020-04-11 22:45:33
+North America,US,Ohio,3,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Indiana,3,0,0,2020-04-11 22:45:33
+North America,US,Iowa,3,0,0,2020-04-11 22:45:33
+North America,US,Montana,3,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,Iowa,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,3,0,0,2020-04-11 22:45:33
+North America,US,Missouri,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,Montana,3,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,3,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,Maine,3,0,0,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,Ohio,3,0,1,2020-04-11 22:45:33
+North America,US,California,3,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Arizona,3,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Illinois,3,0,0,2020-04-11 22:45:33
+North America,US,Missouri,3,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,Oregon,3,0,0,2020-04-11 22:45:33
+North America,US,Montana,3,0,0,2020-04-11 22:45:33
+North America,US,South Carolina,3,0,1,2020-04-11 22:45:33
+North America,US,Florida,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,New York,3,0,0,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Missouri,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Utah,3,0,0,2020-04-11 22:45:33
+North America,US,Illinois,3,0,0,2020-04-11 22:45:33
+North America,US,Illinois,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,California,3,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,3,0,0,2020-04-11 22:45:33
+North America,US,Ohio,3,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,3,0,0,2020-04-11 22:45:33
+North America,US,Missouri,3,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,3,0,0,2020-04-11 22:45:33
+North America,US,Montana,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Iowa,3,0,0,2020-04-11 22:45:33
+North America,US,Idaho,3,0,0,2020-04-11 22:45:33
+North America,US,Missouri,3,0,0,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Colorado,3,0,0,2020-04-11 22:45:33
+North America,US,Iowa,3,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,3,0,0,2020-04-11 22:45:33
+North America,US,Alabama,3,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,3,0,0,2020-04-11 22:45:33
+North America,US,Michigan,3,0,2,2020-04-11 22:45:33
+North America,US,North Carolina,3,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,3,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,3,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,3,0,0,2020-04-11 22:45:33
+Europe,UK,Anguilla,3,0,0,2020-04-11 22:45:13
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,Illinois,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Indiana,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,3,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,3,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,3,0,0,2020-04-11 22:45:33
+North America,US,Oregon,3,0,0,2020-04-11 22:45:33
+North America,US,Colorado,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+Europe,UK,British Virgin Islands,3,2,0,2020-04-11 22:45:13
+North America,US,South Dakota,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,3,0,0,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Washington,3,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,3,0,0,2020-04-11 22:45:33
+North America,US,Illinois,3,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Indiana,3,0,0,2020-04-11 22:45:33
+North America,US,Missouri,3,0,1,2020-04-11 22:45:33
+North America,US,Illinois,3,0,1,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,Illinois,3,0,0,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,Missouri,3,0,0,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,Michigan,3,0,1,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Illinois,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,1,2020-04-11 22:45:33
+North America,US,Ohio,3,0,0,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Alabama,3,0,0,2020-04-11 22:45:33
+North America,US,Florida,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,3,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,3,0,0,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,3,0,0,2020-04-11 22:45:33
+North America,US,Idaho,3,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,3,0,0,2020-04-11 22:45:33
+North America,US,Utah,3,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,3,0,0,2020-04-11 22:45:33
+North America,US,Missouri,3,0,0,2020-04-11 22:45:33
+North America,US,Indiana,3,0,1,2020-04-11 22:45:33
+North America,US,North Carolina,3,0,0,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Virginia,3,0,0,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,3,0,1,2020-04-11 22:45:33
+North America,US,Kansas,3,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,3,0,0,2020-04-11 22:45:33
+North America,US,Texas,3,0,0,2020-04-11 22:45:33
+North America,US,Iowa,3,0,0,2020-04-11 22:45:33
+North America,US,Georgia,3,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Washington,2,0,0,2020-04-11 22:45:33
+Europe,Netherlands,"Bonaire, Sint Eustatius and Saba",2,0,0,2020-04-11 22:45:13
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Colorado,2,0,0,2020-04-11 22:45:33
+North America,US,Colorado,2,0,0,2020-04-11 22:45:33
+North America,US,Ohio,2,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,2,0,0,2020-04-11 22:45:33
+North America,US,Illinois,2,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,2,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,2,0,0,2020-04-11 22:45:33
+North America,US,Indiana,2,0,1,2020-04-11 22:45:33
+Asia,Timor-Leste,Timor-Leste,2,1,0,2020-04-11 22:45:13
+North America,US,Georgia,2,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,2,0,0,2020-04-11 22:45:33
+North America,US,New York,2,0,0,2020-04-11 22:45:33
+North America,US,Idaho,2,0,0,2020-04-11 22:45:33
+North America,US,Illinois,2,0,0,2020-04-11 22:45:33
+Australia,Papua New Guinea,Papua New Guinea,2,0,0,2020-04-11 22:45:13
+North America,US,North Carolina,2,0,1,2020-04-11 22:45:33
+North America,US,Florida,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Illinois,2,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Colorado,2,0,0,2020-04-11 22:45:33
+North America,US,Illinois,2,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,2,0,0,2020-04-11 22:45:33
+North America,US,Montana,2,0,0,2020-04-11 22:45:33
+North America,US,Ohio,2,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,2,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,2,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,2,0,1,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,Florida,2,0,0,2020-04-11 22:45:33
+North America,US,Ohio,2,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,2,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,2,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,2,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,2,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,2,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,2,0,1,2020-04-11 22:45:33
+North America,US,Oklahoma,2,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,2,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,2,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,2,0,0,2020-04-11 22:45:33
+North America,US,Illinois,2,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,2,0,0,2020-04-11 22:45:33
+North America,US,Illinois,2,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,2,0,0,2020-04-11 22:45:33
+North America,US,Colorado,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,2,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,2,0,0,2020-04-11 22:45:33
+North America,US,Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Illinois,2,0,0,2020-04-11 22:45:33
+North America,US,Michigan,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Indiana,2,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,2,0,0,2020-04-11 22:45:33
+North America,US,Missouri,2,0,0,2020-04-11 22:45:33
+North America,US,Oregon,2,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Missouri,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,2,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Washington,2,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,2,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,2,0,0,2020-04-11 22:45:33
+North America,US,Utah,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,2,0,0,2020-04-11 22:45:33
+North America,US,Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Georgia,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,New Hampshire,2,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,2,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,2,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Idaho,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Missouri,2,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Georgia,2,0,0,2020-04-11 22:45:33
+North America,US,Maine,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,California,2,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,2,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,2,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,2,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,2,0,0,2020-04-11 22:45:33
+North America,US,Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,2,0,0,2020-04-11 22:45:33
+North America,US,Florida,2,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,2,0,0,2020-04-11 22:45:33
+North America,US,Idaho,2,0,0,2020-04-11 22:45:33
+North America,US,Missouri,2,0,0,2020-04-11 22:45:33
+North America,US,Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Arizona,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,2,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,2,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,2,0,0,2020-04-11 22:45:33
+North America,US,Arizona,2,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,2,0,0,2020-04-11 22:45:33
+North America,US,Florida,2,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,2,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Utah,2,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,2,0,0,2020-04-11 22:45:33
+North America,US,Georgia,2,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,Florida,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Iowa,2,0,0,2020-04-11 22:45:33
+North America,US,California,2,0,0,2020-04-11 22:45:33
+North America,US,Missouri,2,0,0,2020-04-11 22:45:33
+North America,US,Georgia,2,0,1,2020-04-11 22:45:33
+North America,US,Idaho,2,0,0,2020-04-11 22:45:33
+North America,US,Colorado,2,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,2,0,0,2020-04-11 22:45:33
+North America,US,Illinois,2,0,0,2020-04-11 22:45:33
+North America,US,Alabama,2,0,0,2020-04-11 22:45:33
+North America,US,Ohio,2,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,2,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Georgia,2,0,0,2020-04-11 22:45:33
+North America,US,Missouri,2,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,2,0,0,2020-04-11 22:45:33
+North America,US,Mississippi,2,0,0,2020-04-11 22:45:33
+North America,US,Hawaii,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,2,0,1,2020-04-11 22:45:33
+North America,US,Alaska,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,2,0,0,2020-04-11 22:45:33
+North America,US,Missouri,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Indiana,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Idaho,2,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,2,0,0,2020-04-11 22:45:33
+North America,US,Michigan,2,0,0,2020-04-11 22:45:33
+North America,US,Michigan,2,0,0,2020-04-11 22:45:33
+North America,US,Missouri,2,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,2,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,2,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,2,0,0,2020-04-11 22:45:33
+North America,US,Texas,2,0,0,2020-04-11 22:45:33
+North America,US,Florida,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,2,0,0,2020-04-11 22:45:33
+North America,US,Ohio,2,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Montana,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+Asia,Yemen,Yemen,1,0,0,2020-04-11 22:45:13
+North America,US,North Dakota,1,0,1,2020-04-11 22:45:33
+North America,US,Vermont,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,1,0,0,2020-04-11 22:45:33
+North America,US,Michigan,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Oregon,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Tennessee,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Utah,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Colorado,1,0,0,2020-04-11 22:45:33
+North America,US,Montana,1,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Idaho,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Utah,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Washington,1,0,0,2020-04-11 22:45:33
+North America,US,Oregon,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Alaska,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Georgia,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Idaho,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Idaho,1,0,0,2020-04-11 22:45:33
+North America,US,Louisiana,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Colorado,1,0,1,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Alaska,1,0,0,2020-04-11 22:45:33
+North America,US,Montana,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,California,1,0,0,2020-04-11 22:45:33
+North America,US,North Carolina,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Georgia,1,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,California,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,1,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,1,0,0,2020-04-11 22:45:33
+North America,US,Washington,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Oregon,1,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,1,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,1,2020-04-11 22:45:33
+North America,US,Oregon,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Florida,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Montana,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Washington,1,0,0,2020-04-11 22:45:33
+North America,US,Georgia,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Michigan,1,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,1,0,0,2020-04-11 22:45:33
+North America,US,Washington,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Nevada,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Florida,1,0,0,2020-04-11 22:45:33
+North America,US,Montana,1,0,0,2020-04-11 22:45:33
+North America,US,Colorado,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Ohio,1,0,0,2020-04-11 22:45:33
+North America,US,Nevada,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,Michigan,1,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Montana,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Michigan,1,0,1,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,Montana,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Indiana,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Ohio,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,1,2020-04-11 22:45:33
+North America,US,North Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Wyoming,1,0,0,2020-04-11 22:45:33
+North America,US,Ohio,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,New Mexico,1,0,0,2020-04-11 22:45:33
+North America,US,Montana,1,0,0,2020-04-11 22:45:33
+North America,US,Colorado,1,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Michigan,1,0,0,2020-04-11 22:45:33
+North America,US,Colorado,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Colorado,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Indiana,1,0,0,2020-04-11 22:45:33
+North America,US,Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Colorado,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Florida,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,South Dakota,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,1,2020-04-11 22:45:33
+North America,US,Alaska,1,0,0,2020-04-11 22:45:33
+North America,US,Missouri,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Maine,1,0,0,2020-04-11 22:45:33
+North America,US,Alaska,1,0,0,2020-04-11 22:45:33
+North America,US,Ohio,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Iowa,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Florida,1,0,0,2020-04-11 22:45:33
+North America,US,Michigan,1,0,0,2020-04-11 22:45:33
+North America,US,Illinois,1,0,0,2020-04-11 22:45:33
+North America,US,Arkansas,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,1,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Pennsylvania,1,0,0,2020-04-11 22:45:33
+North America,US,Nebraska,1,0,0,2020-04-11 22:45:33
+North America,US,Georgia,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Oklahoma,1,0,0,2020-04-11 22:45:33
+North America,US,Kentucky,1,0,0,2020-04-11 22:45:33
+North America,US,Wisconsin,1,0,0,2020-04-11 22:45:33
+North America,US,Idaho,1,0,0,2020-04-11 22:45:33
+North America,US,Minnesota,1,0,0,2020-04-11 22:45:33
+North America,US,Kansas,1,0,0,2020-04-11 22:45:33
+North America,US,Texas,1,0,0,2020-04-11 22:45:33
+North America,US,West Virginia,0,0,1,2020-04-11 22:45:33
+North America,US,Virginia,0,0,91,2020-04-11 22:45:33
+North America,US,New York,0,0,4,2020-04-11 22:45:33
+North America,US,Alaska,0,0,3,2020-04-11 22:45:33
+North America,US,New Hampshire,0,0,19,2020-04-11 22:45:33
+North America,US,Colorado,0,0,1,2020-04-11 22:45:33
+North America,US,Nebraska,0,0,2,2020-04-11 22:45:33
+North America,US,Kansas,0,0,11,2020-04-11 22:45:33
+North America,Canada,Diamond Princess,0,0,1,2020-04-11 22:52:28
+North America,US,Iowa,0,0,6,2020-04-11 22:45:33
+North America,Canada,Recovered,0,6589,0,2020-04-11 22:52:28
+North America,US,Recovered,0,31270,0,2020-04-11 22:45:33
+North America,US,Arizona,0,0,29,2020-04-11 22:45:33
+North America,US,Utah,0,0,5,2020-04-11 22:45:33
 Europe,Spain,Spain,158273,55668,16081,2020-04-10 22:53:48
 Europe,Italy,Italy,147577,30455,18849,2020-04-10 22:53:48
 Europe,France,France,124869,24932,13197,2020-04-10 22:53:48
