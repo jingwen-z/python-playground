@@ -1,4 +1,4 @@
-# Introduction to PySpark
+# Getting to know PySpark
 ## Using Spark in Python
 Creating the connection is as simple as creating an instance of the
 `SparkContext` class. The class constructor takes a few optional arguments that
@@ -120,88 +120,119 @@ file_path = "/usr/local/share/datasets/airports.csv"
 airports = spark.read.csv(file_path, header=True)```
 ```
 
-# Cleaning Data with PySpark
-## Intro to data cleaning with Apache Spark
-> Q: Why perform data cleaning with Spark?<br>
-> A: Problem with typical data systems:
->   * Performance
->   * Organizing data flow
+# Manipulating data
+## Creating columns
+The Spark DataFrame is **immutable** => the columns can't be updated in place.<br>
+Using the `.withColumn()` method, which takes two arguments. First, a string
+with the name of your new column, and second the new column itself.
 
-> Q: Advantages of Spark?<br>
-> A: Scalable, powerful framework for data handling
->   * Spark offers high performance.
->   * Spark allows orderly data flows.
->   * Spark can use strictly defined schemas while ingesting data.
-
-## Spark schemas
-- Define the format of a dataframe
-- May contain various data types: strings, dates, integers, arrays
-- Can filter the garbage data during import
-- Improves read performance
-
-<p align="center">
-  <img alt="spark-schema"
-  src="{{ site.baseurl }}/img/spark-schema.png"/>
-</p>
-
-### Defining a schema
-Creating a defined schema helps with data quality and import performance.
+To overwrite the original DataFrame you must reassign the returned DataFrame
+using the method like so:
 ```python
-# Import the pyspark.sql.types library
-import pyspark.sql.types
-
-# Define a new schema using the StructType method
-people_schema = StructType([
-  # Define a StructField for each field
-  StructField('name', StringType(), nullable=False),
-  StructField('age', IntegerType(), nullable=False),
-  StructField('city', StringType(), nullable=False)
-])
+df = df.withColumn("newCol", df.oldCol + 1)
 ```
 
-## Immutability and lazy processing
-### Lazy processing
-Lazy processing operations will usually return in about the same amount of time
-regardless of the actual quantity of data. Remember that this is due to Spark
-not performing any transformations until an action is requested. 
+## Filtering Data
+The `.filter()` method takes either an expression that would follow the `WHERE`
+clause of a SQL expression as a string, or a Spark Column of boolean
+(True/False) values.
 
 ```python
-# Load the CSV file
-aa_dfw_df = spark.read.format('csv').options(Header=True).load('AA_DFW_2018.csv.gz')
-
-# Add the airport column using the F.lower() method
-aa_dfw_df = aa_dfw_df.withColumn('airport', F.lower(aa_dfw_df['Destination Airport']))
-
-# Drop the Destination Airport column
-aa_dfw_df = aa_dfw_df.drop(aa_dfw_df['Destination Airport'])
-
-# Show the DataFrame
-aa_dfw_df.show()
+flights.filter("air_time > 120").show()
+flights.filter(flights.air_time > 120).show()
 ```
 
-## Understanding Parquet
-### The parquet format
-<p align="center">
-  <img alt="parquet-format"
-  src="{{ site.baseurl }}/img/parquet-format.png"/>
-</p>
+## Selecting
+### `.select()`
+`.select()` method: This method takes multiple arguments - one for each column
+you want to select.
 
-### Working with parquet
-<p align="center">
-  <img alt="read-write-parquet"
-  src="{{ site.baseurl }}/img/read-write-parquet.png"/>
-</p>
+The difference between `.select()` and `.withColumn()`:
+- `.select()` returns only the columns you specify
+- `.withColumn()` returns all the columns of the DataFrame in addition to the
+one you defined
 
-### Parquet and SQL
-The `Parquet` format is a columnar data store, allowing Spark to use predicate
-pushdown. This means Spark will only process the data necessary to complete the
-operations you define versus reading the entire dataset. This gives Spark more
-flexibility in accessing the data and often drastically improves performance on
-large datasets. 
-<p align="center">
-  <img alt="parquet-and-sql"
-  src="{{ site.baseurl }}/img/parquet-and-sql.png"/>
-</p>
+```python
+# Select the first set of columns
+selected1 = flights.select('tailnum', 'origin', 'dest')
+
+# Select the second set of columns
+temp = flights.select(flights.origin, flights.dest, flights.carrier)
+```
+
+### `.alias()` = `AS` or `.selectExpr()`
+```python
+flights.select((flights.air_time/60).alias("duration_hrs"))
+flights.selectExpr("air_time/60 as duration_hrs")
+```
+
+## Aggregating
+```python
+df.groupBy().min("col").show()
+```
+
+```python
+# Average duration of Delta flights
+flights.filter(flights.origin == 'SEA').filter(flights.carrier == 'DL').groupBy().avg('air_time').show()
+
+# Total hours in the air
+flights.withColumn("duration_hrs", flights.air_time/60).groupBy().sum('duration_hrs').show()
+```
+
+## Grouping and Aggregating
+```python
+# Group by tailnum
+by_plane = flights.groupBy("tailnum")
+
+# Number of flights each plane made
+by_plane.count().show()
+
+# Group by origin
+by_origin = flights.groupBy("origin")
+
+# Average duration of flights from PDX and SEA
+by_origin.avg("air_time").show()
+```
+
+`.agg()`: let you pass an aggregate column expression that uses any of the
+aggregate functions from the `pyspark.sql.functions` submodule.
+
+```python
+# Import pyspark.sql.functions as F
+import pyspark.sql.functions as F
+
+# Group by month and dest
+by_month_dest = flights.groupBy('month', 'dest')
+
+# Average departure delay by month and destination
+by_month_dest.avg('dep_delay').show()
+
+# Standard deviation of departure delay
+by_month_dest.agg(F.stddev('dep_delay')).show()
+```
+
+## Joining
+`.join()`: This method takes three arguments.
+- The first is the second DataFrame that you want to join with the first one.
+- The second argument, `on`, is the name of the key column(s) as a string. The
+names of the key column(s) must be the same in each table.
+- The third argument, `how`, specifies the kind of join to perform.
+
+```python
+# Rename the faa column
+airports = airports.withColumnRenamed('faa', 'dest')
+
+# Join the DataFrames
+flights_with_airports = flights.join(airports, on='dest', how='leftouter')
+```
+
+
+
+
+
+
+
+
 
 
 
