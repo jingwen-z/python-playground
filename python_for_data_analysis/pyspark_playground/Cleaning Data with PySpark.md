@@ -17,10 +17,7 @@
 - Can filter the garbage data during import
 - Improves read performance
 
-<p align="center">
-  <img alt="spark-schema"
-  src="{{ site.baseurl }}/img/spark-schema.png"/>
-</p>
+!["spark-schema"](img/spark-schema.png)
 
 ### Defining a schema
 Creating a defined schema helps with data quality and import performance.
@@ -59,16 +56,10 @@ aa_dfw_df.show()
 
 ## Understanding Parquet
 ### The parquet format
-<p align="center">
-  <img alt="parquet-format"
-  src="{{ site.baseurl }}/img/parquet-format.png"/>
-</p>
+!["parquet-format"](img/parquet-format.png)
 
 ### Working with parquet
-<p align="center">
-  <img alt="read-write-parquet"
-  src="{{ site.baseurl }}/img/read-write-parquet.png"/>
-</p>
+!["read-write-parquet"](img/read-write-parquet.png)
 
 ### Parquet and SQL
 The `Parquet` format is a columnar data store, allowing Spark to use predicate
@@ -76,11 +67,83 @@ pushdown. This means Spark will only process the data necessary to complete the
 operations you define versus reading the entire dataset. This gives Spark more
 flexibility in accessing the data and often drastically improves performance on
 large datasets. 
-<p align="center">
-  <img alt="parquet-and-sql"
-  src="{{ site.baseurl }}/img/parquet-and-sql.png"/>
-</p>
 
+!["parquet-and-sql"](img/parquet-and-sql.png)
+
+# Manipulating DataFrames in the real world 
+## Filtering column content with Python
+```python
+# Show the distinct VOTER_NAME entries
+voter_df.select('VOTER_NAME').distinct().show(40, truncate=False)
+
+# Filter voter_df where the VOTER_NAME is 1-20 characters in length
+voter_df = voter_df.filter('length(VOTER_NAME) > 0 and length(VOTER_NAME) < 20')
+
+# Filter out voter_df where the VOTER_NAME contains an underscore
+voter_df = voter_df.filter(~ F.col('VOTER_NAME').contains('_'))
+
+# Show the distinct VOTER_NAME entries again
+voter_df.select('VOTER_NAME').distinct().show(40, truncate=False)
+```
+
+## Modifying DataFrame columns
+```python
+# Add a new column called splits separated on whitespace
+voter_df = voter_df.withColumn('splits', F.split(voter_df.VOTER_NAME, '\s+'))
+
+# Create a new column called first_name based on the first item in splits
+voter_df = voter_df.withColumn('first_name', voter_df.splits.getItem(0))
+
+# Get the last entry of the splits list and create a column called last_name
+voter_df = voter_df.withColumn('last_name', voter_df.splits.getItem(F.size('splits') - 1))
+
+# Drop the splits column
+voter_df = voter_df.drop('splits')
+```
+## Conditional DataFrame column operations
+- `.when(<if condition>, <then x>)`: lets you conditionally modify a Data Frame
+based on its content.
+`.otherwise()` is like `else`
+
+```python
+# method 1
+df.select(df.Name, df.Age,
+          .when(df.Age >= 18, "Adult")
+          .when(df.Age < 18, "Minor"))
+# method 2
+df.select(df.Name, df.Age,
+          .when(df.Age >= 18, "Adult")
+          .otherwise("Minor"))
+```
+
+```python
+# Add a column to voter_df for a voter based on their position
+voter_df = voter_df.withColumn('random_val',
+                               when(voter_df.TITLE == 'Councilmember', F.rand())
+                               .when(voter_df.TITLE == 'Mayor', 2)
+                               .otherwise(0))
+```
+
+## User defined functions
+!["user-defined-functions"](img/udf.png)
+
+## Partitioning and lazy processing
+```python
+# Select all the unique council voters
+voter_df = df.select(df["VOTER NAME"]).distinct()
+
+# Count the rows in voter_df
+print("\nThere are %d rows in the voter_df DataFrame.\n" % voter_df.count())
+
+# Add a ROW_ID
+voter_df = voter_df.withColumn('ROW_ID', F.monotonically_increasing_id())
+
+# Show the rows with 10 highest IDs in the set
+voter_df.orderBy(voter_df.ROW_ID.desc()).show(10)
+```
+
+To check the number of partitions, use the method `.rdd.getNumPartitions()`
+on a DataFrame.
 
 
 
