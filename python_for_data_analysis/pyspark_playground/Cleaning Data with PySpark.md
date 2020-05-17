@@ -103,7 +103,7 @@ voter_df = voter_df.drop('splits')
 ## Conditional DataFrame column operations
 - `.when(<if condition>, <then x>)`: lets you conditionally modify a Data Frame
 based on its content.
-`.otherwise()` is like `else`
+- `.otherwise()` is like `else`
 
 ```python
 # method 1
@@ -144,6 +144,120 @@ voter_df.orderBy(voter_df.ROW_ID.desc()).show(10)
 
 To check the number of partitions, use the method `.rdd.getNumPartitions()`
 on a DataFrame.
+
+# Improving Performance
+## Caching
+> Q: What is caching?<br>
+> A: Caching in Spark:
+>   * Stores DataFrames in memory or on disk
+>   * Improves speed on later transformations / actions
+>   * Reduces resource usage
+
+> Q: Disadvantages of caching<br>
+>   * Very large data sets may not fit in memory
+>   * Local disk based caching may not be a performance improvement
+>   * Cached objects may not be available
+
+Call `.cache()` on the DataFrame before Action:
+```python
+voter_df = voter_df.withColumn('ID', monotonically_increasing_id())
+voter_df = voter_df.cache()
+```
+
+Check `.is_cached` to determine cache status:
+```python
+voter_df.is_cached
+```
+
+Call `.unpersist()` when finished with DataFrame:
+```python
+voter_df.unpersist()
+```
+
+## Improve import performance
+Spark Clusters are made of two types of processes
+- Driver process
+- Worker processes
+
+Important parameters:
+- Number of objects (Files, Network locations, etc)
+  * More objects better than larger ones
+  * Can import via wildcard<br>
+  `airport_df = spark.read.csv('airports-*.txt.gz')`
+- General size of objects
+  * Spark performs better if objects are of similar size
+
+A well-de ned schema will drastically improve import performance
+- Avoids reading the data multiple times
+- Provides validation on import
+
+## Cluster configurations
+!["spark-cluster-driver"](img/spark-cluster-driver.png)
+!["spark-cluster-worker"](img/spark-cluster-worker.png)
+
+```python
+# Check the name of the Spark application instance ('spark.app.name')
+app_name = spark.conf.get('spark.app.name')
+
+# Determine the TCP port the driver runs on ('spark.driver.port')
+driver_tcp_port = spark.conf.get('spark.driver.port')
+
+# Determine how many partitions are configured for joins
+num_partitions = spark.conf.get('spark.sql.shuffle.partitions')
+```
+
+```python
+# Store the number of partitions in variable
+before = departures_df.rdd.getNumPartitions()
+
+# Configure Spark to use 500 partitions
+spark.conf.set('spark.sql.shuffle.partitions', 500)
+
+# Recreate the DataFrame using the departures data file
+departures_df = spark.read.csv('departures.txt.gz').distinct()
+
+# Print the number of partitions for each instance
+print("Partition count before change: %d" % before)
+print("Partition count after change: %d" % departures_df.rdd.getNumPartitions())
+```
+
+## Performance improvements
+> Q: What is shuffling?<br>
+> A: Shuffling refers to moving data around to various workers to complete a task
+>   * Hides complexity from the user
+>   * Can be slow to complete
+>   * Lowers overall throughput
+>   * Is often necessary, but try to minimize
+
+> Q: How to limit shuffling?<br>
+> A:
+>   * Limit use of `.repartition(num_partitions)`
+>   * Use `.coalesce(num_partitions)` instead
+>   * Use care when calling `.join()`
+>   * Use `.broadcast()`
+>   * May not need to limit it
+
+### Using broadcasting on Spark joins
+- Broadcast the smaller DataFrame. The larger the DataFrame, the more time
+required to transfer to the worker nodes.
+- On small DataFrames, it may be better skip broadcasting and let Spark figure
+out any optimization on its own.
+- If you look at the query execution plan, a broadcastHashJoin indicates you've
+successfully configured broadcasting.
+
+```python
+from pyspark.sql.functions import broadcast
+
+# Join the flights_df and airports_df DataFrames using broadcasting
+broadcast_df = flights_df.join(broadcast(airports_df), \
+    flights_df["Destination Airport"] == airports_df["IATA"] )
+```
+
+
+
+
+
+
 
 
 
