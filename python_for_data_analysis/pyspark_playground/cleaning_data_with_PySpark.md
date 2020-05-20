@@ -84,6 +84,11 @@ voter_df = voter_df.filter(~ F.col('VOTER_NAME').contains('_'))
 
 # Show the distinct VOTER_NAME entries again
 voter_df.select('VOTER_NAME').distinct().show(40, truncate=False)
+
+# Count the number of rows beginning with '#'
+comment_count = annotations_df.where(col('_c0').startswith('#')).count()
+comment_count = annotations_df.filter(col('_c0').startswith('#')).count()
+
 ```
 
 ## Modifying DataFrame columns
@@ -253,11 +258,111 @@ broadcast_df = flights_df.join(broadcast(airports_df), \
     flights_df["Destination Airport"] == airports_df["IATA"] )
 ```
 
+# Complex processing and data pipelines 
+## Quick pipeline
+```python
+# Import the data to a DataFrame
+departures_df = spark.read.csv('2015-departures.csv.gz', header=True)
 
+# Remove any duration of 0
+departures_df = departures_df.filter(departures_df['Actual elapsed time (Minutes)'] != 0)
 
+# Add an ID column
+departures_df = departures_df.withColumn('id', F.monotonically_increasing_id())
 
+# Write the file out to JSON format
+departures_df.write.json('output.json', mode='overwrite')
+```
 
+### Removing invalid rows
+```python
+# Split _c0 on the tab character and store the list in a variable
+tmp_fields = F.split(annotations_df['_c0'], '\t')
 
+# Create the colcount column on the DataFrame
+annotations_df = annotations_df.withColumn('colcount', F.size(tmp_fields))
 
+# Remove any rows containing fewer than 5 fields
+annotations_df_filtered = annotations_df.filter(~ (annotations_df['colcount'] >= 5))
 
+# Count the number of rows
+final_count = annotations_df_filtered.count()
+```
 
+### Further parsing
+```python
+def retriever(cols, colcount):
+  # Return a list of dog data
+  return cols[4:colcount]
+
+# Define the method as a UDF
+udfRetriever = F.udf(retriever, ArrayType(StringType()))
+
+# Create a new column using your UDF
+split_df = split_df.withColumn('dog_list', udfRetriever(split_df.split_cols, split_df.colcount))
+
+# Remove the original column, split_cols, and the colcount
+split_df = split_df.drop('_c0').drop('colcount').drop('split_cols')
+```
+
+## Data validation
+Validation is:
+- Verifying that a dataset complies with the expected format
+- Number of rows / columns
+- Data types
+- Complex validation rules
+
+Validating via joins
+- Compares data against known values
+- Easy to  nd data in a given set
+- Comparatively fast
+
+```python
+# Rename the column in valid_folders_df
+valid_folders_df = valid_folders_df.withColumnRenamed('_c0', 'folder')
+
+# Count the number of rows in split_df
+split_count = split_df.count()
+
+# Join the DataFrames
+joined_df = split_df.join(F.broadcast(valid_folders_df), "folder")
+```
+
+```python
+# Create a function to return the number and type of dogs as a tuple
+def dogParse(doglist):
+  dogs = []
+  for dog in doglist:
+    (breed, start_x, start_y, end_x, end_y) = dog.split(',')
+    # dogs.append((str(breed), int(start_x), int(start_y), int(end_x), int(end_y)))
+    dogs.append((breed, int(start_x), int(start_y), int(end_x), int(end_y)))
+  return dogs
+
+# Create a UDF
+udfDogParse = F.udf(dogParse, ArrayType(DogType))
+
+# Use the UDF to list of dogs and drop the old column
+joined_df = joined_df.withColumn('dogs', udfDogParse('dog_list')).drop('dog_list')
+
+# Show the number of dogs in the first 10 rows
+joined_df.select(F.size('dogs')).show(10)
+```
+
+```python
+# Define a UDF to determine the number of pixels per image
+def dogPixelCount(doglist):
+    totalpixels = 0
+    for dog in doglist:
+        totalpixels += (dog[3] - dog[1]) * (dog[4] - dog[2])
+    return totalpixels
+
+# Define a UDF for the pixel count
+udfDogPixelCount = F.udf(dogPixelCount, IntegerType())
+joined_df = joined_df.withColumn('dog_pixels', udfDogPixelCount(joined_df.dogs))
+
+# Create a column representing the percentage of pixels
+joined_df = joined_df.withColumn('dog_percent', (joined_df.dog_pixels / (joined_df.width * joined_df.height)) * 100)
+
+# Show the first 10 annotations with more than 60% dog
+joined_df.filter(joined_df.dog_percent > 60).show(10)
+```
