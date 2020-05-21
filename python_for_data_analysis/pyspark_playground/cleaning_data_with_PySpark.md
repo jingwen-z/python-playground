@@ -21,6 +21,23 @@
 
 ### Defining a schema
 Creating a defined schema helps with data quality and import performance.
+
+**_class_ `pyspark.sql.types.StructType(fields=None)`**<br>
+> Struct type, consisting of a list of `StructField`.<br>
+> This is the data type representing a Row.<br>
+> Iterating a `StructType` will iterate its `StructField`s. A contained
+`StructField` can be accessed by name or position.
+
+**_class_ `pyspark.sql.types.StructField(name, dataType, nullable=True, metadata=None)`**<br>
+> A field in `StructType`.
+>
+> Parameters:<br>
+>   * `name` – string, name of the field.
+>   * `dataType` – DataType of the field.
+>   * `nullable` – boolean, whether the field can be null (None) or not.
+>   * `metadata` – a dict from string to simple type that can be toInternald to
+JSON automatically.
+
 ```python
 # Import the pyspark.sql.types library
 import pyspark.sql.types
@@ -33,6 +50,8 @@ people_schema = StructType([
   StructField('city', StringType(), nullable=False)
 ])
 ```
+
+More info: [`pyspark.sql.types module`][types]
 
 ## Immutability and lazy processing
 ### Lazy processing
@@ -88,10 +107,22 @@ voter_df.select('VOTER_NAME').distinct().show(40, truncate=False)
 # Count the number of rows beginning with '#'
 comment_count = annotations_df.where(col('_c0').startswith('#')).count()
 comment_count = annotations_df.filter(col('_c0').startswith('#')).count()
-
 ```
 
 ## Modifying DataFrame columns
+**`pyspark.sql.functions.split(str, pattern)`**<br>
+> Splits str around pattern (pattern is a regular expression).
+
+**`getItem(key)`**<br>
+> An expression that gets an item at position ordinal out of a list, or gets an
+item by key out of a dict.
+
+**`pyspark.sql.functions.size(col)`**<br>
+> Collection function: returns the length of the array or map stored in the
+column.<br>
+> Parameters:<br>
+> `col` – name of column or expression
+
 ```python
 # Add a new column called splits separated on whitespace
 voter_df = voter_df.withColumn('splits', F.split(voter_df.VOTER_NAME, '\s+'))
@@ -105,6 +136,7 @@ voter_df = voter_df.withColumn('last_name', voter_df.splits.getItem(F.size('spli
 # Drop the splits column
 voter_df = voter_df.drop('splits')
 ```
+
 ## Conditional DataFrame column operations
 - `.when(<if condition>, <then x>)`: lets you conditionally modify a Data Frame
 based on its content.
@@ -130,6 +162,16 @@ voter_df = voter_df.withColumn('random_val',
 ```
 
 ## User defined functions
+
+**`pyspark.sql.functions.udf(f=None, returnType=StringType)`**<br>
+> Creates a user defined function (UDF).<br>
+>
+> Parameters:<br>
+>   * `f` – python function if used as a standalone function
+>   * `returnType` – the return type of the user-defined function. The value
+can be either a `pyspark.sql.types.DataType` object or a DDL-formatted type
+string.
+
 !["user-defined-functions"](img/udf.png)
 
 ## Partitioning and lazy processing
@@ -241,6 +283,20 @@ print("Partition count after change: %d" % departures_df.rdd.getNumPartitions())
 >   * Use care when calling `.join()`
 >   * Use `.broadcast()`
 >   * May not need to limit it
+
+**`repartition(numPartitions, *cols)`**<br>
+> Returns a new DataFrame partitioned by the given partitioning expressions. The
+resulting DataFrame is hash partitioned.<br>
+> Parameters:<br>
+> `numPartitions` – can be an int to specify the target number of partitions or
+a Column. If it is a Column, it will be used as the first partitioning column.
+If not specified, the default number of partitions is used.
+
+**`pyspark.sql.functions.coalesce(*cols)`**<br>
+> Returns the first column that is not null.
+
+**`pyspark.sql.functions.broadcast(df)`**<br>
+> Marks a DataFrame as small enough for use in broadcast joins.
 
 ### Using broadcasting on Spark joins
 - Broadcast the smaller DataFrame. The larger the DataFrame, the more time
@@ -366,3 +422,5 @@ joined_df = joined_df.withColumn('dog_percent', (joined_df.dog_pixels / (joined_
 # Show the first 10 annotations with more than 60% dog
 joined_df.filter(joined_df.dog_percent > 60).show(10)
 ```
+
+[types]: https://spark.apache.org/docs/latest/api/python/pyspark.sql.html?highlight=filter#module-pyspark.sql.types
