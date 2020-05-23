@@ -122,9 +122,20 @@ airports = spark.read.csv(file_path, header=True)```
 
 # Manipulating data
 ## Creating columns
-The Spark DataFrame is **immutable** => the columns can't be updated in place.<br>
+The Spark DataFrame is **immutable** => the columns can't be updated in place.
+
 Using the `.withColumn()` method, which takes two arguments. First, a string
 with the name of your new column, and second the new column itself.
+
+> `withColumn(colName, col)`<br>
+> Returns a new DataFrame by adding a column or replacing the existing column
+that has the same name.<br>
+> The column expression must be an expression over this DataFrame; attempting
+to add a column from some other DataFrame will raise an error.
+>
+> Parameters:
+>   * `colName` – string, name of the new column.
+>   * `col` – a Column expression for the new column.
 
 To overwrite the original DataFrame you must reassign the returned DataFrame
 using the method like so:
@@ -144,6 +155,19 @@ flights.filter(flights.air_time > 120).show()
 
 ## Selecting
 ### `.select()`
+> ` select(*cols)`<br>
+> Projects a set of expressions and returns a new DataFrame.
+>
+> Parameters:<br>
+>   * `cols` – list of column names (string) or expressions (Column). If one of
+the column names is ‘*’, that column is expanded to include all columns in the
+current DataFrame.
+>
+> Examples:<br>
+> - `df.select('*').collect()`
+> - `df.select('name', 'age').collect()`
+> - `df.select(df.name, (df.age + 10).alias('age')).collect()`
+
 `.select()` method: This method takes multiple arguments - one for each column
 you want to select.
 
@@ -180,6 +204,9 @@ flights.withColumn("duration_hrs", flights.air_time/60).groupBy().sum('duration_
 ```
 
 ## Grouping and Aggregating
+> ` count()`<br>
+> Counts the number of records for each group.
+
 ```python
 # Group by tailnum
 by_plane = flights.groupBy("tailnum")
@@ -218,6 +245,19 @@ by_month_dest.agg(F.stddev('dep_delay')).show()
 names of the key column(s) must be the same in each table.
 - The third argument, `how`, specifies the kind of join to perform.
 
+> `join(other, on=None, how=None)`<br>
+> Joins with another DataFrame, using the given join expression.
+>
+> Parameters:<br>
+>   * `other` – Right side of the join
+>   * `on` – a string for the join column name, a list of column names, a join
+expression (Column), or a list of Columns. If on is a string or a list of
+strings indicating the name of the join column(s), the column(s) must exist on
+both sides, and this performs an equi-join.
+>   * `how` – str, default `inner`. Must be one of: `inner`, `cross`, `outer`,
+`full`, `full_outer`, `left`, `left_outer`, `right`, `right_outer`, `left_semi`,
+and `left_anti`.
+
 ```python
 # Rename the faa column
 airports = airports.withColumnRenamed('faa', 'dest')
@@ -226,11 +266,35 @@ airports = airports.withColumnRenamed('faa', 'dest')
 flights_with_airports = flights.join(airports, on='dest', how='leftouter')
 ```
 
+# Getting started with machine learning pipelines
+At the core of the `pyspark.ml` module are the `Transformer` and `Estimator`
+classes. Almost every other class in the module behaves similarly to these two
+basic classes.
 
+`Transformer` classes have a `.transform()` method that takes a DataFrame and
+returns a new DataFrame; usually the original one with a new column appended.
+For example, you might use the class `Bucketizer` to create discrete bins from
+a continuous feature or the class `PCA` to reduce the dimensionality of your
+dataset using principal component analysis.
 
+`Estimator` classes all implement a `.fit()` method. These methods also take a
+DataFrame, but instead of returning another DataFrame they return a model
+object. This can be something like a `StringIndexerModel` for including
+categorical data saved as strings in your models, or a `RandomForestModel` that
+uses the random forest algorithm for classification or regression.
 
+## Data types
+The only argument you need to pass to `.cast()` is the kind of value you want to
+create, in string form.
 
+### String to integer
+To convert the type of a column using the `.cast()` method, you can write code
+like this:<br>
+`dataframe = dataframe.withColumn("col", dataframe.col.cast("new_type"))`
 
+```python
+model_data = model_data.withColumn("arr_delay", model_data.arr_delay.cast('integer'))
+```
 
 
 
