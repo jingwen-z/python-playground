@@ -127,7 +127,7 @@ The Spark DataFrame is **immutable** => the columns can't be updated in place.
 Using the `.withColumn()` method, which takes two arguments. First, a string
 with the name of your new column, and second the new column itself.
 
-> `withColumn(colName, col)`<br>
+**`withColumn(colName, col)`**
 > Returns a new DataFrame by adding a column or replacing the existing column
 that has the same name.<br>
 > The column expression must be an expression over this DataFrame; attempting
@@ -155,7 +155,7 @@ flights.filter(flights.air_time > 120).show()
 
 ## Selecting
 ### `.select()`
-> ` select(*cols)`<br>
+**`select(*cols)`**
 > Projects a set of expressions and returns a new DataFrame.
 >
 > Parameters:<br>
@@ -245,7 +245,7 @@ by_month_dest.agg(F.stddev('dep_delay')).show()
 names of the key column(s) must be the same in each table.
 - The third argument, `how`, specifies the kind of join to perform.
 
-> `join(other, on=None, how=None)`<br>
+**`join(other, on=None, how=None)`**
 > Joins with another DataFrame, using the given join expression.
 >
 > Parameters:<br>
@@ -295,9 +295,3 @@ like this:<br>
 ```python
 model_data = model_data.withColumn("arr_delay", model_data.arr_delay.cast('integer'))
 ```
-
-
-
-
-
-
