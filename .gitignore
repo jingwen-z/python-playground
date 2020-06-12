@@ -125,6 +125,10 @@ plotting_and_visualization/2017-2018/*.png
 !analysis/2019_nCoV/DXYArea_supplement.csv
 !analysis/2019_nCoV/DXY_Country.csv
 !python_for_data_analysis/pyspark_playground/img/*.png
+!sending_mail_by_python/test_df.csv
 
 # folders
 memory/
+
+# scripts
+sending_mail_by_python/sending_mail_real_smtp_test.py
