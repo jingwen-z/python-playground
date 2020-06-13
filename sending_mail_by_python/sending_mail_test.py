@@ -2,7 +2,16 @@
 import unittest
 from unittest.mock import patch, call
 
+import pandas as pd
+
 from sending_mail_by_python import sending_mail as target
+
+data = {'state': ['Ohio', 'Ohio', 'Nevada', 'Nevada'],
+        'Year': [2000, 2001, 2000, 2001],
+        'pop': [1.5, 1.7, 2.4, 2.9]}
+
+df = pd.DataFrame(data)
+df.to_csv('test_df.csv', index=False)
 
 
 class SendEmailTests(unittest.TestCase):
