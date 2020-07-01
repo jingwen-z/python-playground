@@ -120,6 +120,9 @@ plotting_and_visualization/2017-2018/*.png
 *.xlsx
 *.gif
 *.pdf
+*.jpg
+*.png
+*.properties
 
 # not ignore following files
 !analysis/2019_nCoV/DXYArea_supplement.csv
