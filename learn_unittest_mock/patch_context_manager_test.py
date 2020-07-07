@@ -4,7 +4,7 @@
 import unittest
 from unittest.mock import patch
 
-from learn_mock import get_holidays
+from ..learn_mock import get_holidays
 from requests.exceptions import Timeout
 
 
