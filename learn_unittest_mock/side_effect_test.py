@@ -4,8 +4,6 @@ from unittest.mock import Mock
 import requests
 from requests.exceptions import Timeout
 
-requests = Mock()
-
 
 def get_holidays():
     r = requests.get('http://localhost/api/holidays')
@@ -14,7 +12,10 @@ def get_holidays():
     return None
 
 
-class TestSideEffect(unittest.TestCase):
+requests = Mock()
+
+
+class SideEffectTest(unittest.TestCase):
     def test_side_effect(self):
         mock = Mock()
         mock.side_effect = [3, 2, 1]
