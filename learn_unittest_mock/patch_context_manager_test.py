@@ -4,16 +4,17 @@
 import unittest
 from unittest.mock import patch
 
-from learn_unittest_mock.learn_mock import get_holidays
+import learn_unittest_mock.learn_mock
+# from learn_unittest_mock.learn_mock import get_holidays
 from requests.exceptions import Timeout
 
 
 class PatchContextManagerTest(unittest.TestCase):
     def test_context_manager(self):
-        with patch('learn_mock.requests') as mock_requests:
+        with patch('learn_unittest_mock.learn_mock.requests') as mock_requests:
             mock_requests.get.side_effect = Timeout
             with self.assertRaises(Timeout):
-                get_holidays()
+                learn_unittest_mock.learn_mock.get_holidays()
 
             mock_requests.get.asser_called_once()
 
