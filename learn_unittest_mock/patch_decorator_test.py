@@ -4,16 +4,17 @@
 import unittest
 from unittest.mock import patch
 
-from learn_mock import get_holidays
 from requests.exceptions import Timeout
+
+import learn_unittest_mock.learn_mock
 
 
 class PatchDecoratorTest(unittest.TestCase):
-    @patch('learn_mock.requests')
+    @patch('learn_unittest_mock.learn_mock.requests')
     def test_get_holiday(self, mock_requests):
         mock_requests.get.side_effect = Timeout
         with self.assertRaises(Timeout):
-            get_holidays()
+            learn_unittest_mock.learn_mock.get_holidays()
 
         mock_requests.get.assert_called_once()
 

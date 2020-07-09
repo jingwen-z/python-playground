@@ -4,9 +4,9 @@
 import unittest
 from unittest.mock import patch
 
-import learn_unittest_mock.learn_mock
-# from learn_unittest_mock.learn_mock import get_holidays
 from requests.exceptions import Timeout
+
+import learn_unittest_mock.learn_mock
 
 
 class PatchContextManagerTest(unittest.TestCase):
