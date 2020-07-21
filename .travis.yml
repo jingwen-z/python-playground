@@ -7,4 +7,4 @@
 
 language: python
 install: pip install tox
-script: tox
+script: tox.ini

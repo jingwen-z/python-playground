@@ -22,5 +22,6 @@ seaborn
 sklearn
 sqlalchemy
 statsmodels
+tox==3.18.0
 tweepy
 urlopen
