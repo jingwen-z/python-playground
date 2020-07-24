@@ -6,7 +6,10 @@
 #  - python -m unittest discover --verbose . "*_test.py"
 
 language: python
-python: 3.7
-env: TOXENV=py37
-install: pip install tox
-script: tox
+python: 3.6
+env:
+  - TOXENV=py36
+install:
+  - pip install tox
+script:
+  - tox
