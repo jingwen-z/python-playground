@@ -10,7 +10,7 @@ matplotlib==2.1.0
 mailer==0.8.1
 mglearn==0.1.6
 mlxtend==0.9.1
-numpy==1.13.3
+numpy
 pandas==0.20.3
 patsy==0.5.1
 plotly==4.8.0
