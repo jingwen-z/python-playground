@@ -132,6 +132,7 @@ plotting_and_visualization/2017-2018/*.png
 
 # folders
 memory/
+python_for_data_analysis/pyspark_playground/jovyan/
 
 # scripts
 sending_mail_by_python/sending_mail_real_smtp_test.py
