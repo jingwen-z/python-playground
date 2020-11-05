@@ -86,6 +86,7 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
+_venv/
 
 # Spyder project settings
 .spyderproject
@@ -136,3 +137,4 @@ python_for_data_analysis/pyspark_playground/jovyan/
 
 # scripts
 sending_mail_by_python/sending_mail_real_smtp_test.py
+get-pip.py
