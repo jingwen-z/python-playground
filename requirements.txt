@@ -14,7 +14,6 @@ cligj==0.7.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-GDAL==2.4.2
 geopandas==0.8.1
 Shapely==1.7.1
 Fiona==1.8.17
@@ -45,7 +44,7 @@ nbconvert==6.0.7
 nbformat==5.0.8
 nest-asyncio==1.4.2
 notebook==6.1.5
-numpy
+numpy==1.15.4
 packaging==20.4
 pandas==1.1.4
 pandocfilters==1.4.3
