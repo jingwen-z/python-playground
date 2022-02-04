@@ -24,3 +24,22 @@
 #
 # Constraints:
 # 1 <= bad <= n <= 2**31 - 1
+
+class Solution:
+    def firstBadVersion(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        if n == 1:
+            return 1
+        else:
+            l, r = 1, n
+
+            while l < r:
+                m = l + (r - l) // 2
+                if isBadVersion(m):
+                    r = m
+                elif isBadVersion(m) == False:
+                    l = m + 1
+            return l
