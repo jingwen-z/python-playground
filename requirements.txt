@@ -71,7 +71,7 @@ six==1.15.0
 sklearn==0.0
 terminado==0.9.1
 testpath==0.4.4
-tornado==6.3.2
+tornado==6.3.3
 tox==3.18.0
 traitlets>=4.3.3
 urllib3==1.26.5
